@@ -1,0 +1,13 @@
+﻿task,eval_type,zh_en_prompt_version,en_zh_prompt_version,rows,csv_file
+task1,en_zh,v1,v1,6,task1_en_zh_v1_v1.csv
+task1,zh_en,v1,v1,6,task1_zh_en_v1_v1.csv
+task1,zh_zh,v1,v1,6,task1_zh_zh_v1_v1.csv
+task2,en_zh,v3,v1,6,task2_en_zh_v3_v1.csv
+task2,en_zh,v3,v2,6,task2_en_zh_v3_v2.csv
+task2,en_zh,v3,v3,6,task2_en_zh_v3_v3.csv
+task2,zh_en,v3,v1,6,task2_zh_en_v3_v1.csv
+task2,zh_en,v3,v2,6,task2_zh_en_v3_v2.csv
+task2,zh_en,v3,v3,6,task2_zh_en_v3_v3.csv
+task2,zh_zh,v3,v1,6,task2_zh_zh_v3_v1.csv
+task2,zh_zh,v3,v2,6,task2_zh_zh_v3_v2.csv
+task2,zh_zh,v3,v3,6,task2_zh_zh_v3_v3.csv

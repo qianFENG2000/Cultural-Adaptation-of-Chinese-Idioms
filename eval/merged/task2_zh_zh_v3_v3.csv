@@ -1,0 +1,7 @@
+﻿task,eval_type,zh_en_prompt_version,en_zh_prompt_version,model,num_valid,bleu,bertscore_f1,sbert_cosine,cometkiwi,metricx_qe,comet
+task2,zh_zh,v3,v3,llama31,905,21.24,0.93,0.87,0.68,2.13,0.87
+task2,zh_zh,v3,v3,mistral,897,14.39,0.92,0.85,0.61,2.91,0.82
+task2,zh_zh,v3,v3,deepseek,802,12.57,0.92,0.85,0.69,2.13,0.82
+task2,zh_zh,v3,v3,gemma2,905,26.71,0.94,0.89,0.71,2.12,0.89
+task2,zh_zh,v3,v3,glm4,905,21.92,0.93,0.89,0.69,2.35,0.88
+task2,zh_zh,v3,v3,qwen25,904,26.75,0.94,0.89,0.68,2.55,0.88
