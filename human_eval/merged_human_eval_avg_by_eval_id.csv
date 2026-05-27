@@ -1,0 +1,721 @@
+﻿eval_id,task,eval_type,version,index,source_idiom,model,transparency,polarity,reference,evaluation_item,idiom_use,code_switching,grammar,fluency,adequacy,task_specific_dim,total_score
+task1_en_zh_v1_v1_0001,task1,en_zh,v1_v1,722,一成不变,llama31,high,negative,"Always the same, never changing.",一成不变,,5.0,5.0,5.0,5.0,5.0,5.0
+task1_en_zh_v1_v1_0002,task1,en_zh,v1_v1,722,一成不变,mistral,high,negative,Unchanging Success,成就永恒,,5.0,3.0,4.0,3.0,1.0,3.2
+task1_en_zh_v1_v1_0003,task1,en_zh,v1_v1,722,一成不变,deepseek,high,negative,One-size-fits-all,一刀切,,5.0,5.0,5.0,4.5,2.0,4.300000000000001
+task1_en_zh_v1_v1_0004,task1,en_zh,v1_v1,722,一成不变,gemma2,high,negative,unchanging,一成不变,,5.0,5.0,5.0,4.5,5.0,4.9
+task1_en_zh_v1_v1_0005,task1,en_zh,v1_v1,722,一成不变,glm4,high,negative,Unchanged and unaltered.,一成不变,,5.0,5.0,5.0,5.0,5.0,5.0
+task1_en_zh_v1_v1_0006,task1,en_zh,v1_v1,722,一成不变,qwen25,high,negative,unchanged once set,一成不变,,5.0,5.0,5.0,5.0,5.0,5.0
+task1_en_zh_v1_v1_0007,task1,en_zh,v1_v1,45,闭目塞听,llama31,high,negative,Close one's eyes and block one's ears,闭眼蒙耳,,5.0,5.0,3.5,4.5,2.0,4.0
+task1_en_zh_v1_v1_0008,task1,en_zh,v1_v1,45,闭目塞听,mistral,high,negative,Close one's eyes and listen,闭眼听风,,5.0,5.0,3.0,2.5,1.0,3.3
+task1_en_zh_v1_v1_0009,task1,en_zh,v1_v1,45,闭目塞听,deepseek,high,negative,Close one's eyes and plug one's ears,耳不听为静,,5.0,5.0,5.0,3.0,4.0,4.4
+task1_en_zh_v1_v1_0010,task1,en_zh,v1_v1,45,闭目塞听,gemma2,high,negative,Turn a blind eye and deaf ear,明目张胆,,5.0,5.0,5.0,1.0,5.0,4.2
+task1_en_zh_v1_v1_0011,task1,en_zh,v1_v1,45,闭目塞听,glm4,high,negative,Close one's eyes and stop listening.,闭目塞听,,5.0,5.0,5.0,5.0,5.0,5.0
+task1_en_zh_v1_v1_0012,task1,en_zh,v1_v1,45,闭目塞听,qwen25,high,negative,Close eyes and plug ears,掩耳盗铃,,5.0,5.0,5.0,1.0,5.0,4.2
+task1_en_zh_v1_v1_0013,task1,en_zh,v1_v1,353,满城风雨,llama31,low,negative,The whole city is in an uproar.,大街上,,5.0,5.0,4.0,1.0,1.0,3.2
+task1_en_zh_v1_v1_0014,task1,en_zh,v1_v1,353,满城风雨,mistral,low,negative,Torrents of rain and tempests in the city,雨绸缪城,,5.0,1.5,1.0,1.5,1.0,2.0
+task1_en_zh_v1_v1_0015,task1,en_zh,v1_v1,353,满城风雨,deepseek,low,negative,a storm in a teacup,杯弓蛇影,,5.0,5.0,5.0,2.5,5.0,4.5
+task1_en_zh_v1_v1_0016,task1,en_zh,v1_v1,353,满城风雨,gemma2,low,negative,The city is in an uproar.,城中大乱,,5.0,5.0,5.0,3.5,2.0,4.1
+task1_en_zh_v1_v1_0017,task1,en_zh,v1_v1,353,满城风雨,glm4,low,negative,A city full of wind and rain,风驰雨骤,,5.0,4.0,4.0,3.0,3.0,3.8
+task1_en_zh_v1_v1_0018,task1,en_zh,v1_v1,353,满城风雨,qwen25,low,negative,rumor has it,流言蜚语,,5.0,5.0,5.0,5.0,5.0,5.0
+task1_en_zh_v1_v1_0019,task1,en_zh,v1_v1,518,食古不化,llama31,low,negative,"Stuck in the past, unable to adapt.",浑水摸鱼,,5.0,5.0,5.0,1.0,5.0,4.2
+task1_en_zh_v1_v1_0020,task1,en_zh,v1_v1,518,食古不化,mistral,low,negative,Eating antiquities does not make one ancient.,吃古废不成旧,,5.0,1.0,1.0,1.0,1.0,1.8
+task1_en_zh_v1_v1_0021,task1,en_zh,v1_v1,518,食古不化,deepseek,low,negative,Eat old things without digestion,食古不化,,5.0,5.0,5.0,4.5,5.0,4.9
+task1_en_zh_v1_v1_0022,task1,en_zh,v1_v1,518,食古不化,gemma2,low,negative,stubbornly resistant to change,死守成规,,5.0,5.0,5.0,5.0,5.0,5.0
+task1_en_zh_v1_v1_0023,task1,en_zh,v1_v1,518,食古不化,glm4,low,negative,Swallow ancient wisdom without digesting it.,囫囵吞枣,,5.0,5.0,5.0,2.0,5.0,4.4
+task1_en_zh_v1_v1_0024,task1,en_zh,v1_v1,518,食古不化,qwen25,low,negative,Clinging to ancient ways and failing to adapt,抱残守缺,,5.0,5.0,5.0,5.0,5.0,5.0
+task1_en_zh_v1_v1_0025,task1,en_zh,v1_v1,547,四海为家,llama31,high,neutral,The world is my home.,天下我家,,5.0,3.5,3.0,4.0,1.0,3.3
+task1_en_zh_v1_v1_0026,task1,en_zh,v1_v1,547,四海为家,mistral,high,neutral,Four seas as home,四海为家,,5.0,5.0,5.0,5.0,5.0,5.0
+task1_en_zh_v1_v1_0027,task1,en_zh,v1_v1,547,四海为家,deepseek,high,neutral,feeling at home everywhere,宾至如归,,5.0,5.0,5.0,3.5,5.0,4.699999999999999
+task1_en_zh_v1_v1_0028,task1,en_zh,v1_v1,547,四海为家,gemma2,high,neutral,The world is my home,天下为家,,5.0,4.0,3.0,4.0,1.0,3.4000000000000004
+task1_en_zh_v1_v1_0029,task1,en_zh,v1_v1,547,四海为家,glm4,high,neutral,The world is my home.,四海为家,,5.0,5.0,5.0,5.0,5.0,5.0
+task1_en_zh_v1_v1_0030,task1,en_zh,v1_v1,547,四海为家,qwen25,high,neutral,home wherever one goes,随心所欲,,5.0,5.0,5.0,1.0,5.0,4.2
+task1_en_zh_v1_v1_0031,task1,en_zh,v1_v1,176,风雨交加,llama31,high,neutral,The storm is raging on all sides.,风雨四面,,5.0,4.0,2.0,4.0,3.0,3.5999999999999996
+task1_en_zh_v1_v1_0032,task1,en_zh,v1_v1,176,风雨交加,mistral,high,neutral,Intermingled with wind and rain,风雨交加,,5.0,5.0,5.0,5.0,5.0,5.0
+task1_en_zh_v1_v1_0033,task1,en_zh,v1_v1,176,风雨交加,deepseek,high,neutral,Rain and wind combined,雨急风狂,,5.0,5.0,5.0,3.0,3.0,4.2
+task1_en_zh_v1_v1_0034,task1,en_zh,v1_v1,176,风雨交加,gemma2,high,neutral,storm and rain battering down,倾盆大雨,,5.0,5.0,5.0,5.0,5.0,5.0
+task1_en_zh_v1_v1_0035,task1,en_zh,v1_v1,176,风雨交加,glm4,high,neutral,A stormy mix,风起云涌,,5.0,5.0,5.0,3.0,5.0,4.6
+task1_en_zh_v1_v1_0036,task1,en_zh,v1_v1,176,风雨交加,qwen25,high,neutral,stormy weather,风雨交加,,5.0,5.0,5.0,5.0,5.0,5.0
+task1_en_zh_v1_v1_0037,task1,en_zh,v1_v1,197,亘古新闻,llama31,low,neutral,"Timeless news, ancient gossip, or old news that never gets old.",老事常谈,,5.0,5.0,4.0,4.0,3.0,4.199999999999999
+task1_en_zh_v1_v1_0038,task1,en_zh,v1_v1,197,亘古新闻,mistral,low,neutral,Ancient News,古事无过,,5.0,2.5,2.0,3.0,3.0,3.1
+task1_en_zh_v1_v1_0039,task1,en_zh,v1_v1,197,亘古新闻,deepseek,low,neutral,Eternal news,永不停歇的新闻,,5.0,3.0,2.0,3.5,1.0,2.9000000000000004
+task1_en_zh_v1_v1_0040,task1,en_zh,v1_v1,197,亘古新闻,gemma2,low,neutral,Old news,陈词滥调,,5.0,5.0,5.0,2.5,5.0,4.5
+task1_en_zh_v1_v1_0041,task1,en_zh,v1_v1,197,亘古新闻,glm4,low,neutral,Ancient news that never fades,古为今用,,5.0,5.0,5.0,3.0,5.0,4.6
+task1_en_zh_v1_v1_0042,task1,en_zh,v1_v1,197,亘古新闻,qwen25,low,neutral,time-honored news,陈词滥调,,5.0,5.0,5.0,1.0,5.0,4.2
+task1_en_zh_v1_v1_0043,task1,en_zh,v1_v1,827,曾几何时,llama31,low,neutral,How many times have I walked this road?,多少次过此门,,5.0,3.0,3.5,3.0,1.0,3.1
+task1_en_zh_v1_v1_0044,task1,en_zh,v1_v1,827,曾几何时,mistral,low,neutral,When did this happen last?,何年之前？,,5.0,2.5,1.5,1.0,1.0,2.2
+task1_en_zh_v1_v1_0045,task1,en_zh,v1_v1,827,曾几何时,deepseek,low,neutral,"At one time,",一时间,,5.0,4.0,4.5,1.5,1.0,3.2
+task1_en_zh_v1_v1_0046,task1,en_zh,v1_v1,827,曾几何时,gemma2,low,neutral,Once upon a time,从前,,5.0,5.0,5.0,5.0,1.0,4.2
+task1_en_zh_v1_v1_0047,task1,en_zh,v1_v1,827,曾几何时,glm4,low,neutral,Once upon a time,昔日的往事,,5.0,4.0,3.5,2.5,1.0,3.2
+task1_en_zh_v1_v1_0048,task1,en_zh,v1_v1,827,曾几何时,qwen25,low,neutral,Not long ago,近日,,5.0,5.0,5.0,5.0,1.0,4.2
+task1_en_zh_v1_v1_0049,task1,en_zh,v1_v1,755,仪态万千,llama31,high,positive,A thousand different postures and attitudes.,千姿百态,,5.0,5.0,5.0,5.0,5.0,5.0
+task1_en_zh_v1_v1_0050,task1,en_zh,v1_v1,755,仪态万千,mistral,high,positive,"Grand manner, various styles",各有所长,,5.0,5.0,5.0,1.5,5.0,4.300000000000001
+task1_en_zh_v1_v1_0051,task1,en_zh,v1_v1,755,仪态万千,deepseek,high,positive,a myriad of graceful manners,万般风雅举止,,5.0,2.5,2.0,3.0,1.0,2.7
+task1_en_zh_v1_v1_0052,task1,en_zh,v1_v1,755,仪态万千,gemma2,high,positive,A thousand gestures of grace,风度翩翩,,5.0,5.0,5.0,5.0,5.0,5.0
+task1_en_zh_v1_v1_0053,task1,en_zh,v1_v1,755,仪态万千,glm4,high,positive,A myriad of poise,风度翩翩,,5.0,5.0,5.0,3.0,5.0,4.6
+task1_en_zh_v1_v1_0054,task1,en_zh,v1_v1,755,仪态万千,qwen25,high,positive,varied and graceful demeanor,仪态万方,,5.0,5.0,5.0,5.0,5.0,5.0
+task1_en_zh_v1_v1_0055,task1,en_zh,v1_v1,95,畅行无阻,llama31,high,positive,Smooth sailing all the way.,顺风顺水,,5.0,5.0,5.0,5.0,5.0,5.0
+task1_en_zh_v1_v1_0056,task1,en_zh,v1_v1,95,畅行无阻,mistral,high,positive,Unobstructed progress,无阻进步,,5.0,1.5,1.0,4.0,3.0,2.9
+task1_en_zh_v1_v1_0057,task1,en_zh,v1_v1,95,畅行无阻,deepseek,high,positive,Unimpeded progress,畅通无阻,,5.0,5.0,5.0,4.5,5.0,4.9
+task1_en_zh_v1_v1_0058,task1,en_zh,v1_v1,95,畅行无阻,gemma2,high,positive,Unimpeded progress,一帆风顺,,5.0,5.0,5.0,5.0,5.0,5.0
+task1_en_zh_v1_v1_0059,task1,en_zh,v1_v1,95,畅行无阻,glm4,high,positive,Smooth sailing without hindrance,一帆风顺,,5.0,5.0,5.0,4.5,5.0,4.9
+task1_en_zh_v1_v1_0060,task1,en_zh,v1_v1,95,畅行无阻,qwen25,high,positive,unobstructed passage,畅通无阻,,5.0,5.0,5.0,5.0,5.0,5.0
+task1_en_zh_v1_v1_0061,task1,en_zh,v1_v1,592,完璧归赵,llama31,low,positive,Returning everything intact to its rightful owner.,还我本色,,5.0,1.5,2.0,1.0,3.0,2.5
+task1_en_zh_v1_v1_0062,task1,en_zh,v1_v1,592,完璧归赵,mistral,low,positive,Perfectly suited,合心一意,,5.0,3.0,2.0,2.0,3.0,3.0
+task1_en_zh_v1_v1_0063,task1,en_zh,v1_v1,592,完璧归赵,deepseek,low,positive,Perfectly return jade to Zhao,完璧归赵,,5.0,5.0,5.0,5.0,5.0,5.0
+task1_en_zh_v1_v1_0064,task1,en_zh,v1_v1,592,完璧归赵,gemma2,low,positive,Return to perfection,臻于完美,,5.0,4.0,4.0,4.0,2.0,3.8000000000000003
+task1_en_zh_v1_v1_0065,task1,en_zh,v1_v1,592,完璧归赵,glm4,low,positive,The jade is returned to Zhao.,物归原主,,5.0,5.0,5.0,3.0,5.0,4.6
+task1_en_zh_v1_v1_0066,task1,en_zh,v1_v1,592,完璧归赵,qwen25,low,positive,Return intact jade to Zhao,完璧归赵,,5.0,5.0,5.0,5.0,5.0,5.0
+task1_en_zh_v1_v1_0067,task1,en_zh,v1_v1,115,春华秋实,llama31,low,positive,The full bloom of spring and the ripeness of autumn.,春满秋实,,5.0,3.5,2.5,3.0,3.0,3.4
+task1_en_zh_v1_v1_0068,task1,en_zh,v1_v1,115,春华秋实,mistral,low,positive,Autumn splendor reveals true beauty,秋高气焰,,5.0,1.5,1.5,1.0,3.0,2.4000000000000004
+task1_en_zh_v1_v1_0069,task1,en_zh,v1_v1,115,春华秋实,deepseek,low,positive,Spring flowers and autumn fruits,春华秋实,,5.0,5.0,5.0,5.0,5.0,5.0
+task1_en_zh_v1_v1_0070,task1,en_zh,v1_v1,115,春华秋实,gemma2,low,positive,"Spring flowers, autumn fruits",春华秋实,,5.0,5.0,5.0,5.0,5.0,5.0
+task1_en_zh_v1_v1_0071,task1,en_zh,v1_v1,115,春华秋实,glm4,low,positive,"Spring blossoms, autumn fruits",春华秋实,,5.0,5.0,5.0,5.0,5.0,5.0
+task1_en_zh_v1_v1_0072,task1,en_zh,v1_v1,115,春华秋实,qwen25,low,positive,Spring blossoms and autumn harvest,春华秋实,,5.0,5.0,5.0,5.0,5.0,5.0
+task1_zh_en_v1_v1_0001,task1,zh_en,v1_v1,722,一成不变,llama31,high,negative,一成不变,"Always the same, never changing.",,5.0,5.0,5.0,5.0,4.5,4.9
+task1_zh_en_v1_v1_0002,task1,zh_en,v1_v1,722,一成不变,mistral,high,negative,一成不变,Unchanging Success,,5.0,3.5,2.0,1.0,1.0,2.5
+task1_zh_en_v1_v1_0003,task1,zh_en,v1_v1,722,一成不变,deepseek,high,negative,一成不变,One-size-fits-all,,5.0,5.0,2.5,3.0,3.0,3.7
+task1_zh_en_v1_v1_0004,task1,zh_en,v1_v1,722,一成不变,gemma2,high,negative,一成不变,unchanging,,5.0,3.5,4.0,3.5,3.5,3.9000000000000004
+task1_zh_en_v1_v1_0005,task1,zh_en,v1_v1,722,一成不变,glm4,high,negative,一成不变,Unchanged and unaltered.,,5.0,5.0,4.0,4.0,3.5,4.3
+task1_zh_en_v1_v1_0006,task1,zh_en,v1_v1,722,一成不变,qwen25,high,negative,一成不变,unchanged once set,,5.0,5.0,5.0,5.0,4.5,4.9
+task1_zh_en_v1_v1_0007,task1,zh_en,v1_v1,45,闭目塞听,llama31,high,negative,闭目塞听,Close one's eyes and block one's ears,,5.0,5.0,4.0,4.5,3.5,4.4
+task1_zh_en_v1_v1_0008,task1,zh_en,v1_v1,45,闭目塞听,mistral,high,negative,闭目塞听,Close one's eyes and listen,,5.0,5.0,5.0,1.0,1.0,3.4
+task1_zh_en_v1_v1_0009,task1,zh_en,v1_v1,45,闭目塞听,deepseek,high,negative,闭目塞听,Close one's eyes and plug one's ears,,5.0,5.0,4.0,3.0,2.5,3.9000000000000004
+task1_zh_en_v1_v1_0010,task1,zh_en,v1_v1,45,闭目塞听,gemma2,high,negative,闭目塞听,Turn a blind eye and deaf ear,,5.0,5.0,5.0,4.5,4.5,4.8
+task1_zh_en_v1_v1_0011,task1,zh_en,v1_v1,45,闭目塞听,glm4,high,negative,闭目塞听,Close one's eyes and stop listening.,,5.0,5.0,5.0,4.5,3.5,4.6
+task1_zh_en_v1_v1_0012,task1,zh_en,v1_v1,45,闭目塞听,qwen25,high,negative,闭目塞听,Close eyes and plug ears,,5.0,3.0,4.0,3.0,2.5,3.5
+task1_zh_en_v1_v1_0013,task1,zh_en,v1_v1,353,满城风雨,llama31,low,negative,满城风雨,The whole city is in an uproar.,,5.0,5.0,5.0,3.0,4.0,4.4
+task1_zh_en_v1_v1_0014,task1,zh_en,v1_v1,353,满城风雨,mistral,low,negative,满城风雨,Torrents of rain and tempests in the city,,5.0,5.0,5.0,2.5,3.0,4.1
+task1_zh_en_v1_v1_0015,task1,zh_en,v1_v1,353,满城风雨,deepseek,low,negative,满城风雨,a storm in a teacup,,5.0,5.0,5.0,3.0,3.0,4.2
+task1_zh_en_v1_v1_0016,task1,zh_en,v1_v1,353,满城风雨,gemma2,low,negative,满城风雨,The city is in an uproar.,,5.0,5.0,5.0,3.5,4.0,4.5
+task1_zh_en_v1_v1_0017,task1,zh_en,v1_v1,353,满城风雨,glm4,low,negative,满城风雨,A city full of wind and rain,,5.0,5.0,5.0,2.5,2.0,3.9
+task1_zh_en_v1_v1_0018,task1,zh_en,v1_v1,353,满城风雨,qwen25,low,negative,满城风雨,rumor has it,,5.0,5.0,5.0,3.0,2.5,4.1
+task1_zh_en_v1_v1_0019,task1,zh_en,v1_v1,518,食古不化,llama31,low,negative,食古不化,"Stuck in the past, unable to adapt.",,5.0,5.0,4.0,5.0,3.5,4.5
+task1_zh_en_v1_v1_0020,task1,zh_en,v1_v1,518,食古不化,mistral,low,negative,食古不化,Eating antiquities does not make one ancient.,,5.0,4.5,4.5,1.0,1.0,3.2
+task1_zh_en_v1_v1_0021,task1,zh_en,v1_v1,518,食古不化,deepseek,low,negative,食古不化,Eat old things without digestion,,5.0,5.0,4.5,1.5,2.0,3.5999999999999996
+task1_zh_en_v1_v1_0022,task1,zh_en,v1_v1,518,食古不化,gemma2,low,negative,食古不化,stubbornly resistant to change,,5.0,5.0,5.0,4.0,4.0,4.6
+task1_zh_en_v1_v1_0023,task1,zh_en,v1_v1,518,食古不化,glm4,low,negative,食古不化,Swallow ancient wisdom without digesting it.,,5.0,5.0,5.0,4.5,4.0,4.7
+task1_zh_en_v1_v1_0024,task1,zh_en,v1_v1,518,食古不化,qwen25,low,negative,食古不化,Clinging to ancient ways and failing to adapt,,5.0,4.5,5.0,5.0,4.0,4.699999999999999
+task1_zh_en_v1_v1_0025,task1,zh_en,v1_v1,547,四海为家,llama31,high,neutral,四海为家,The world is my home.,,5.0,5.0,5.0,4.5,4.5,4.8
+task1_zh_en_v1_v1_0026,task1,zh_en,v1_v1,547,四海为家,mistral,high,neutral,四海为家,Four seas as home,,5.0,2.0,2.0,1.5,1.5,2.4
+task1_zh_en_v1_v1_0027,task1,zh_en,v1_v1,547,四海为家,deepseek,high,neutral,四海为家,feeling at home everywhere,,5.0,4.5,4.5,3.0,3.0,4.0
+task1_zh_en_v1_v1_0028,task1,zh_en,v1_v1,547,四海为家,gemma2,high,neutral,四海为家,The world is my home,,5.0,5.0,5.0,4.5,4.5,4.8
+task1_zh_en_v1_v1_0029,task1,zh_en,v1_v1,547,四海为家,glm4,high,neutral,四海为家,The world is my home.,,5.0,5.0,5.0,4.5,4.5,4.8
+task1_zh_en_v1_v1_0030,task1,zh_en,v1_v1,547,四海为家,qwen25,high,neutral,四海为家,home wherever one goes,,5.0,3.5,3.0,3.0,3.5,3.5999999999999996
+task1_zh_en_v1_v1_0031,task1,zh_en,v1_v1,176,风雨交加,llama31,high,neutral,风雨交加,The storm is raging on all sides.,,5.0,5.0,5.0,4.5,4.5,4.8
+task1_zh_en_v1_v1_0032,task1,zh_en,v1_v1,176,风雨交加,mistral,high,neutral,风雨交加,Intermingled with wind and rain,,5.0,5.0,5.0,4.0,4.0,4.6
+task1_zh_en_v1_v1_0033,task1,zh_en,v1_v1,176,风雨交加,deepseek,high,neutral,风雨交加,Rain and wind combined,,5.0,5.0,5.0,3.0,3.5,4.300000000000001
+task1_zh_en_v1_v1_0034,task1,zh_en,v1_v1,176,风雨交加,gemma2,high,neutral,风雨交加,storm and rain battering down,,5.0,5.0,5.0,4.0,4.0,4.6
+task1_zh_en_v1_v1_0035,task1,zh_en,v1_v1,176,风雨交加,glm4,high,neutral,风雨交加,A stormy mix,,5.0,5.0,3.0,3.0,3.0,3.8
+task1_zh_en_v1_v1_0036,task1,zh_en,v1_v1,176,风雨交加,qwen25,high,neutral,风雨交加,stormy weather,,5.0,5.0,4.0,2.0,2.5,3.7
+task1_zh_en_v1_v1_0037,task1,zh_en,v1_v1,197,亘古新闻,llama31,low,neutral,亘古新闻,"Timeless news, ancient gossip, or old news that never gets old.",,5.0,5.0,5.0,1.5,2.0,3.7
+task1_zh_en_v1_v1_0038,task1,zh_en,v1_v1,197,亘古新闻,mistral,low,neutral,亘古新闻,Ancient News,,5.0,5.0,5.0,1.0,1.5,3.5
+task1_zh_en_v1_v1_0039,task1,zh_en,v1_v1,197,亘古新闻,deepseek,low,neutral,亘古新闻,Eternal news,,5.0,5.0,5.0,1.5,2.0,3.7
+task1_zh_en_v1_v1_0040,task1,zh_en,v1_v1,197,亘古新闻,gemma2,low,neutral,亘古新闻,Old news,,5.0,5.0,5.0,1.5,2.0,3.7
+task1_zh_en_v1_v1_0041,task1,zh_en,v1_v1,197,亘古新闻,glm4,low,neutral,亘古新闻,Ancient news that never fades,,5.0,5.0,5.0,1.5,2.0,3.7
+task1_zh_en_v1_v1_0042,task1,zh_en,v1_v1,197,亘古新闻,qwen25,low,neutral,亘古新闻,time-honored news,,5.0,5.0,4.0,1.5,2.0,3.5
+task1_zh_en_v1_v1_0043,task1,zh_en,v1_v1,827,曾几何时,llama31,low,neutral,曾几何时,How many times have I walked this road?,,5.0,5.0,5.0,1.0,1.0,3.4
+task1_zh_en_v1_v1_0044,task1,zh_en,v1_v1,827,曾几何时,mistral,low,neutral,曾几何时,When did this happen last?,,5.0,5.0,5.0,1.0,1.0,3.4
+task1_zh_en_v1_v1_0045,task1,zh_en,v1_v1,827,曾几何时,deepseek,low,neutral,曾几何时,"At one time,",,5.0,5.0,5.0,2.5,3.0,4.1
+task1_zh_en_v1_v1_0046,task1,zh_en,v1_v1,827,曾几何时,gemma2,low,neutral,曾几何时,Once upon a time,,5.0,5.0,5.0,1.0,3.0,3.8
+task1_zh_en_v1_v1_0047,task1,zh_en,v1_v1,827,曾几何时,glm4,low,neutral,曾几何时,Once upon a time,,5.0,5.0,5.0,1.0,3.0,3.8
+task1_zh_en_v1_v1_0048,task1,zh_en,v1_v1,827,曾几何时,qwen25,low,neutral,曾几何时,Not long ago,,5.0,5.0,5.0,5.0,4.0,4.8
+task1_zh_en_v1_v1_0049,task1,zh_en,v1_v1,755,仪态万千,llama31,high,positive,仪态万千,A thousand different postures and attitudes.,,5.0,5.0,5.0,3.0,2.0,4.0
+task1_zh_en_v1_v1_0050,task1,zh_en,v1_v1,755,仪态万千,mistral,high,positive,仪态万千,"Grand manner, various styles",,5.0,5.0,4.5,3.0,2.5,4.0
+task1_zh_en_v1_v1_0051,task1,zh_en,v1_v1,755,仪态万千,deepseek,high,positive,仪态万千,a myriad of graceful manners,,5.0,5.0,5.0,4.0,4.0,4.6
+task1_zh_en_v1_v1_0052,task1,zh_en,v1_v1,755,仪态万千,gemma2,high,positive,仪态万千,A thousand gestures of grace,,5.0,5.0,5.0,3.0,4.0,4.4
+task1_zh_en_v1_v1_0053,task1,zh_en,v1_v1,755,仪态万千,glm4,high,positive,仪态万千,A myriad of poise,,5.0,5.0,5.0,3.0,3.5,4.300000000000001
+task1_zh_en_v1_v1_0054,task1,zh_en,v1_v1,755,仪态万千,qwen25,high,positive,仪态万千,varied and graceful demeanor,,5.0,5.0,5.0,4.5,4.0,4.699999999999999
+task1_zh_en_v1_v1_0055,task1,zh_en,v1_v1,95,畅行无阻,llama31,high,positive,畅行无阻,Smooth sailing all the way.,,5.0,5.0,5.0,3.0,4.0,4.4
+task1_zh_en_v1_v1_0056,task1,zh_en,v1_v1,95,畅行无阻,mistral,high,positive,畅行无阻,Unobstructed progress,,5.0,5.0,5.0,2.5,3.5,4.2
+task1_zh_en_v1_v1_0057,task1,zh_en,v1_v1,95,畅行无阻,deepseek,high,positive,畅行无阻,Unimpeded progress,,5.0,5.0,5.0,2.5,3.5,4.2
+task1_zh_en_v1_v1_0058,task1,zh_en,v1_v1,95,畅行无阻,gemma2,high,positive,畅行无阻,Unimpeded progress,,5.0,5.0,5.0,2.5,3.5,4.2
+task1_zh_en_v1_v1_0059,task1,zh_en,v1_v1,95,畅行无阻,glm4,high,positive,畅行无阻,Smooth sailing without hindrance,,5.0,5.0,5.0,4.5,4.5,4.8
+task1_zh_en_v1_v1_0060,task1,zh_en,v1_v1,95,畅行无阻,qwen25,high,positive,畅行无阻,unobstructed passage,,5.0,5.0,5.0,4.5,4.5,4.8
+task1_zh_en_v1_v1_0061,task1,zh_en,v1_v1,592,完璧归赵,llama31,low,positive,完璧归赵,Returning everything intact to its rightful owner.,,5.0,5.0,5.0,5.0,4.5,4.9
+task1_zh_en_v1_v1_0062,task1,zh_en,v1_v1,592,完璧归赵,mistral,low,positive,完璧归赵,Perfectly suited,,5.0,5.0,5.0,1.0,1.0,3.4
+task1_zh_en_v1_v1_0063,task1,zh_en,v1_v1,592,完璧归赵,deepseek,low,positive,完璧归赵,Perfectly return jade to Zhao,,4.0,5.0,4.0,3.0,2.5,3.7
+task1_zh_en_v1_v1_0064,task1,zh_en,v1_v1,592,完璧归赵,gemma2,low,positive,完璧归赵,Return to perfection,,5.0,5.0,4.0,1.0,1.5,3.3
+task1_zh_en_v1_v1_0065,task1,zh_en,v1_v1,592,完璧归赵,glm4,low,positive,完璧归赵,The jade is returned to Zhao.,,4.0,5.0,5.0,3.0,2.5,3.9
+task1_zh_en_v1_v1_0066,task1,zh_en,v1_v1,592,完璧归赵,qwen25,low,positive,完璧归赵,Return intact jade to Zhao,,4.0,5.0,5.0,3.0,2.0,3.8
+task1_zh_en_v1_v1_0067,task1,zh_en,v1_v1,115,春华秋实,llama31,low,positive,春华秋实,The full bloom of spring and the ripeness of autumn.,,5.0,5.0,5.0,3.0,3.5,4.300000000000001
+task1_zh_en_v1_v1_0068,task1,zh_en,v1_v1,115,春华秋实,mistral,low,positive,春华秋实,Autumn splendor reveals true beauty,,5.0,5.0,5.0,1.0,2.0,3.5999999999999996
+task1_zh_en_v1_v1_0069,task1,zh_en,v1_v1,115,春华秋实,deepseek,low,positive,春华秋实,Spring flowers and autumn fruits,,5.0,5.0,5.0,3.0,2.5,4.1
+task1_zh_en_v1_v1_0070,task1,zh_en,v1_v1,115,春华秋实,gemma2,low,positive,春华秋实,"Spring flowers, autumn fruits",,5.0,4.0,5.0,3.0,2.5,3.9000000000000004
+task1_zh_en_v1_v1_0071,task1,zh_en,v1_v1,115,春华秋实,glm4,low,positive,春华秋实,"Spring blossoms, autumn fruits",,5.0,4.0,5.0,3.0,3.0,4.0
+task1_zh_en_v1_v1_0072,task1,zh_en,v1_v1,115,春华秋实,qwen25,low,positive,春华秋实,Spring blossoms and autumn harvest,,5.0,4.0,5.0,5.0,4.5,4.7
+task1_zh_zh_v1_v1_0001,task1,zh_zh,v1_v1,722,一成不变,llama31,high,negative,一成不变,一成不变,,5.0,5.0,5.0,5.0,5.0,5.0
+task1_zh_zh_v1_v1_0002,task1,zh_zh,v1_v1,722,一成不变,mistral,high,negative,一成不变,成就永恒,,5.0,3.0,4.0,1.0,1.0,2.8
+task1_zh_zh_v1_v1_0003,task1,zh_zh,v1_v1,722,一成不变,deepseek,high,negative,一成不变,一刀切,,5.0,5.0,5.0,1.0,2.0,3.6
+task1_zh_zh_v1_v1_0004,task1,zh_zh,v1_v1,722,一成不变,gemma2,high,negative,一成不变,一成不变,,5.0,5.0,5.0,5.0,5.0,5.0
+task1_zh_zh_v1_v1_0005,task1,zh_zh,v1_v1,722,一成不变,glm4,high,negative,一成不变,一成不变,,5.0,5.0,5.0,5.0,5.0,5.0
+task1_zh_zh_v1_v1_0006,task1,zh_zh,v1_v1,722,一成不变,qwen25,high,negative,一成不变,一成不变,,5.0,5.0,5.0,5.0,5.0,5.0
+task1_zh_zh_v1_v1_0007,task1,zh_zh,v1_v1,45,闭目塞听,llama31,high,negative,闭目塞听,闭眼蒙耳,,5.0,5.0,3.5,3.5,2.0,3.8
+task1_zh_zh_v1_v1_0008,task1,zh_zh,v1_v1,45,闭目塞听,mistral,high,negative,闭目塞听,闭眼听风,,5.0,5.0,3.0,1.0,1.0,3.0
+task1_zh_zh_v1_v1_0009,task1,zh_zh,v1_v1,45,闭目塞听,deepseek,high,negative,闭目塞听,耳不听为静,,5.0,5.0,5.0,1.5,4.0,4.1
+task1_zh_zh_v1_v1_0010,task1,zh_zh,v1_v1,45,闭目塞听,gemma2,high,negative,闭目塞听,明目张胆,,5.0,5.0,5.0,1.0,5.0,4.2
+task1_zh_zh_v1_v1_0011,task1,zh_zh,v1_v1,45,闭目塞听,glm4,high,negative,闭目塞听,闭目塞听,,5.0,5.0,5.0,5.0,5.0,5.0
+task1_zh_zh_v1_v1_0012,task1,zh_zh,v1_v1,45,闭目塞听,qwen25,high,negative,闭目塞听,掩耳盗铃,,5.0,5.0,5.0,1.0,5.0,4.2
+task1_zh_zh_v1_v1_0013,task1,zh_zh,v1_v1,353,满城风雨,llama31,low,negative,满城风雨,大街上,,5.0,5.0,4.0,1.0,1.0,3.2
+task1_zh_zh_v1_v1_0014,task1,zh_zh,v1_v1,353,满城风雨,mistral,low,negative,满城风雨,雨绸缪城,,5.0,1.5,1.0,1.0,1.0,1.9
+task1_zh_zh_v1_v1_0015,task1,zh_zh,v1_v1,353,满城风雨,deepseek,low,negative,满城风雨,杯弓蛇影,,5.0,5.0,5.0,1.5,5.0,4.300000000000001
+task1_zh_zh_v1_v1_0016,task1,zh_zh,v1_v1,353,满城风雨,gemma2,low,negative,满城风雨,城中大乱,,5.0,5.0,5.0,3.0,2.0,4.0
+task1_zh_zh_v1_v1_0017,task1,zh_zh,v1_v1,353,满城风雨,glm4,low,negative,满城风雨,风驰雨骤,,5.0,4.0,4.0,1.0,3.0,3.4
+task1_zh_zh_v1_v1_0018,task1,zh_zh,v1_v1,353,满城风雨,qwen25,low,negative,满城风雨,流言蜚语,,5.0,5.0,5.0,4.0,5.0,4.8
+task1_zh_zh_v1_v1_0019,task1,zh_zh,v1_v1,518,食古不化,llama31,low,negative,食古不化,浑水摸鱼,,5.0,5.0,5.0,1.0,5.0,4.2
+task1_zh_zh_v1_v1_0020,task1,zh_zh,v1_v1,518,食古不化,mistral,low,negative,食古不化,吃古废不成旧,,5.0,1.0,1.0,1.0,1.0,1.8
+task1_zh_zh_v1_v1_0021,task1,zh_zh,v1_v1,518,食古不化,deepseek,low,negative,食古不化,食古不化,,5.0,5.0,5.0,5.0,5.0,5.0
+task1_zh_zh_v1_v1_0022,task1,zh_zh,v1_v1,518,食古不化,gemma2,low,negative,食古不化,死守成规,,5.0,5.0,5.0,4.5,5.0,4.9
+task1_zh_zh_v1_v1_0023,task1,zh_zh,v1_v1,518,食古不化,glm4,low,negative,食古不化,囫囵吞枣,,5.0,5.0,5.0,1.0,5.0,4.2
+task1_zh_zh_v1_v1_0024,task1,zh_zh,v1_v1,518,食古不化,qwen25,low,negative,食古不化,抱残守缺,,5.0,5.0,5.0,4.0,5.0,4.8
+task1_zh_zh_v1_v1_0025,task1,zh_zh,v1_v1,547,四海为家,llama31,high,neutral,四海为家,天下我家,,5.0,3.5,3.0,3.0,1.0,3.1
+task1_zh_zh_v1_v1_0026,task1,zh_zh,v1_v1,547,四海为家,mistral,high,neutral,四海为家,四海为家,,5.0,5.0,5.0,5.0,5.0,5.0
+task1_zh_zh_v1_v1_0027,task1,zh_zh,v1_v1,547,四海为家,deepseek,high,neutral,四海为家,宾至如归,,5.0,5.0,5.0,1.0,5.0,4.2
+task1_zh_zh_v1_v1_0028,task1,zh_zh,v1_v1,547,四海为家,gemma2,high,neutral,四海为家,天下为家,,5.0,4.0,3.0,3.5,1.0,3.3
+task1_zh_zh_v1_v1_0029,task1,zh_zh,v1_v1,547,四海为家,glm4,high,neutral,四海为家,四海为家,,5.0,5.0,5.0,5.0,5.0,5.0
+task1_zh_zh_v1_v1_0030,task1,zh_zh,v1_v1,547,四海为家,qwen25,high,neutral,四海为家,随心所欲,,5.0,5.0,5.0,1.0,5.0,4.2
+task1_zh_zh_v1_v1_0031,task1,zh_zh,v1_v1,176,风雨交加,llama31,high,neutral,风雨交加,风雨四面,,5.0,4.0,2.0,3.0,3.0,3.4
+task1_zh_zh_v1_v1_0032,task1,zh_zh,v1_v1,176,风雨交加,mistral,high,neutral,风雨交加,风雨交加,,5.0,5.0,5.0,5.0,5.0,5.0
+task1_zh_zh_v1_v1_0033,task1,zh_zh,v1_v1,176,风雨交加,deepseek,high,neutral,风雨交加,雨急风狂,,5.0,5.0,5.0,5.0,3.0,4.6
+task1_zh_zh_v1_v1_0034,task1,zh_zh,v1_v1,176,风雨交加,gemma2,high,neutral,风雨交加,倾盆大雨,,5.0,5.0,5.0,3.5,5.0,4.699999999999999
+task1_zh_zh_v1_v1_0035,task1,zh_zh,v1_v1,176,风雨交加,glm4,high,neutral,风雨交加,风起云涌,,5.0,5.0,5.0,1.0,5.0,4.2
+task1_zh_zh_v1_v1_0036,task1,zh_zh,v1_v1,176,风雨交加,qwen25,high,neutral,风雨交加,风雨交加,,5.0,5.0,5.0,5.0,5.0,5.0
+task1_zh_zh_v1_v1_0037,task1,zh_zh,v1_v1,197,亘古新闻,llama31,low,neutral,亘古新闻,老事常谈,,5.0,5.0,4.0,1.0,3.0,3.5999999999999996
+task1_zh_zh_v1_v1_0038,task1,zh_zh,v1_v1,197,亘古新闻,mistral,low,neutral,亘古新闻,古事无过,,5.0,2.5,2.0,1.0,3.0,2.7
+task1_zh_zh_v1_v1_0039,task1,zh_zh,v1_v1,197,亘古新闻,deepseek,low,neutral,亘古新闻,永不停歇的新闻,,5.0,3.0,2.0,1.0,1.0,2.4
+task1_zh_zh_v1_v1_0040,task1,zh_zh,v1_v1,197,亘古新闻,gemma2,low,neutral,亘古新闻,陈词滥调,,5.0,5.0,5.0,1.0,5.0,4.2
+task1_zh_zh_v1_v1_0041,task1,zh_zh,v1_v1,197,亘古新闻,glm4,low,neutral,亘古新闻,古为今用,,5.0,5.0,5.0,1.0,5.0,4.2
+task1_zh_zh_v1_v1_0042,task1,zh_zh,v1_v1,197,亘古新闻,qwen25,low,neutral,亘古新闻,陈词滥调,,5.0,5.0,5.0,1.0,5.0,4.2
+task1_zh_zh_v1_v1_0043,task1,zh_zh,v1_v1,827,曾几何时,llama31,low,neutral,曾几何时,多少次过此门,,5.0,3.0,3.5,1.0,1.0,2.7
+task1_zh_zh_v1_v1_0044,task1,zh_zh,v1_v1,827,曾几何时,mistral,low,neutral,曾几何时,何年之前？,,5.0,2.5,1.5,1.0,1.0,2.2
+task1_zh_zh_v1_v1_0045,task1,zh_zh,v1_v1,827,曾几何时,deepseek,low,neutral,曾几何时,一时间,,5.0,4.0,4.5,1.0,1.0,3.0999999999999996
+task1_zh_zh_v1_v1_0046,task1,zh_zh,v1_v1,827,曾几何时,gemma2,low,neutral,曾几何时,从前,,5.0,5.0,5.0,3.5,1.0,3.9
+task1_zh_zh_v1_v1_0047,task1,zh_zh,v1_v1,827,曾几何时,glm4,low,neutral,曾几何时,昔日的往事,,5.0,4.0,3.5,2.0,1.0,3.1
+task1_zh_zh_v1_v1_0048,task1,zh_zh,v1_v1,827,曾几何时,qwen25,low,neutral,曾几何时,近日,,5.0,5.0,5.0,2.0,1.0,3.6
+task1_zh_zh_v1_v1_0049,task1,zh_zh,v1_v1,755,仪态万千,llama31,high,positive,仪态万千,千姿百态,,5.0,5.0,5.0,5.0,5.0,5.0
+task1_zh_zh_v1_v1_0050,task1,zh_zh,v1_v1,755,仪态万千,mistral,high,positive,仪态万千,各有所长,,5.0,5.0,5.0,1.0,5.0,4.2
+task1_zh_zh_v1_v1_0051,task1,zh_zh,v1_v1,755,仪态万千,deepseek,high,positive,仪态万千,万般风雅举止,,5.0,2.5,2.0,3.5,1.0,2.8
+task1_zh_zh_v1_v1_0052,task1,zh_zh,v1_v1,755,仪态万千,gemma2,high,positive,仪态万千,风度翩翩,,5.0,5.0,5.0,3.0,5.0,4.6
+task1_zh_zh_v1_v1_0053,task1,zh_zh,v1_v1,755,仪态万千,glm4,high,positive,仪态万千,风度翩翩,,5.0,5.0,5.0,3.0,5.0,4.6
+task1_zh_zh_v1_v1_0054,task1,zh_zh,v1_v1,755,仪态万千,qwen25,high,positive,仪态万千,仪态万方,,5.0,5.0,5.0,5.0,5.0,5.0
+task1_zh_zh_v1_v1_0055,task1,zh_zh,v1_v1,95,畅行无阻,llama31,high,positive,畅行无阻,顺风顺水,,5.0,5.0,5.0,3.0,5.0,4.6
+task1_zh_zh_v1_v1_0056,task1,zh_zh,v1_v1,95,畅行无阻,mistral,high,positive,畅行无阻,无阻进步,,5.0,1.5,1.0,1.5,3.0,2.4000000000000004
+task1_zh_zh_v1_v1_0057,task1,zh_zh,v1_v1,95,畅行无阻,deepseek,high,positive,畅行无阻,畅通无阻,,5.0,5.0,5.0,5.0,5.0,5.0
+task1_zh_zh_v1_v1_0058,task1,zh_zh,v1_v1,95,畅行无阻,gemma2,high,positive,畅行无阻,一帆风顺,,5.0,5.0,5.0,3.5,5.0,4.699999999999999
+task1_zh_zh_v1_v1_0059,task1,zh_zh,v1_v1,95,畅行无阻,glm4,high,positive,畅行无阻,一帆风顺,,5.0,5.0,5.0,3.5,5.0,4.699999999999999
+task1_zh_zh_v1_v1_0060,task1,zh_zh,v1_v1,95,畅行无阻,qwen25,high,positive,畅行无阻,畅通无阻,,5.0,5.0,5.0,5.0,5.0,5.0
+task1_zh_zh_v1_v1_0061,task1,zh_zh,v1_v1,592,完璧归赵,llama31,low,positive,完璧归赵,还我本色,,5.0,1.5,2.0,1.0,3.0,2.5
+task1_zh_zh_v1_v1_0062,task1,zh_zh,v1_v1,592,完璧归赵,mistral,low,positive,完璧归赵,合心一意,,5.0,3.0,2.0,1.0,3.0,2.8
+task1_zh_zh_v1_v1_0063,task1,zh_zh,v1_v1,592,完璧归赵,deepseek,low,positive,完璧归赵,完璧归赵,,5.0,5.0,5.0,5.0,5.0,5.0
+task1_zh_zh_v1_v1_0064,task1,zh_zh,v1_v1,592,完璧归赵,gemma2,low,positive,完璧归赵,臻于完美,,5.0,4.0,4.0,2.0,2.0,3.4
+task1_zh_zh_v1_v1_0065,task1,zh_zh,v1_v1,592,完璧归赵,glm4,low,positive,完璧归赵,物归原主,,5.0,5.0,5.0,4.5,5.0,4.9
+task1_zh_zh_v1_v1_0066,task1,zh_zh,v1_v1,592,完璧归赵,qwen25,low,positive,完璧归赵,完璧归赵,,5.0,5.0,5.0,5.0,5.0,5.0
+task1_zh_zh_v1_v1_0067,task1,zh_zh,v1_v1,115,春华秋实,llama31,low,positive,春华秋实,春满秋实,,5.0,3.5,2.5,3.5,3.0,3.5
+task1_zh_zh_v1_v1_0068,task1,zh_zh,v1_v1,115,春华秋实,mistral,low,positive,春华秋实,秋高气焰,,5.0,1.5,1.5,1.0,3.0,2.4000000000000004
+task1_zh_zh_v1_v1_0069,task1,zh_zh,v1_v1,115,春华秋实,deepseek,low,positive,春华秋实,春华秋实,,5.0,5.0,5.0,5.0,5.0,5.0
+task1_zh_zh_v1_v1_0070,task1,zh_zh,v1_v1,115,春华秋实,gemma2,low,positive,春华秋实,春华秋实,,5.0,5.0,5.0,5.0,5.0,5.0
+task1_zh_zh_v1_v1_0071,task1,zh_zh,v1_v1,115,春华秋实,glm4,low,positive,春华秋实,春华秋实,,5.0,5.0,5.0,5.0,5.0,5.0
+task1_zh_zh_v1_v1_0072,task1,zh_zh,v1_v1,115,春华秋实,qwen25,low,positive,春华秋实,春华秋实,,5.0,5.0,5.0,5.0,5.0,5.0
+task2_en_zh_v3_v1_0001,task2,en_zh,v3_v1,722,一成不变,llama31,high,negative,"Everything is constantly evolving, there's nothing static in this world.",这个世界上没有什么是静止不变的，万事万物都在不断地演进。,I0,5.0,5.0,5.0,5.0,5.0,5.0
+task2_en_zh_v3_v1_0002,task2,en_zh,v3_v1,722,一成不变,mistral,high,negative,Everything is always developing; there's nothing unchanging in the world.,一切永无止境地发展，世界上没有不变的东西。,I1,5.0,3.5,3.5,5.0,5.0,4.4
+task2_en_zh_v3_v1_0003,task2,en_zh,v3_v1,722,一成不变,deepseek,high,negative,"Everything is constantly evolving, and there is nothing constant in the world.",世界上的所有事物都在不断变化，世界上没有永恒不变的东西。,I0,5.0,5.0,5.0,5.0,5.0,5.0
+task2_en_zh_v3_v1_0004,task2,en_zh,v3_v1,722,一成不变,gemma2,high,negative,"Everything is constantly evolving, nothing in the world remains static.",万物都在不断变化，世间无物永恒不变。,I0,5.0,5.0,5.0,5.0,5.0,5.0
+task2_en_zh_v3_v1_0005,task2,en_zh,v3_v1,722,一成不变,glm4,high,negative,Things are always developing; there is nothing unchanging in the world.,事物总是在发展中；世界上没有一成不变的事物。,I1,5.0,5.0,5.0,5.0,5.0,5.0
+task2_en_zh_v3_v1_0006,task2,en_zh,v3_v1,722,一成不变,qwen25,high,negative,Everything is developing; there is nothing that remains unchanged in the world,世间万物都在发展；世界上没有永恒不变的事物,I0,5.0,5.0,5.0,5.0,5.0,5.0
+task2_en_zh_v3_v1_0007,task2,en_zh,v3_v1,45,闭目塞听,llama31,high,negative,"Someone who is completely isolated from the objective external world, shutting out all sensory input, is beyond the realm of recognition.",完全隔绝于客观外界世界的人，关闭所有感官输入，超出了认知的范畴。,I0,5.0,3.0,1.0,3.0,3.5,3.1
+task2_en_zh_v3_v1_0008,task2,en_zh,v3_v1,45,闭目塞听,mistral,high,negative,"A person who is indifferent to recognition, closed off from the objective outside world as if deaf and blind, is one who does not matter to know.",对外世界冷漠的一个人，就好比是一只聋哑的，不关心名声的。这种人，没有必要被了解。,I0,5.0,1.0,1.0,2.5,2.5,2.4000000000000004
+task2_en_zh_v3_v1_0009,task2,en_zh,v3_v1,45,闭目塞听,deepseek,high,negative,"A person who closes their eyes, plugs their ears, and is completely disconnected from objective reality is of no concern for understanding.",闭上眼睛，堵住耳朵，与客观现实完全脱节的人不值得理解。,I0,5.0,3.5,1.5,5.0,5.0,4.0
+task2_en_zh_v3_v1_0010,task2,en_zh,v3_v1,45,闭目塞听,gemma2,high,negative,"A person who closes their eyes and ears to the outside world, completely cut off from objective reality, is incapable of true understanding.",闭目塞耳，与客观现实完全隔绝的人，无法真正理解。,I0,5.0,3.0,3.0,3.5,5.0,3.9
+task2_en_zh_v3_v1_0011,task2,en_zh,v3_v1,45,闭目塞听,glm4,high,negative,"A person who shuts their eyes and ears, completely disconnecting from the objective external world, has no concept of cognition.",一个人闭上眼睛和耳朵，完全与客观外部世界断绝联系，他对认知的概念一无所知。,I1,5.0,3.0,1.5,5.0,5.0,3.9
+task2_en_zh_v3_v1_0012,task2,en_zh,v3_v1,45,闭目塞听,qwen25,high,negative,A person who shuts out all external stimuli and remains insulated from the objective world has no need for recognition.,切断所有外界刺激与客观世界绝缘的人无需被认可。,I0,5.0,3.5,1.5,4.5,4.5,3.8
+task2_en_zh_v3_v1_0013,task2,en_zh,v3_v1,353,满城风雨,llama31,low,negative,"Why is everything such a commotion, like a storm raging all over town?",为什么会这样大乱，像一场暴风雨席卷全城。,I0,5.0,2.0,2.0,4.5,4.5,3.5999999999999996
+task2_en_zh_v3_v1_0014,task2,en_zh,v3_v1,353,满城风雨,mistral,low,negative,"Why does it make such a commotion, all stirred up, with the whole city in turmoil?",为什么会这样吵闹，一片混乱，整个城市都处于动荡中？,I0,5.0,4.5,4.5,5.0,5.0,4.8
+task2_en_zh_v3_v1_0015,task2,en_zh,v3_v1,353,满城风雨,deepseek,low,negative,"Why does it end up being noisy and chaotic, with rumors spreading all over town?",为什么最后会变得嘈杂混乱，谣言满城飞？,I0,5.0,2.5,5.0,5.0,5.0,4.5
+task2_en_zh_v3_v1_0016,task2,en_zh,v3_v1,353,满城风雨,gemma2,low,negative,"Why has it all become such a commotion, with the whole city in an uproar?",为什么事情都闹成这样，整个城市都沸腾了？,I0,5.0,2.5,3.5,3.0,3.0,3.4000000000000004
+task2_en_zh_v3_v1_0017,task2,en_zh,v3_v1,353,满城风雨,glm4,low,negative,"Why has it all turned into such a tumultuous mess, causing chaos throughout the city?",为什么这一切都变成了如此混乱的局面，导致整个城市陷入混乱？,I0,5.0,5.0,4.5,5.0,5.0,4.9
+task2_en_zh_v3_v1_0018,task2,en_zh,v3_v1,353,满城风雨,qwen25,low,negative,"Why all the commotion, making a big fuss throughout the city?",为何全市闹得沸反盈天？,I1,5.0,5.0,5.0,3.0,4.0,4.4
+task2_en_zh_v3_v1_0019,task2,en_zh,v3_v1,518,食古不化,llama31,low,negative,"If we do not study ancient cultural heritage from a dialectical materialist perspective, we will become fossilized relics of the past.",如果我们不从辩证唯物主义的角度来研究古代文化遗产，我们就会成为过去的化石。,I0,5.0,4.5,3.5,4.5,4.5,4.4
+task2_en_zh_v3_v1_0020,task2,en_zh,v3_v1,518,食古不化,mistral,low,negative,"If we do not study ancient cultural heritage using the dialectical materialism perspective, it will result in not assimilating the past but rather consuming it without transformation.",如果我们没有从方言材料主义的角度研究古文化遗产，就会导致吸收而不是吸收而不变。,I0,5.0,1.5,1.0,1.5,1.5,2.1
+task2_en_zh_v3_v1_0021,task2,en_zh,v3_v1,518,食古不化,deepseek,low,negative,"If one does not approach the study of ancient cultural heritage with a dialectical materialism perspective, they will become stuck in tradition.",如果一个人不以辩证唯物主义的观点研究古代文化遗产，他们就会陷入传统之中。,I0,5.0,3.0,3.0,4.5,4.5,4.0
+task2_en_zh_v3_v1_0022,task2,en_zh,v3_v1,518,食古不化,gemma2,low,negative,"Without using the dialectical materialist viewpoint to study ancient cultural heritage, one will remain stagnant and unable to progress.",不运用辩证唯物主义观点研究古代文化遗产，就会停滞不前。,I1,5.0,5.0,5.0,5.0,5.0,5.0
+task2_en_zh_v3_v1_0023,task2,en_zh,v3_v1,518,食古不化,glm4,low,negative,"If one does not study ancient cultural heritage from the perspective of dialectical materialism, they will consume the past without digesting it.",如果一个人不从辩证唯物主义的视角研究古代文化遗产，那么他们就会在未消化过去的情况下消费它。,I0,5.0,2.5,2.5,4.5,3.5,3.6
+task2_en_zh_v3_v1_0024,task2,en_zh,v3_v1,518,食古不化,qwen25,low,negative,"If ancient cultural heritage is studied without a dialectical materialist perspective, it risks being preserved but not understood or appreciated.",若不从辩证唯物主义视角研究古文化遗产，它可能会被保存下来，但却无法被理解或欣赏。,I0,5.0,2.0,3.0,5.0,5.0,4.0
+task2_en_zh_v3_v1_0025,task2,en_zh,v3_v1,547,四海为家,llama31,high,neutral,"We are people of the world, we consider all humanity as our brothers and sisters.",我们是世界人，我们把所有人类都当作我们的兄弟姐妹。,I0,5.0,2.0,3.0,5.0,5.0,4.0
+task2_en_zh_v3_v1_0026,task2,en_zh,v3_v1,547,四海为家,mistral,high,neutral,"We are a family of four seas, we are a family of all mankind.",我们是四个海的家人，我们是所有人类的家人。,I0,5.0,1.0,1.0,3.0,3.0,2.6
+task2_en_zh_v3_v1_0027,task2,en_zh,v3_v1,547,四海为家,deepseek,high,neutral,"We are of the world, we regard all people as brothers and sisters.",我们属于这个世界，我们将所有的人视为兄弟姐妹。,I0,5.0,5.0,5.0,5.0,4.5,4.9
+task2_en_zh_v3_v1_0028,task2,en_zh,v3_v1,547,四海为家,gemma2,high,neutral,"We consider ourselves to be part of one big family, with all people as our brothers and sisters.",我们认为自己是一个大家庭的一员，把全世界的人看作兄弟姐妹。,I0,5.0,4.0,4.0,5.0,5.0,4.6
+task2_en_zh_v3_v1_0029,task2,en_zh,v3_v1,547,四海为家,glm4,high,neutral,"We are people without borders, brothers and sisters to all peoples.",我们是无国界的人民，是全人类的兄弟姐妹。,I0,5.0,4.5,4.0,5.0,5.0,4.7
+task2_en_zh_v3_v1_0030,task2,en_zh,v3_v1,547,四海为家,qwen25,high,neutral,"We are people of the world, brothers and sisters to all humanity.",我们是世界的人，与全人类兄弟姐妹般相待。,I0,5.0,1.5,1.5,4.5,4.5,3.4
+task2_en_zh_v3_v1_0031,task2,en_zh,v3_v1,176,风雨交加,llama31,high,neutral,It's hard to imagine how he managed to get through those stormy days.,难以想象他是如何在那些风暴天气中熬过来的。,I0,5.0,5.0,5.0,4.5,4.5,4.8
+task2_en_zh_v3_v1_0032,task2,en_zh,v3_v1,176,风雨交加,mistral,high,neutral,It's hard to imagine how he managed to get through those stormy days.,想象他如何经过那些风暴日子是很困难的。,I0,5.0,1.5,2.5,3.5,5.0,3.5
+task2_en_zh_v3_v1_0033,task2,en_zh,v3_v1,176,风雨交加,deepseek,high,neutral,It is hard to imagine how he managed to get through those stormy days.,想象不出他是如何度过那些风暴的日子。,I0,5.0,3.5,3.5,3.5,4.5,4.0
+task2_en_zh_v3_v1_0034,task2,en_zh,v3_v1,176,风雨交加,gemma2,high,neutral,It's hard to imagine how he got through those stormy days.,很难想象他如何度过了那些风雨飘摇的日子。,I1,5.0,5.0,5.0,5.0,5.0,5.0
+task2_en_zh_v3_v1_0035,task2,en_zh,v3_v1,176,风雨交加,glm4,high,neutral,It's hard to imagine how he managed to get through those stormy days.,想象他如何度过那些暴风雨的日子，实在难以想象。,I0,5.0,3.0,3.0,4.5,4.5,4.0
+task2_en_zh_v3_v1_0036,task2,en_zh,v3_v1,176,风雨交加,qwen25,high,neutral,It's hard to imagine how he managed to get through those stormy days.,很难想象他是如何熬过那些风雨飘摇的日子的。,I1,5.0,5.0,5.0,5.0,5.0,5.0
+task2_en_zh_v3_v1_0037,task2,en_zh,v3_v1,197,亘古新闻,llama31,low,neutral,This is truly news that will go down in history.,这将是历史上的一则真正的新闻。,I0,5.0,3.5,3.0,3.0,3.0,3.5
+task2_en_zh_v3_v1_0038,task2,en_zh,v3_v1,197,亘古新闻,mistral,low,neutral,This is ancient news,这是古老的新闻,I0,5.0,4.5,4.5,5.0,5.0,4.8
+task2_en_zh_v3_v1_0039,task2,en_zh,v3_v1,197,亘古新闻,deepseek,low,neutral,This is truly ancient news,This is 真正古老的 news,I0,3.0,1.0,1.0,2.0,2.0,1.8
+task2_en_zh_v3_v1_0040,task2,en_zh,v3_v1,197,亘古新闻,gemma2,low,neutral,This is ancient news.,这是老新闻了。,I0,5.0,5.0,5.0,5.0,5.0,5.0
+task2_en_zh_v3_v1_0041,task2,en_zh,v3_v1,197,亘古新闻,glm4,low,neutral,This truly is an age-old news item.,这确实是一条源远流长的新闻。,I1,5.0,1.5,3.0,2.0,1.0,2.5
+task2_en_zh_v3_v1_0042,task2,en_zh,v3_v1,197,亘古新闻,qwen25,low,neutral,This is truly news from the ages,这是真正的千古消息,I0,5.0,1.0,1.0,2.0,2.0,2.2
+task2_en_zh_v3_v1_0043,task2,en_zh,v3_v1,827,曾几何时,llama31,low,neutral,"At one time, he went out to become a small official himself and came back, and then he urged me to study law and politics again.",有一次，他自己去当小官，回来后又催促我再学习法律和政治。,I0,5.0,3.0,3.0,4.0,4.0,3.8
+task2_en_zh_v3_v1_0044,task2,en_zh,v3_v1,827,曾几何时,mistral,low,neutral,"A long time has passed since, he returned after doing a small official job himself, and he advised me to study law instead.",很长一段时间以前，他自己完成了一个小官职后回来了，然后告诉我应该学法律而不是原来的计划。,I0,5.0,2.5,3.0,3.0,3.0,3.3
+task2_en_zh_v3_v1_0045,task2,en_zh,v3_v1,827,曾几何时,deepseek,low,neutral,"Once upon a time, he came back after doing a small official job himself, and then he persuaded me to study law and politics again.",很久以前，他做完一个小官方任务后回来，然后劝我再次学习法律和政治。,I0,5.0,2.0,2.5,3.0,4.5,3.4000000000000004
+task2_en_zh_v3_v1_0046,task2,en_zh,v3_v1,827,曾几何时,gemma2,low,neutral,"Once upon a time, he went back after becoming a small official himself, and then he encouraged me to study law.",他后来自己做了小官，就回来了，鼓励我学习法律。,I0,5.0,3.0,4.5,3.0,2.0,3.5
+task2_en_zh_v3_v1_0047,task2,en_zh,v3_v1,827,曾几何时,glm4,low,neutral,"Once upon a time, he himself went out to become a small official and came back, and then he persuaded me to study law and politics.",从前有个人，他自己出去做了个小官，然后回来。之后他劝我学法律和政治。,I0,5.0,3.0,5.0,3.5,3.5,4.0
+task2_en_zh_v3_v1_0048,task2,en_zh,v3_v1,827,曾几何时,qwen25,low,neutral,"Once upon a time, he returned as a small official, and then he advised me to study law and politics.",从前，他归来时是个小官，随后劝我学法律和政治。,I0,5.0,2.0,2.5,3.5,4.5,3.5
+task2_en_zh_v3_v1_0049,task2,en_zh,v3_v1,755,仪态万千,llama31,high,positive,"The moon on the lake and the setting sun, the dense shadows and light drizzle on the lake, I have seen them all, truly they are countless in their elegance.",月光洼在湖面和落日，湖上浓密的阴影和细雨，我见过它们全都，真的是无数美丽。,I0,5.0,1.5,1.5,3.0,3.0,2.8
+task2_en_zh_v3_v1_0050,task2,en_zh,v3_v1,755,仪态万千,mistral,high,positive,"The moon and sunset on the lake, as well as the thick clouds and light rain, I have witnessed all of them, truly a spectacle of grandeur.",月亮和夕阳在湖上，还有厚重的云层和轻微的雨，我都见过了，真是一场宏大的秀丽。,I0,5.0,2.5,2.5,3.5,3.0,3.3
+task2_en_zh_v3_v1_0051,task2,en_zh,v3_v1,755,仪态万千,deepseek,high,positive,"The full moon over the lake, the setting sun, the dense shade on the lake, and the gentle rain - I have seen it all, truly magnificent!",满月照耀着湖面，夕阳西下，湖面上浓密的阴影和细雨中的柔和雨水——我全都看到了，真是太美了！,I0,5.0,3.5,5.0,5.0,5.0,4.699999999999999
+task2_en_zh_v3_v1_0052,task2,en_zh,v3_v1,755,仪态万千,gemma2,high,positive,"I've seen the bright moon on the lake, as well as the setting sun, the thick shade over the water, and the light rain. It's truly a sight to behold.",我见过湖上的明月，也见过夕阳西下，水面的浓荫，以及细雨绵绵。真是美不胜收。,I1,5.0,4.0,3.0,5.0,5.0,4.4
+task2_en_zh_v3_v1_0053,task2,en_zh,v3_v1,755,仪态万千,glm4,high,positive,"The bright moon and setting sun over the lake, the dense shadows and light drizzle on the lake's surface—I have all witnessed them, truly displaying a myriad of graceful postures.",明亮的月亮和落日映照在湖面上，湖水表面密集的阴影和细雨——我亲眼目睹了这一切，真正展现了无数优雅的姿态。,I0,5.0,1.5,1.5,5.0,5.0,3.5999999999999996
+task2_en_zh_v3_v1_0054,task2,en_zh,v3_v1,755,仪态万千,qwen25,high,positive,"The moon over the lake and the setting sun, the dense shade and light rain on the lake—I have seen them all, truly varied and charming.",湖上的明月和落日余晖，密布的树荫与细雨轻拂——我皆见过，各有意趣。,I0,5.0,4.5,5.0,5.0,5.0,4.9
+task2_en_zh_v3_v1_0055,task2,en_zh,v3_v1,95,畅行无阻,llama31,high,positive,Removing snow from the road surface is essential for traffic to flow smoothly again.,清除道路表面积雪对于交通恢复畅通至关重要。,I0,5.0,5.0,5.0,5.0,5.0,5.0
+task2_en_zh_v3_v1_0056,task2,en_zh,v3_v1,95,畅行无阻,mistral,high,positive,Clear snow from the road surface to make the road passable again.,清雪道面，使道路通行。,I0,5.0,2.0,2.0,3.0,4.5,3.3
+task2_en_zh_v3_v1_0057,task2,en_zh,v3_v1,95,畅行无阻,deepseek,high,positive,"Remove the snow on the ground, and only then can the road become free of obstacles again.",移除地面的积雪，然后道路才能再次变得没有障碍。,I0,5.0,3.5,3.5,5.0,5.0,4.4
+task2_en_zh_v3_v1_0058,task2,en_zh,v3_v1,95,畅行无阻,gemma2,high,positive,Clearing the snow from the roads will allow them to be passable again.,清理积雪后，道路就能通行。,I0,5.0,5.0,5.0,5.0,5.0,5.0
+task2_en_zh_v3_v1_0059,task2,en_zh,v3_v1,95,畅行无阻,glm4,high,positive,Clear away the snow on the road to ensure smooth traffic flow once again.,清除道路上的积雪，以确保交通再次流畅。,I0,5.0,5.0,5.0,5.0,5.0,5.0
+task2_en_zh_v3_v1_0060,task2,en_zh,v3_v1,95,畅行无阻,qwen25,high,positive,Removing the snow from the road will allow for unobstructed travel again.,清除道路积雪将恢复通行无阻。,I0,5.0,4.0,4.0,5.0,5.0,4.6
+task2_en_zh_v3_v1_0061,task2,en_zh,v3_v1,592,完璧归赵,llama31,low,positive,"Please rest assured, these two things will soon return intact.",请放心，两样东西很快就会完整地回来。,I0,5.0,3.5,5.0,5.0,5.0,4.699999999999999
+task2_en_zh_v3_v1_0062,task2,en_zh,v3_v1,592,完璧归赵,mistral,low,positive,"Rest assured, it won't take long before these two things are perfectly returned to Zhao.",不用担心，这两件事很快就会完美地回到赵上了。,I0,5.0,1.0,1.0,4.0,2.5,2.7
+task2_en_zh_v3_v1_0063,task2,en_zh,v3_v1,592,完璧归赵,deepseek,low,positive,"Please rest assured, it won't take long before these two items will be returned to you intact.",请放心，这些两个项目将在不久的将来完好无损地归还给您。,I0,5.0,3.0,3.0,5.0,5.0,4.2
+task2_en_zh_v3_v1_0064,task2,en_zh,v3_v1,592,完璧归赵,gemma2,low,positive,"Rest assured, it won't be long before these two items are returned safe and sound.",请放心，这两件物品很快就会安全无损地归还。,I0,5.0,4.5,4.5,5.0,5.0,4.8
+task2_en_zh_v3_v1_0065,task2,en_zh,v3_v1,592,完璧归赵,glm4,low,positive,"Please rest assured, it won't be long before these two items are definitely returned to their original owner.",请放心，这两件物品很快就会肯定归还给原主。,I0,5.0,3.0,3.0,4.5,4.5,4.0
+task2_en_zh_v3_v1_0066,task2,en_zh,v3_v1,592,完璧归赵,qwen25,low,positive,"Rest assured, these two items will surely be returned intact soon.",请放心，这两件物品很快就会完好无损地归还。,I0,5.0,5.0,5.0,5.0,5.0,5.0
+task2_en_zh_v3_v1_0067,task2,en_zh,v3_v1,115,春华秋实,llama31,low,positive,"Without that vast spring breeze, how could there even be such an abundance of autumn scenery and a bountiful harvest?",没有那股浩瀚的春风，怎么会有如此丰富的秋色和丰收呢？,I0,5.0,3.5,5.0,5.0,5.0,4.699999999999999
+task2_en_zh_v3_v1_0068,task2,en_zh,v3_v1,115,春华秋实,mistral,low,positive,"In spring there's splendor, but not the wildness of spring wind. Where could one find such vast autumn hues and bountiful harvest?",春有华，但不是春风的野蛮。哪里能找到如此广阔的秋色和丰收？,I0,5.0,2.0,1.5,3.0,2.0,2.7
+task2_en_zh_v3_v1_0069,task2,en_zh,v3_v1,115,春华秋实,deepseek,low,positive,"Spring flowers and autumn fruits, without that mighty spring breeze, where would there be this vast expanse of autumn colors and bountiful harvest?",春季的花朵和秋季的果实，没有那强大的春天之风，哪里会有这广阔秋景和丰硕收获呢？,I0,5.0,3.5,5.0,4.0,3.0,4.1
+task2_en_zh_v3_v1_0070,task2,en_zh,v3_v1,115,春华秋实,gemma2,low,positive,"Spring blossoms lead to autumn harvests; without the grand spring breeze, where would there be this abundance of autumn colors and bountiful yields?",春花盛开，秋实丰收；若无春风浩荡，何来秋色斑斓与硕果累累？,I1,5.0,5.0,4.5,5.0,5.0,4.9
+task2_en_zh_v3_v1_0071,task2,en_zh,v3_v1,115,春华秋实,glm4,low,positive,"Spring blossoms, autumn fruits; without that mighty spring breeze, how could there be this abundant autumn scenery and such bountiful harvests?",春天花开，秋天果实；若非那股强大的春风，怎会有这丰收的秋景和如此丰硕的收成呢？,I0,5.0,3.5,3.0,5.0,3.5,4.0
+task2_en_zh_v3_v1_0072,task2,en_zh,v3_v1,115,春华秋实,qwen25,low,positive,"Spring brings blossoms, but where would we be without that generous spring breeze to usher in the full fields of autumn and bountiful harvest?",春带来花开，但没有那慷慨的春风引领满园秋色和丰饶收获，我们又将如何？,I0,5.0,3.5,3.5,4.5,4.0,4.1
+task2_en_zh_v3_v2_0001,task2,en_zh,v3_v2,722,一成不变,llama31,high,negative,"Everything is constantly evolving, there's nothing static in this world.",世界上没有不变的东西，唯有变化本身是不会改变的。,,5.0,5.0,5.0,2.0,1.0,3.6
+task2_en_zh_v3_v2_0002,task2,en_zh,v3_v2,722,一成不变,mistral,high,negative,Everything is always developing; there's nothing unchanging in the world.,天下动静，无一不变。,,5.0,3.5,3.5,4.5,1.0,3.5
+task2_en_zh_v3_v2_0003,task2,en_zh,v3_v2,722,一成不变,deepseek,high,negative,"Everything is constantly evolving, and there is nothing constant in the world.",世界上的事情无时无刻不在变化，世界上没有永恒不变的东西。,,5.0,5.0,5.0,5.0,4.5,4.9
+task2_en_zh_v3_v2_0004,task2,en_zh,v3_v2,722,一成不变,gemma2,high,negative,"Everything is constantly evolving, nothing in the world remains static.",万物都在不停地变化，世间无一物是静止不动的。,,5.0,5.0,5.0,5.0,1.0,4.2
+task2_en_zh_v3_v2_0005,task2,en_zh,v3_v2,722,一成不变,glm4,high,negative,Things are always developing; there is nothing unchanging in the world.,事物总是不断发展，世界上没有一成不变的事物。,,5.0,5.0,5.0,5.0,5.0,5.0
+task2_en_zh_v3_v2_0006,task2,en_zh,v3_v2,722,一成不变,qwen25,high,negative,Everything is developing; there is nothing that remains unchanged in the world,世事如棋，无常变化。,,5.0,3.0,1.5,3.0,1.0,2.7
+task2_en_zh_v3_v2_0007,task2,en_zh,v3_v2,45,闭目塞听,llama31,high,negative,"Someone who is completely isolated from the objective external world, shutting out all sensory input, is beyond the realm of recognition.",完全封闭在自己的世界里的人，已经超出了认知的范围。,,5.0,3.5,3.0,3.0,1.0,3.1
+task2_en_zh_v3_v2_0008,task2,en_zh,v3_v2,45,闭目塞听,mistral,high,negative,"A person who is indifferent to recognition, closed off from the objective outside world as if deaf and blind, is one who does not matter to know.",无所谓名望的人，就像偶不见声闻一样，对他来说没有什么值得关注的。,,5.0,1.0,1.0,1.0,1.0,1.8
+task2_en_zh_v3_v2_0009,task2,en_zh,v3_v2,45,闭目塞听,deepseek,high,negative,"A person who closes their eyes, plugs their ears, and is completely disconnected from objective reality is of no concern for understanding.",一个完全脱离客观现实的人，闭着眼睛、塞住耳朵，对理解他毫无关系。,,5.0,1.5,1.5,2.0,1.0,2.2
+task2_en_zh_v3_v2_0010,task2,en_zh,v3_v2,45,闭目塞听,gemma2,high,negative,"A person who closes their eyes and ears to the outside world, completely cut off from objective reality, is incapable of true understanding.",目耳不接世事，隔绝客观现实，难以洞悉真相。,,5.0,1.5,1.5,3.0,1.0,2.4000000000000004
+task2_en_zh_v3_v2_0011,task2,en_zh,v3_v2,45,闭目塞听,glm4,high,negative,"A person who shuts their eyes and ears, completely disconnecting from the objective external world, has no concept of cognition.",一个人若闭目塞听，与客观外在世界完全断开联系，便无认知之概念。,,5.0,3.5,4.0,4.5,5.0,4.4
+task2_en_zh_v3_v2_0012,task2,en_zh,v3_v2,45,闭目塞听,qwen25,high,negative,A person who shuts out all external stimuli and remains insulated from the objective world has no need for recognition.,封闭自我，隔绝外界，置身事外之人，无需他人的认可。,,5.0,5.0,5.0,5.0,4.0,4.8
+task2_en_zh_v3_v2_0013,task2,en_zh,v3_v2,353,满城风雨,llama31,low,negative,"Why is everything such a commotion, like a storm raging all over town?",天下大乱如同暴风骤雨。,,5.0,5.0,5.0,3.0,5.0,4.6
+task2_en_zh_v3_v2_0014,task2,en_zh,v3_v2,353,满城风雨,mistral,low,negative,"Why does it make such a commotion, all stirred up, with the whole city in turmoil?",为何鼓动如此猛烈，搅得城市混乱？,,5.0,2.5,2.5,2.5,1.0,2.7
+task2_en_zh_v3_v2_0015,task2,en_zh,v3_v2,353,满城风雨,deepseek,low,negative,"Why does it end up being noisy and chaotic, with rumors spreading all over town?",为什么最后谣言满天飞，整个城市都乱糟糟的？,,5.0,5.0,5.0,4.5,1.0,4.1
+task2_en_zh_v3_v2_0016,task2,en_zh,v3_v2,353,满城风雨,gemma2,low,negative,"Why has it all become such a commotion, with the whole city in an uproar?",整个城市都人心惶惶。,,5.0,5.0,5.0,2.5,2.5,4.0
+task2_en_zh_v3_v2_0017,task2,en_zh,v3_v2,353,满城风雨,glm4,low,negative,"Why has it all turned into such a tumultuous mess, causing chaos throughout the city?",为何一切竟变成了如此混乱的局面，导致整个城市陷入一片混乱？,,5.0,5.0,5.0,5.0,1.0,4.2
+task2_en_zh_v3_v2_0018,task2,en_zh,v3_v2,353,满城风雨,qwen25,low,negative,"Why all the commotion, making a big fuss throughout the city?",全市闹得沸反盈天，真是乌合之众。,,5.0,4.0,4.0,3.0,2.5,3.7
+task2_en_zh_v3_v2_0019,task2,en_zh,v3_v2,518,食古不化,llama31,low,negative,"If we do not study ancient cultural heritage from a dialectical materialist perspective, we will become fossilized relics of the past.",如果我们不从辩证唯物主义的角度去学习古代文化遗产，我们就会成为过去的陈迹。,,5.0,4.5,3.0,5.0,1.0,3.7
+task2_en_zh_v3_v2_0020,task2,en_zh,v3_v2,518,食古不化,mistral,low,negative,"If we do not study ancient cultural heritage using the dialectical materialism perspective, it will result in not assimilating the past but rather consuming it without transformation.",不采用方言材料主义解读古文化遗产，就等于吸收而不化，这是一种沉默的消费。,,5.0,2.5,2.0,3.0,1.0,2.7
+task2_en_zh_v3_v2_0021,task2,en_zh,v3_v2,518,食古不化,deepseek,low,negative,"If one does not approach the study of ancient cultural heritage with a dialectical materialism perspective, they will become stuck in tradition.",如果一个人不以辩证唯物主义的观点研究古代文化遗产，他们就会陷入传统之中。,,5.0,5.0,5.0,5.0,1.0,4.2
+task2_en_zh_v3_v2_0022,task2,en_zh,v3_v2,518,食古不化,gemma2,low,negative,"Without using the dialectical materialist viewpoint to study ancient cultural heritage, one will remain stagnant and unable to progress.",不以辩证唯物主义观点研究古代文化遗产，将一成不变，寸步难行。,,5.0,5.0,5.0,5.0,4.5,4.9
+task2_en_zh_v3_v2_0023,task2,en_zh,v3_v2,518,食古不化,glm4,low,negative,"If one does not study ancient cultural heritage from the perspective of dialectical materialism, they will consume the past without digesting it.",如果一个人不从辩证唯物主义的视角去研究古代文化遗产，那么他们就会囫囵吞枣地消耗过去。,,5.0,3.0,2.5,5.0,4.5,4.0
+task2_en_zh_v3_v2_0024,task2,en_zh,v3_v2,518,食古不化,qwen25,low,negative,"If ancient cultural heritage is studied without a dialectical materialist perspective, it risks being preserved but not understood or appreciated.",如果缺乏辩证唯物主义的观点研究古代文化遗产，它可能会被保存下来却无法被理解或欣赏，这无异于隔靴搔痒。,,5.0,4.0,4.0,3.5,3.0,3.9000000000000004
+task2_en_zh_v3_v2_0025,task2,en_zh,v3_v2,547,四海为家,llama31,high,neutral,"We are people of the world, we consider all humanity as our brothers and sisters.",我们是世界人，视所有人类如同兄弟姐妹。,,5.0,3.5,3.0,5.0,1.0,3.5
+task2_en_zh_v3_v2_0026,task2,en_zh,v3_v2,547,四海为家,mistral,high,neutral,"We are a family of four seas, we are a family of all mankind.",我们就像四个海一样，我们就像全人类一样。,,5.0,2.0,1.5,2.0,1.0,2.3
+task2_en_zh_v3_v2_0027,task2,en_zh,v3_v2,547,四海为家,deepseek,high,neutral,"We are of the world, we regard all people as brothers and sisters.",我们生于世界，视天下人为手足同胞。,,5.0,3.5,1.5,3.0,1.0,2.8
+task2_en_zh_v3_v2_0028,task2,en_zh,v3_v2,547,四海为家,gemma2,high,neutral,"We consider ourselves to be part of one big family, with all people as our brothers and sisters.",我们视天下人为一家，彼此相亲如兄弟姐妹。,,5.0,4.5,4.5,5.0,1.0,4.0
+task2_en_zh_v3_v2_0029,task2,en_zh,v3_v2,547,四海为家,glm4,high,neutral,"We are people without borders, brothers and sisters to all peoples.",我们是无国界的人民，是全人类的兄弟姐妹。,,5.0,3.5,3.5,4.5,1.0,3.5
+task2_en_zh_v3_v2_0030,task2,en_zh,v3_v2,547,四海为家,qwen25,high,neutral,"We are people of the world, brothers and sisters to all humanity.",世界之人，同舟共济。,,5.0,2.5,1.5,3.0,2.5,2.9
+task2_en_zh_v3_v2_0031,task2,en_zh,v3_v2,176,风雨交加,llama31,high,neutral,It's hard to imagine how he managed to get through those stormy days.,"他在风雨交加的日子里,如何熬过那些难以想象的时光。",,5.0,5.0,5.0,2.5,5.0,4.5
+task2_en_zh_v3_v2_0032,task2,en_zh,v3_v2,176,风雨交加,mistral,high,neutral,It's hard to imagine how he managed to get through those stormy days.,他如何凭空跃过那些风雨天，实在难以想象。,,5.0,3.5,2.5,3.5,1.0,3.1
+task2_en_zh_v3_v2_0033,task2,en_zh,v3_v2,176,风雨交加,deepseek,high,neutral,It is hard to imagine how he managed to get through those stormy days.,想象不出他是如何度过那些风雨交加的日子。,,5.0,5.0,5.0,4.5,5.0,4.9
+task2_en_zh_v3_v2_0034,task2,en_zh,v3_v2,176,风雨交加,gemma2,high,neutral,It's hard to imagine how he got through those stormy days.,难以想象他如何在风雨飘摇的日子里度过。,,5.0,3.5,3.0,4.5,4.5,4.1
+task2_en_zh_v3_v2_0035,task2,en_zh,v3_v2,176,风雨交加,glm4,high,neutral,It's hard to imagine how he managed to get through those stormy days.,想象他如何度过那些风雨交加的日子，真是难以置信。,,5.0,5.0,5.0,3.0,5.0,4.6
+task2_en_zh_v3_v2_0036,task2,en_zh,v3_v2,176,风雨交加,qwen25,high,neutral,It's hard to imagine how he managed to get through those stormy days.,风雨飘摇的日子，他竟能撑过去。,,5.0,5.0,5.0,3.0,5.0,4.6
+task2_en_zh_v3_v2_0037,task2,en_zh,v3_v2,197,亘古新闻,llama31,low,neutral,This is truly news that will go down in history.,这件事将载入史册。,,5.0,5.0,5.0,5.0,5.0,5.0
+task2_en_zh_v3_v2_0038,task2,en_zh,v3_v2,197,亘古新闻,mistral,low,neutral,This is ancient news,这是古事之旧，已经不再新鲜了。,,5.0,2.0,2.5,2.5,1.0,2.5999999999999996
+task2_en_zh_v3_v2_0039,task2,en_zh,v3_v2,197,亘古新闻,deepseek,low,neutral,This is truly ancient news,这真是古老的消息。,,5.0,3.5,3.5,5.0,1.0,3.5999999999999996
+task2_en_zh_v3_v2_0040,task2,en_zh,v3_v2,197,亘古新闻,gemma2,low,neutral,This is ancient news.,这已成旧闻。,,5.0,5.0,5.0,3.5,1.0,3.9
+task2_en_zh_v3_v2_0041,task2,en_zh,v3_v2,197,亘古新闻,glm4,low,neutral,This truly is an age-old news item.,这确实是一条千古流传的新闻。,,5.0,5.0,3.5,3.0,2.5,3.8
+task2_en_zh_v3_v2_0042,task2,en_zh,v3_v2,197,亘古新闻,qwen25,low,neutral,This is truly news from the ages,古话所说,,5.0,2.5,2.5,2.0,1.0,2.5999999999999996
+task2_en_zh_v3_v2_0043,task2,en_zh,v3_v2,827,曾几何时,llama31,low,neutral,"At one time, he went out to become a small official himself and came back, and then he urged me to study law and politics again.",他曾经出去当小官，自己回来了，然后又鼓励我再学习法律和政治。,,5.0,3.5,3.0,3.5,1.0,3.2
+task2_en_zh_v3_v2_0044,task2,en_zh,v3_v2,827,曾几何时,mistral,low,neutral,"A long time has passed since, he returned after doing a small official job himself, and he advised me to study law instead.",他自己做了一项小官职后已经过了很长时间，现在他向我建议学法门。,,5.0,3.5,3.0,3.0,1.0,3.1
+task2_en_zh_v3_v2_0045,task2,en_zh,v3_v2,827,曾几何时,deepseek,low,neutral,"Once upon a time, he came back after doing a small official job himself, and then he persuaded me to study law and politics again.",从前，他做完一个小官后回来，然后劝我再次学习法律和政治。,,5.0,3.5,3.0,5.0,1.0,3.5
+task2_en_zh_v3_v2_0046,task2,en_zh,v3_v2,827,曾几何时,gemma2,low,neutral,"Once upon a time, he went back after becoming a small official himself, and then he encouraged me to study law.",他自成小官后归来，一鸣惊人地鼓励我学习法律。,,5.0,2.0,2.0,3.0,2.0,2.8
+task2_en_zh_v3_v2_0047,task2,en_zh,v3_v2,827,曾几何时,glm4,low,neutral,"Once upon a time, he himself went out to become a small official and came back, and then he persuaded me to study law and politics.",从古至今，他自己外出成为了一名小官，归来后，他劝我学习法律和政治。,,5.0,2.5,2.0,3.0,2.0,2.9
+task2_en_zh_v3_v2_0048,task2,en_zh,v3_v2,827,曾几何时,qwen25,low,neutral,"Once upon a time, he returned as a small official, and then he advised me to study law and politics.",他初来乍到，便劝我攻读法律与政事，真是一言既出，驷马难追。,,5.0,2.0,1.5,2.0,2.0,2.5
+task2_en_zh_v3_v2_0049,task2,en_zh,v3_v2,755,仪态万千,llama31,high,positive,"The moon on the lake and the setting sun, the dense shadows and light drizzle on the lake, I have seen them all, truly they are countless in their elegance.","月光湖上和落日,湖面上的浓影和细雨,我见过它们,它们的美丽无穷尽。",,5.0,2.0,2.0,3.5,1.0,2.7
+task2_en_zh_v3_v2_0050,task2,en_zh,v3_v2,755,仪态万千,mistral,high,positive,"The moon and sunset on the lake, as well as the thick clouds and light rain, I have witnessed all of them, truly a spectacle of grandeur.",月光西下，云朵阴雨，我见尽如此，真是一场豪华秀。,,5.0,2.5,2.5,2.5,1.0,2.7
+task2_en_zh_v3_v2_0051,task2,en_zh,v3_v2,755,仪态万千,deepseek,high,positive,"The full moon over the lake, the setting sun, the dense shade on the lake, and the gentle rain - I have seen it all, truly magnificent!",满月照映湖面，夕阳西下，湖面上乌云密布，细雨绵绵。我全都看过了，真是壮观！,,5.0,5.0,5.0,5.0,5.0,5.0
+task2_en_zh_v3_v2_0052,task2,en_zh,v3_v2,755,仪态万千,gemma2,high,positive,"I've seen the bright moon on the lake, as well as the setting sun, the thick shade over the water, and the light rain. It's truly a sight to behold.",湖上明月，夕阳西下，水荫浓重，细雨绵绵，令人心旷神怡。,,5.0,5.0,5.0,3.5,3.5,4.4
+task2_en_zh_v3_v2_0053,task2,en_zh,v3_v2,755,仪态万千,glm4,high,positive,"The bright moon and setting sun over the lake, the dense shadows and light drizzle on the lake's surface—I have all witnessed them, truly displaying a myriad of graceful postures.",明亮的月亮和落日映照在湖面上，湖水表面密集的阴影与细雨交织——我亲眼目睹了这一切，真真切切地展现了万千优雅姿态。,,5.0,3.5,3.5,4.5,1.0,3.5
+task2_en_zh_v3_v2_0054,task2,en_zh,v3_v2,755,仪态万千,qwen25,high,positive,"The moon over the lake and the setting sun, the dense shade and light rain on the lake—I have seen them all, truly varied and charming.",湖上的明月和落日余晖，密林的浓荫与细雨轻拂——各有千秋，别有一番风韵。,,5.0,5.0,5.0,4.5,4.5,4.8
+task2_en_zh_v3_v2_0055,task2,en_zh,v3_v2,95,畅行无阻,llama31,high,positive,Removing snow from the road surface is essential for traffic to flow smoothly again.,清除道路上的积雪对于交通恢复畅通至关重要。,,5.0,4.5,5.0,5.0,5.0,4.9
+task2_en_zh_v3_v2_0056,task2,en_zh,v3_v2,95,畅行无阻,mistral,high,positive,Clear snow from the road surface to make the road passable again.,彻底清雪，重新使道路通行。,,5.0,3.5,4.5,3.5,1.0,3.5
+task2_en_zh_v3_v2_0057,task2,en_zh,v3_v2,95,畅行无阻,deepseek,high,positive,"Remove the snow on the ground, and only then can the road become free of obstacles again.",清除地上的积雪，道路才能再次畅通无阻。,,5.0,5.0,5.0,4.5,5.0,4.9
+task2_en_zh_v3_v2_0058,task2,en_zh,v3_v2,95,畅行无阻,gemma2,high,positive,Clearing the snow from the roads will allow them to be passable again.,清理积雪后，道路便能通行无阻。,,5.0,5.0,5.0,4.5,4.5,4.8
+task2_en_zh_v3_v2_0059,task2,en_zh,v3_v2,95,畅行无阻,glm4,high,positive,Clear away the snow on the road to ensure smooth traffic flow once again.,清除道路上的积雪，以确保交通再次流畅无阻。,,5.0,5.0,4.5,4.0,1.0,3.9
+task2_en_zh_v3_v2_0060,task2,en_zh,v3_v2,95,畅行无阻,qwen25,high,positive,Removing the snow from the road will allow for unobstructed travel again.,除雪畅通无阻。,,5.0,2.5,2.5,3.0,3.5,3.3
+task2_en_zh_v3_v2_0061,task2,en_zh,v3_v2,592,完璧归赵,llama31,low,positive,"Please rest assured, these two things will soon return intact.",请放心，两样东西很快就会完好如初。,,5.0,4.5,4.5,2.5,2.0,3.7
+task2_en_zh_v3_v2_0062,task2,en_zh,v3_v2,592,完璧归赵,mistral,low,positive,"Rest assured, it won't take long before these two things are perfectly returned to Zhao.",放心，两件事很快就会原封不动地回到赵身上了。,,5.0,4.0,3.5,3.5,3.5,3.9000000000000004
+task2_en_zh_v3_v2_0063,task2,en_zh,v3_v2,592,完璧归赵,deepseek,low,positive,"Please rest assured, it won't take long before these two items will be returned to you intact.",请放心，这两件物品很快就会完好无损地归还给您。,,5.0,5.0,5.0,5.0,4.5,4.9
+task2_en_zh_v3_v2_0064,task2,en_zh,v3_v2,592,完璧归赵,gemma2,low,positive,"Rest assured, it won't be long before these two items are returned safe and sound.",请放心，这两件物品很快就会完好无损地归来。,,5.0,3.5,5.0,4.5,4.5,4.5
+task2_en_zh_v3_v2_0065,task2,en_zh,v3_v2,592,完璧归赵,glm4,low,positive,"Please rest assured, it won't be long before these two items are definitely returned to their original owner.",请放心，这两件物品很快就会物归原主。,,5.0,5.0,5.0,5.0,5.0,5.0
+task2_en_zh_v3_v2_0066,task2,en_zh,v3_v2,592,完璧归赵,qwen25,low,positive,"Rest assured, these two items will surely be returned intact soon.",请放心，这两件物品不久将会完好无损地归还。完璧归赵。,,5.0,5.0,5.0,5.0,3.5,4.699999999999999
+task2_en_zh_v3_v2_0067,task2,en_zh,v3_v2,115,春华秋实,llama31,low,positive,"Without that vast spring breeze, how could there even be such an abundance of autumn scenery and a bountiful harvest?",没有那股浩荡的春风，哪里会有这样丰富的秋色和丰收。,,5.0,3.5,5.0,5.0,1.0,3.9
+task2_en_zh_v3_v2_0068,task2,en_zh,v3_v2,115,春华秋实,mistral,low,positive,"In spring there's splendor, but not the wildness of spring wind. Where could one find such vast autumn hues and bountiful harvest?",春有华，但不是春风吹拂的野蛮。那里能找到如此广阔的秋色和丰收？,,5.0,2.5,2.5,3.0,1.0,2.8
+task2_en_zh_v3_v2_0069,task2,en_zh,v3_v2,115,春华秋实,deepseek,low,positive,"Spring flowers and autumn fruits, without that mighty spring breeze, where would there be this vast expanse of autumn colors and bountiful harvest?",春花秋月，没有那春风的吹拂，哪里会有这般广阔的秋色和丰硕的收获呢？,,5.0,3.5,3.5,3.5,3.0,3.7
+task2_en_zh_v3_v2_0070,task2,en_zh,v3_v2,115,春华秋实,gemma2,low,positive,"Spring blossoms lead to autumn harvests; without the grand spring breeze, where would there be this abundance of autumn colors and bountiful yields?",春华秋实，一帆风顺，哪里有秋天的丰富色彩和丰收的喜悦？,,5.0,2.5,2.0,3.0,3.0,3.1
+task2_en_zh_v3_v2_0071,task2,en_zh,v3_v2,115,春华秋实,glm4,low,positive,"Spring blossoms, autumn fruits; without that mighty spring breeze, how could there be this abundant autumn scenery and such bountiful harvests?",春天花开，秋天果熟；若非那股强大的春风，怎会有这丰收的秋景和如此丰硕的收成？,,5.0,5.0,5.0,5.0,1.0,4.2
+task2_en_zh_v3_v2_0072,task2,en_zh,v3_v2,115,春华秋实,qwen25,low,positive,"Spring brings blossoms, but where would we be without that generous spring breeze to usher in the full fields of autumn and bountiful harvest?",春暖花开，若无那和煦春风引领金秋硕果满园，我们又该何去何从？,,5.0,3.5,3.0,5.0,3.0,3.9
+task2_en_zh_v3_v3_0001,task2,en_zh,v3_v3,722,一成不变,llama31,high,negative,"Everything is constantly evolving, there's nothing static in this world.",这个世界上没有什么是永远一成不变的。,,5.0,5.0,5.0,3.0,4.5,4.5
+task2_en_zh_v3_v3_0002,task2,en_zh,v3_v3,722,一成不变,mistral,high,negative,Everything is always developing; there's nothing unchanging in the world.,世界上没有什么永不变化的，一成不变地一切都在发展中。,,5.0,3.0,3.0,2.5,3.0,3.3
+task2_en_zh_v3_v3_0003,task2,en_zh,v3_v3,722,一成不变,deepseek,high,negative,"Everything is constantly evolving, and there is nothing constant in the world.",世界上的万物都在不断变化，世界上没有一样东西是永恒不变的。,,5.0,5.0,5.0,4.5,1.0,4.1
+task2_en_zh_v3_v3_0004,task2,en_zh,v3_v3,722,一成不变,gemma2,high,negative,"Everything is constantly evolving, nothing in the world remains static.",万物都在不断变化，世间万事皆不可一成不变。,,5.0,5.0,5.0,4.5,5.0,4.9
+task2_en_zh_v3_v3_0005,task2,en_zh,v3_v3,722,一成不变,glm4,high,negative,Things are always developing; there is nothing unchanging in the world.,事物总是不断发展，世界上没有一成不变的东西。一成不变。,,5.0,5.0,5.0,4.0,4.5,4.7
+task2_en_zh_v3_v3_0006,task2,en_zh,v3_v3,722,一成不变,qwen25,high,negative,Everything is developing; there is nothing that remains unchanged in the world,世界万物都在发展，“一成不变”是不存在的。,,5.0,5.0,5.0,4.0,3.5,4.5
+task2_en_zh_v3_v3_0007,task2,en_zh,v3_v3,45,闭目塞听,llama31,high,negative,"Someone who is completely isolated from the objective external world, shutting out all sensory input, is beyond the realm of recognition.",闭目塞听的人已经超出了认知的范畴。,,5.0,4.0,2.5,4.0,4.5,4.0
+task2_en_zh_v3_v3_0008,task2,en_zh,v3_v3,45,闭目塞听,mistral,high,negative,"A person who is indifferent to recognition, closed off from the objective outside world as if deaf and blind, is one who does not matter to know.",一个不在乎荣誉的人，就好比沉默不语、如同瞎哑的，并不值得关注。这个人闭目塞听了。,,5.0,1.0,1.0,1.5,2.0,2.1
+task2_en_zh_v3_v3_0009,task2,en_zh,v3_v3,45,闭目塞听,deepseek,high,negative,"A person who closes their eyes, plugs their ears, and is completely disconnected from objective reality is of no concern for understanding.",一个人如果闭上眼睛，堵住耳朵，完全与客观现实脱节，就不值得理解。,,5.0,5.0,3.5,4.5,1.0,3.8
+task2_en_zh_v3_v3_0010,task2,en_zh,v3_v3,45,闭目塞听,gemma2,high,negative,"A person who closes their eyes and ears to the outside world, completely cut off from objective reality, is incapable of true understanding.",闭目塞听的人，无法真正理解客观现实。,,5.0,5.0,5.0,3.5,4.5,4.6
+task2_en_zh_v3_v3_0011,task2,en_zh,v3_v3,45,闭目塞听,glm4,high,negative,"A person who shuts their eyes and ears, completely disconnecting from the objective external world, has no concept of cognition.",一个人若闭目塞听，完全与客观外部世界断绝联系，便没有认知的概念。,,5.0,3.5,3.5,4.5,4.5,4.199999999999999
+task2_en_zh_v3_v3_0012,task2,en_zh,v3_v3,45,闭目塞听,qwen25,high,negative,A person who shuts out all external stimuli and remains insulated from the objective world has no need for recognition.,一个闭目塞听的人如果与客观世界绝缘就无需他人的认可。,,5.0,3.5,3.5,3.5,4.0,3.9000000000000004
+task2_en_zh_v3_v3_0013,task2,en_zh,v3_v3,353,满城风雨,llama31,low,negative,"Why is everything such a commotion, like a storm raging all over town?",为什么会这样大乱，像满城风雨一样。,,5.0,2.5,3.0,4.0,2.5,3.4
+task2_en_zh_v3_v3_0014,task2,en_zh,v3_v3,353,满城风雨,mistral,low,negative,"Why does it make such a commotion, all stirred up, with the whole city in turmoil?",为什么会如此喧嚣，整个城市都闹得乱七八糟，就像满城风雨一样？,,5.0,5.0,3.5,3.0,2.5,3.8
+task2_en_zh_v3_v3_0015,task2,en_zh,v3_v3,353,满城风雨,deepseek,low,negative,"Why does it end up being noisy and chaotic, with rumors spreading all over town?",为什么最后会变得嘈杂混乱，谣言到处传播？,,5.0,4.5,4.5,4.5,1.0,3.9000000000000004
+task2_en_zh_v3_v3_0016,task2,en_zh,v3_v3,353,满城风雨,gemma2,low,negative,"Why has it all become such a commotion, with the whole city in an uproar?",整个城市都满城风雨，为什么闹成这样？,,5.0,5.0,5.0,4.0,3.5,4.5
+task2_en_zh_v3_v3_0017,task2,en_zh,v3_v3,353,满城风雨,glm4,low,negative,"Why has it all turned into such a tumultuous mess, causing chaos throughout the city?",为何一切竟变成了如此混乱的局面，导致整个城市陷入一片混乱？满城风雨。,,5.0,4.5,3.0,3.5,2.0,3.5999999999999996
+task2_en_zh_v3_v3_0018,task2,en_zh,v3_v3,353,满城风雨,qwen25,low,negative,"Why all the commotion, making a big fuss throughout the city?",为什么全市都风声鹤唳，闹得满城风雨？,,5.0,5.0,5.0,3.0,3.5,4.300000000000001
+task2_en_zh_v3_v3_0019,task2,en_zh,v3_v3,518,食古不化,llama31,low,negative,"If we do not study ancient cultural heritage from a dialectical materialist perspective, we will become fossilized relics of the past.",如果我们没有从辩证唯物主义的角度去学习古代文化遗产，我们就会成为陈腐的过时之物。,,5.0,3.5,3.5,3.5,1.0,3.3
+task2_en_zh_v3_v3_0020,task2,en_zh,v3_v3,518,食古不化,mistral,low,negative,"If we do not study ancient cultural heritage using the dialectical materialism perspective, it will result in not assimilating the past but rather consuming it without transformation.",如果我们没有从方言材料主义的角度学习古代文化遗产，就会导致吸收而不化，这意味着只是消费而不是转变。,,5.0,3.0,2.5,2.0,1.0,2.7
+task2_en_zh_v3_v3_0021,task2,en_zh,v3_v3,518,食古不化,deepseek,low,negative,"If one does not approach the study of ancient cultural heritage with a dialectical materialism perspective, they will become stuck in tradition.",如果一个人没有以辩证唯物主义的观点研究古代文化遗产，他们就会陷入传统之中。,,5.0,5.0,4.5,4.5,1.0,4.0
+task2_en_zh_v3_v3_0022,task2,en_zh,v3_v3,518,食古不化,gemma2,low,negative,"Without using the dialectical materialist viewpoint to study ancient cultural heritage, one will remain stagnant and unable to progress.",不采用辩证唯物主义的观点研究古代文化遗产，就会陷入食古不化的境地。,,5.0,5.0,5.0,4.5,4.5,4.8
+task2_en_zh_v3_v3_0023,task2,en_zh,v3_v3,518,食古不化,glm4,low,negative,"If one does not study ancient cultural heritage from the perspective of dialectical materialism, they will consume the past without digesting it.",如果不从辩证唯物主义的角度研究古代文化遗产，就会食古不化。,,5.0,5.0,5.0,4.5,4.5,4.8
+task2_en_zh_v3_v3_0024,task2,en_zh,v3_v3,518,食古不化,qwen25,low,negative,"If ancient cultural heritage is studied without a dialectical materialist perspective, it risks being preserved but not understood or appreciated.",如果研究古代文化遗产时不带辩证唯物主义的观点，它可能会被保存下来但无法理解或欣赏，这就如同食古不化。,,5.0,3.0,3.0,3.5,3.0,3.5
+task2_en_zh_v3_v3_0025,task2,en_zh,v3_v3,547,四海为家,llama31,high,neutral,"We are people of the world, we consider all humanity as our brothers and sisters.",我们是世界人，四海为家的兄弟姐妹在我们的眼中都是同胞。,,5.0,4.0,3.0,3.0,3.0,3.5999999999999996
+task2_en_zh_v3_v3_0026,task2,en_zh,v3_v3,547,四海为家,mistral,high,neutral,"We are a family of four seas, we are a family of all mankind.",我们就像是四海为家的一家人，我们就像是所有人类的一家人。,,5.0,3.0,2.5,3.5,2.5,3.3
+task2_en_zh_v3_v3_0027,task2,en_zh,v3_v3,547,四海为家,deepseek,high,neutral,"We are of the world, we regard all people as brothers and sisters.",我们都是世界的一部分，我们都把所有的人都当作兄弟姐妹。,,5.0,5.0,5.0,3.5,1.0,3.9
+task2_en_zh_v3_v3_0028,task2,en_zh,v3_v3,547,四海为家,gemma2,high,neutral,"We consider ourselves to be part of one big family, with all people as our brothers and sisters.",我们认为四海为家，把全世界的人看作兄弟姐妹。,,5.0,3.0,3.0,3.5,3.0,3.5
+task2_en_zh_v3_v3_0029,task2,en_zh,v3_v3,547,四海为家,glm4,high,neutral,"We are people without borders, brothers and sisters to all peoples.",我们是无边界的民族，四海之内皆兄弟。,,5.0,3.5,3.5,3.5,1.0,3.3
+task2_en_zh_v3_v3_0030,task2,en_zh,v3_v3,547,四海为家,qwen25,high,neutral,"We are people of the world, brothers and sisters to all humanity.",我们是世界的人，四海为家，兄弟姐妹般属于全人类。,,5.0,2.5,2.5,2.5,3.0,3.1
+task2_en_zh_v3_v3_0031,task2,en_zh,v3_v3,176,风雨交加,llama31,high,neutral,It's hard to imagine how he managed to get through those stormy days.,他在风雨交加的日子里是如何熬过来的，简直难以想象。,,5.0,5.0,5.0,4.5,4.5,4.8
+task2_en_zh_v3_v3_0032,task2,en_zh,v3_v3,176,风雨交加,mistral,high,neutral,It's hard to imagine how he managed to get through those stormy days.,他是如何在那些暴风雪的日子里奋斗过来的，实在难以想象。,,5.0,5.0,5.0,3.0,1.0,3.8
+task2_en_zh_v3_v3_0033,task2,en_zh,v3_v3,176,风雨交加,deepseek,high,neutral,It is hard to imagine how he managed to get through those stormy days.,狂风暴雨的日子，他如何度过？,,5.0,5.0,5.0,3.0,1.0,3.8
+task2_en_zh_v3_v3_0034,task2,en_zh,v3_v3,176,风雨交加,gemma2,high,neutral,It's hard to imagine how he got through those stormy days.,很难想象他在风雨交加的日子里是如何度过的。,,5.0,5.0,5.0,5.0,4.5,4.9
+task2_en_zh_v3_v3_0035,task2,en_zh,v3_v3,176,风雨交加,glm4,high,neutral,It's hard to imagine how he managed to get through those stormy days.,很难想象他是如何在这风雨交加之日度过的。,,5.0,3.0,3.0,4.0,4.0,3.8
+task2_en_zh_v3_v3_0036,task2,en_zh,v3_v3,176,风雨交加,qwen25,high,neutral,It's hard to imagine how he managed to get through those stormy days.,风雨交加的日子，他竟然挺过来了。,,5.0,5.0,5.0,3.0,4.5,4.5
+task2_en_zh_v3_v3_0037,task2,en_zh,v3_v3,197,亘古新闻,llama31,low,neutral,This is truly news that will go down in history.,这将是历史上永垂不朽的重大新闻。,,5.0,3.0,3.0,4.5,1.0,3.3
+task2_en_zh_v3_v3_0038,task2,en_zh,v3_v3,197,亘古新闻,mistral,low,neutral,This is ancient news,这是亘古之旧新闻,,5.0,2.5,3.0,4.0,1.0,3.0999999999999996
+task2_en_zh_v3_v3_0039,task2,en_zh,v3_v3,197,亘古新闻,deepseek,low,neutral,This is truly ancient news,古老的新闻,,5.0,3.0,5.0,3.5,1.0,3.5
+task2_en_zh_v3_v3_0040,task2,en_zh,v3_v3,197,亘古新闻,gemma2,low,neutral,This is ancient news.,这已经成了亘古新闻。,,5.0,5.0,5.0,1.5,2.0,3.7
+task2_en_zh_v3_v3_0041,task2,en_zh,v3_v3,197,亘古新闻,glm4,low,neutral,This truly is an age-old news item.,这确实是一条亘古流传的新闻。,,5.0,2.5,3.0,1.5,1.0,2.5999999999999996
+task2_en_zh_v3_v3_0042,task2,en_zh,v3_v3,197,亘古新闻,qwen25,low,neutral,This is truly news from the ages,这确实是亘古新闻,,5.0,5.0,5.0,1.5,2.0,3.7
+task2_en_zh_v3_v3_0043,task2,en_zh,v3_v3,827,曾几何时,llama31,low,neutral,"At one time, he went out to become a small official himself and came back, and then he urged me to study law and politics again.",曾几何时他就想自己做个小官，出来后又回来了，然后他又催促我重新学习法律和政治。,,5.0,5.0,3.5,3.0,3.5,4.0
+task2_en_zh_v3_v3_0044,task2,en_zh,v3_v3,827,曾几何时,mistral,low,neutral,"A long time has passed since, he returned after doing a small official job himself, and he advised me to study law instead.",他自己完成了一个小官职后已经过了许久，然后他建议我当法学生。之前这么久不见了。,,5.0,2.5,3.0,1.5,1.0,2.5999999999999996
+task2_en_zh_v3_v3_0045,task2,en_zh,v3_v3,827,曾几何时,deepseek,low,neutral,"Once upon a time, he came back after doing a small official job himself, and then he persuaded me to study law and politics again.",曾经何时，他做完一个小官职后回来，然后劝我再次学习法律和政治。,,5.0,3.5,5.0,3.0,1.0,3.5
+task2_en_zh_v3_v3_0046,task2,en_zh,v3_v3,827,曾几何时,gemma2,low,neutral,"Once upon a time, he went back after becoming a small official himself, and then he encouraged me to study law.",曾几何时，他升官后归来，鼓励我学习法律。,,5.0,5.0,5.0,3.0,4.5,4.5
+task2_en_zh_v3_v3_0047,task2,en_zh,v3_v3,827,曾几何时,glm4,low,neutral,"Once upon a time, he himself went out to become a small official and came back, and then he persuaded me to study law and politics.",曾几何时，他自己外出成为了一名小官，回来后又说服我学习法律和政治。,,5.0,5.0,5.0,4.5,4.5,4.8
+task2_en_zh_v3_v3_0048,task2,en_zh,v3_v3,827,曾几何时,qwen25,low,neutral,"Once upon a time, he returned as a small official, and then he advised me to study law and politics.",曾几何时他归来为一名小官，随后劝我研究法律和政治。,,5.0,5.0,5.0,4.5,4.5,4.8
+task2_en_zh_v3_v3_0049,task2,en_zh,v3_v3,755,仪态万千,llama31,high,positive,"The moon on the lake and the setting sun, the dense shadows and light drizzle on the lake, I have seen them all, truly they are countless in their elegance.",月光洼湖和落日，湖上浓密的阴影和细雨，都是我见过的，真的是它们的优雅无限多样。,,5.0,2.5,2.0,3.0,1.0,2.7
+task2_en_zh_v3_v3_0050,task2,en_zh,v3_v3,755,仪态万千,mistral,high,positive,"The moon and sunset on the lake, as well as the thick clouds and light rain, I have witnessed all of them, truly a spectacle of grandeur.",在湖上看到月亮和夕阳，同时也见到了厚云和轻雨，我都见过了，真是一场宏伟的秀丽。,,5.0,4.0,3.5,3.5,1.0,3.4000000000000004
+task2_en_zh_v3_v3_0051,task2,en_zh,v3_v3,755,仪态万千,deepseek,high,positive,"The full moon over the lake, the setting sun, the dense shade on the lake, and the gentle rain - I have seen it all, truly magnificent!",必达要求（严格执行）：,,,,,,,
+task2_en_zh_v3_v3_0052,task2,en_zh,v3_v3,755,仪态万千,gemma2,high,positive,"I've seen the bright moon on the lake, as well as the setting sun, the thick shade over the water, and the light rain. It's truly a sight to behold.",湖面映着明月，夕阳西下，树影婆娑，细雨飘零，真是仪态万千。,,5.0,5.0,5.0,5.0,5.0,5.0
+task2_en_zh_v3_v3_0053,task2,en_zh,v3_v3,755,仪态万千,glm4,high,positive,"The bright moon and setting sun over the lake, the dense shadows and light drizzle on the lake's surface—I have all witnessed them, truly displaying a myriad of graceful postures.",月亮明亮，夕阳西下，湖面上密布阴影和细雨——这一切我都亲眼目睹了，真真切切地展现了仪态万千的优雅姿态。,,5.0,5.0,5.0,5.0,4.0,4.8
+task2_en_zh_v3_v3_0054,task2,en_zh,v3_v3,755,仪态万千,qwen25,high,positive,"The moon over the lake and the setting sun, the dense shade and light rain on the lake—I have seen them all, truly varied and charming.",湖上的明月和落日余晖，密林的浓荫与细雨轻拂——我见过它们种种姿态，仪态万千。,,5.0,5.0,5.0,5.0,5.0,5.0
+task2_en_zh_v3_v3_0055,task2,en_zh,v3_v3,95,畅行无阻,llama31,high,positive,Removing snow from the road surface is essential for traffic to flow smoothly again.,为了让交通畅行无阻，清除道路表面积雪至关重要。,,5.0,5.0,5.0,5.0,5.0,5.0
+task2_en_zh_v3_v3_0056,task2,en_zh,v3_v3,95,畅行无阻,mistral,high,positive,Clear snow from the road surface to make the road passable again.,清雪使路通，即是畅行无阻。,,5.0,1.0,2.5,2.5,2.5,2.7
+task2_en_zh_v3_v3_0057,task2,en_zh,v3_v3,95,畅行无阻,deepseek,high,positive,"Remove the snow on the ground, and only then can the road become free of obstacles again.",清除地上的雪，然后道路才能再次畅通无阻。,,5.0,5.0,4.0,4.5,4.5,4.6
+task2_en_zh_v3_v3_0058,task2,en_zh,v3_v3,95,畅行无阻,gemma2,high,positive,Clearing the snow from the roads will allow them to be passable again.,清理积雪后，道路将畅行无阻。,,5.0,5.0,5.0,4.5,4.5,4.8
+task2_en_zh_v3_v3_0059,task2,en_zh,v3_v3,95,畅行无阻,glm4,high,positive,Clear away the snow on the road to ensure smooth traffic flow once again.,清除道路上的积雪，确保再次实现交通畅行无阻。,,5.0,5.0,4.0,4.5,4.5,4.6
+task2_en_zh_v3_v3_0060,task2,en_zh,v3_v3,95,畅行无阻,qwen25,high,positive,Removing the snow from the road will allow for unobstructed travel again.,清除道路积雪将使通行再次畅行无阻。,,5.0,5.0,5.0,4.5,4.5,4.8
+task2_en_zh_v3_v3_0061,task2,en_zh,v3_v3,592,完璧归赵,llama31,low,positive,"Please rest assured, these two things will soon return intact.",请放心，完璧归赵。,,5.0,5.0,4.5,3.0,2.5,4.0
+task2_en_zh_v3_v3_0062,task2,en_zh,v3_v3,592,完璧归赵,mistral,low,positive,"Rest assured, it won't take long before these two things are perfectly returned to Zhao.",无需担心，这两件事很快就会完美地回到赵家了。,,5.0,3.5,3.0,3.0,1.0,3.1
+task2_en_zh_v3_v3_0063,task2,en_zh,v3_v3,592,完璧归赵,deepseek,low,positive,"Please rest assured, it won't take long before these two items will be returned to you intact.",请放心，很快这两件物品将完整无缺地归还给您。,,5.0,5.0,5.0,5.0,1.0,4.2
+task2_en_zh_v3_v3_0064,task2,en_zh,v3_v3,592,完璧归赵,gemma2,low,positive,"Rest assured, it won't be long before these two items are returned safe and sound.",请放心，这两样东西很快就会完壁归赵。,,5.0,5.0,5.0,5.0,5.0,5.0
+task2_en_zh_v3_v3_0065,task2,en_zh,v3_v3,592,完璧归赵,glm4,low,positive,"Please rest assured, it won't be long before these two items are definitely returned to their original owner.",请放心，这两件物品定会完好无损地归还给原主。完璧归赵。,,5.0,5.0,3.5,5.0,1.0,3.9
+task2_en_zh_v3_v3_0066,task2,en_zh,v3_v3,592,完璧归赵,qwen25,low,positive,"Rest assured, these two items will surely be returned intact soon.","Rest assured, 这两件物品将会完好无损地完璧归赵很快。",,3.0,2.5,3.0,2.5,2.5,2.7
+task2_en_zh_v3_v3_0067,task2,en_zh,v3_v3,115,春华秋实,llama31,low,positive,"Without that vast spring breeze, how could there even be such an abundance of autumn scenery and a bountiful harvest?",没有那股春华秋实的气息，怎么会有如此丰富的秋景和丰收呢？,,5.0,5.0,3.5,3.0,2.5,3.8
+task2_en_zh_v3_v3_0068,task2,en_zh,v3_v3,115,春华秋实,mistral,low,positive,"In spring there's splendor, but not the wildness of spring wind. Where could one find such vast autumn hues and bountiful harvest?",春天中，没有春风的野蛮，只有如此广泛的秋色和丰收。,,5.0,3.0,1.5,3.0,1.0,2.7
+task2_en_zh_v3_v3_0069,task2,en_zh,v3_v3,115,春华秋实,deepseek,low,positive,"Spring flowers and autumn fruits, without that mighty spring breeze, where would there be this vast expanse of autumn colors and bountiful harvest?",春季的花朵和秋季的果实，没有那强大的春天之风，哪里会有这广阔的秋天色彩和丰富的收获呢？,,5.0,3.0,3.5,4.5,1.0,3.4
+task2_en_zh_v3_v3_0070,task2,en_zh,v3_v3,115,春华秋实,gemma2,low,positive,"Spring blossoms lead to autumn harvests; without the grand spring breeze, where would there be this abundance of autumn colors and bountiful yields?",春华秋实，没有盛大的春日春风，哪里会有这秋天的丰富色彩和丰收的喜悦？,,5.0,4.5,3.5,4.5,4.5,4.4
+task2_en_zh_v3_v3_0071,task2,en_zh,v3_v3,115,春华秋实,glm4,low,positive,"Spring blossoms, autumn fruits; without that mighty spring breeze, how could there be this abundant autumn scenery and such bountiful harvests?",春风拂面，秋收硕果；若非那股强大的春风吹拂，又怎会有这丰收的秋天景色和如此丰硕的收获呢？春华秋实。,,5.0,4.5,4.5,3.5,1.0,3.7
+task2_en_zh_v3_v3_0072,task2,en_zh,v3_v3,115,春华秋实,qwen25,low,positive,"Spring brings blossoms, but where would we be without that generous spring breeze to usher in the full fields of autumn and bountiful harvest?",春华秋实，如果没有那慷慨的春风引领满园秋收和丰饶的收获，我们又该何去何从？,,5.0,5.0,5.0,3.5,3.5,4.4
+task2_zh_en_v3_v1_0001,task2,zh_en,v3_v1,722,一成不变,llama31,high,negative,事物都是在发展的，世界上没有一成不变的东西,"Everything is constantly evolving, there's nothing static in this world.",,5.0,5.0,3.5,3.0,3.0,3.9
+task2_zh_en_v3_v1_0002,task2,zh_en,v3_v1,722,一成不变,mistral,high,negative,事物都是在发展的，世界上没有一成不变的东西,Everything is always developing; there's nothing unchanging in the world.,,5.0,5.0,3.5,4.0,4.5,4.4
+task2_zh_en_v3_v1_0003,task2,zh_en,v3_v1,722,一成不变,deepseek,high,negative,事物都是在发展的，世界上没有一成不变的东西,"Everything is constantly evolving, and there is nothing constant in the world.",,5.0,3.0,3.0,3.0,3.0,3.4
+task2_zh_en_v3_v1_0004,task2,zh_en,v3_v1,722,一成不变,gemma2,high,negative,事物都是在发展的，世界上没有一成不变的东西,"Everything is constantly evolving, nothing in the world remains static.",,5.0,5.0,4.5,5.0,4.5,4.8
+task2_zh_en_v3_v1_0005,task2,zh_en,v3_v1,722,一成不变,glm4,high,negative,事物都是在发展的，世界上没有一成不变的东西,Things are always developing; there is nothing unchanging in the world.,,5.0,3.0,3.0,3.0,3.5,3.5
+task2_zh_en_v3_v1_0006,task2,zh_en,v3_v1,722,一成不变,qwen25,high,negative,事物都是在发展的，世界上没有一成不变的东西,Everything is developing; there is nothing that remains unchanged in the world,,5.0,3.5,3.0,4.5,4.5,4.1
+task2_zh_en_v3_v1_0007,task2,zh_en,v3_v1,45,闭目塞听,llama31,high,negative,一个闭目塞听、同客观外界根本绝缘的人，是无所谓认识的,"Someone who is completely isolated from the objective external world, shutting out all sensory input, is beyond the realm of recognition.",,5.0,5.0,3.5,3.0,2.5,3.8
+task2_zh_en_v3_v1_0008,task2,zh_en,v3_v1,45,闭目塞听,mistral,high,negative,一个闭目塞听、同客观外界根本绝缘的人，是无所谓认识的,"A person who is indifferent to recognition, closed off from the objective outside world as if deaf and blind, is one who does not matter to know.",,5.0,5.0,3.0,2.0,2.0,3.4000000000000004
+task2_zh_en_v3_v1_0009,task2,zh_en,v3_v1,45,闭目塞听,deepseek,high,negative,一个闭目塞听、同客观外界根本绝缘的人，是无所谓认识的,"A person who closes their eyes, plugs their ears, and is completely disconnected from objective reality is of no concern for understanding.",,5.0,5.0,3.5,5.0,3.0,4.3
+task2_zh_en_v3_v1_0010,task2,zh_en,v3_v1,45,闭目塞听,gemma2,high,negative,一个闭目塞听、同客观外界根本绝缘的人，是无所谓认识的,"A person who closes their eyes and ears to the outside world, completely cut off from objective reality, is incapable of true understanding.",,5.0,5.0,4.0,4.5,4.0,4.5
+task2_zh_en_v3_v1_0011,task2,zh_en,v3_v1,45,闭目塞听,glm4,high,negative,一个闭目塞听、同客观外界根本绝缘的人，是无所谓认识的,"A person who shuts their eyes and ears, completely disconnecting from the objective external world, has no concept of cognition.",,5.0,5.0,4.5,3.0,3.5,4.199999999999999
+task2_zh_en_v3_v1_0012,task2,zh_en,v3_v1,45,闭目塞听,qwen25,high,negative,一个闭目塞听、同客观外界根本绝缘的人，是无所谓认识的,A person who shuts out all external stimuli and remains insulated from the objective world has no need for recognition.,,5.0,5.0,3.0,2.5,3.0,3.7
+task2_zh_en_v3_v1_0013,task2,zh_en,v3_v1,353,满城风雨,llama31,low,negative,为什么倒弄得闹闹攘攘，满城风雨的呢,"Why is everything such a commotion, like a storm raging all over town?",,5.0,5.0,2.5,2.0,2.0,3.3
+task2_zh_en_v3_v1_0014,task2,zh_en,v3_v1,353,满城风雨,mistral,low,negative,为什么倒弄得闹闹攘攘，满城风雨的呢,"Why does it make such a commotion, all stirred up, with the whole city in turmoil?",,5.0,3.5,3.5,3.5,3.5,3.8
+task2_zh_en_v3_v1_0015,task2,zh_en,v3_v1,353,满城风雨,deepseek,low,negative,为什么倒弄得闹闹攘攘，满城风雨的呢,"Why does it end up being noisy and chaotic, with rumors spreading all over town?",,5.0,5.0,5.0,5.0,5.0,5.0
+task2_zh_en_v3_v1_0016,task2,zh_en,v3_v1,353,满城风雨,gemma2,low,negative,为什么倒弄得闹闹攘攘，满城风雨的呢,"Why has it all become such a commotion, with the whole city in an uproar?",,5.0,5.0,3.5,5.0,5.0,4.699999999999999
+task2_zh_en_v3_v1_0017,task2,zh_en,v3_v1,353,满城风雨,glm4,low,negative,为什么倒弄得闹闹攘攘，满城风雨的呢,"Why has it all turned into such a tumultuous mess, causing chaos throughout the city?",,5.0,5.0,3.5,3.5,3.5,4.1
+task2_zh_en_v3_v1_0018,task2,zh_en,v3_v1,353,满城风雨,qwen25,low,negative,为什么倒弄得闹闹攘攘，满城风雨的呢,"Why all the commotion, making a big fuss throughout the city?",,5.0,3.5,3.5,2.5,3.0,3.5
+task2_zh_en_v3_v1_0019,task2,zh_en,v3_v1,518,食古不化,llama31,low,negative,如果不用辩证唯物主义观点去研究古代文化遗产，就会食古不化,"If we do not study ancient cultural heritage from a dialectical materialist perspective, we will become fossilized relics of the past.",,5.0,5.0,3.5,3.0,2.0,3.7
+task2_zh_en_v3_v1_0020,task2,zh_en,v3_v1,518,食古不化,mistral,low,negative,如果不用辩证唯物主义观点去研究古代文化遗产，就会食古不化,"If we do not study ancient cultural heritage using the dialectical materialism perspective, it will result in not assimilating the past but rather consuming it without transformation.",,5.0,5.0,3.5,4.5,4.0,4.4
+task2_zh_en_v3_v1_0021,task2,zh_en,v3_v1,518,食古不化,deepseek,low,negative,如果不用辩证唯物主义观点去研究古代文化遗产，就会食古不化,"If one does not approach the study of ancient cultural heritage with a dialectical materialism perspective, they will become stuck in tradition.",,5.0,4.5,4.0,3.5,3.5,4.1
+task2_zh_en_v3_v1_0022,task2,zh_en,v3_v1,518,食古不化,gemma2,low,negative,如果不用辩证唯物主义观点去研究古代文化遗产，就会食古不化,"Without using the dialectical materialist viewpoint to study ancient cultural heritage, one will remain stagnant and unable to progress.",,5.0,5.0,5.0,5.0,5.0,5.0
+task2_zh_en_v3_v1_0023,task2,zh_en,v3_v1,518,食古不化,glm4,low,negative,如果不用辩证唯物主义观点去研究古代文化遗产，就会食古不化,"If one does not study ancient cultural heritage from the perspective of dialectical materialism, they will consume the past without digesting it.",,5.0,4.5,3.5,2.5,3.0,3.7
+task2_zh_en_v3_v1_0024,task2,zh_en,v3_v1,518,食古不化,qwen25,low,negative,如果不用辩证唯物主义观点去研究古代文化遗产，就会食古不化,"If ancient cultural heritage is studied without a dialectical materialist perspective, it risks being preserved but not understood or appreciated.",,5.0,4.5,3.5,3.0,2.0,3.5999999999999996
+task2_zh_en_v3_v1_0025,task2,zh_en,v3_v1,547,四海为家,llama31,high,neutral,我们是四海为家的，我们是以一切人民为兄弟姐妹的,"We are people of the world, we consider all humanity as our brothers and sisters.",,5.0,4.0,3.0,3.0,4.0,3.8
+task2_zh_en_v3_v1_0026,task2,zh_en,v3_v1,547,四海为家,mistral,high,neutral,我们是四海为家的，我们是以一切人民为兄弟姐妹的,"We are a family of four seas, we are a family of all mankind.",,5.0,5.0,2.0,2.0,2.0,3.2
+task2_zh_en_v3_v1_0027,task2,zh_en,v3_v1,547,四海为家,deepseek,high,neutral,我们是四海为家的，我们是以一切人民为兄弟姐妹的,"We are of the world, we regard all people as brothers and sisters.",,5.0,4.5,3.5,3.0,3.5,3.9000000000000004
+task2_zh_en_v3_v1_0028,task2,zh_en,v3_v1,547,四海为家,gemma2,high,neutral,我们是四海为家的，我们是以一切人民为兄弟姐妹的,"We consider ourselves to be part of one big family, with all people as our brothers and sisters.",,5.0,5.0,4.5,3.5,4.0,4.4
+task2_zh_en_v3_v1_0029,task2,zh_en,v3_v1,547,四海为家,glm4,high,neutral,我们是四海为家的，我们是以一切人民为兄弟姐妹的,"We are people without borders, brothers and sisters to all peoples.",,5.0,3.5,3.5,3.0,3.0,3.5999999999999996
+task2_zh_en_v3_v1_0030,task2,zh_en,v3_v1,547,四海为家,qwen25,high,neutral,我们是四海为家的，我们是以一切人民为兄弟姐妹的,"We are people of the world, brothers and sisters to all humanity.",,5.0,5.0,4.5,4.5,4.5,4.7
+task2_zh_en_v3_v1_0031,task2,zh_en,v3_v1,176,风雨交加,llama31,high,neutral,难以想象，他是怎样渡过那风雨交加的日子的,It's hard to imagine how he managed to get through those stormy days.,,5.0,5.0,4.5,4.5,4.5,4.7
+task2_zh_en_v3_v1_0032,task2,zh_en,v3_v1,176,风雨交加,mistral,high,neutral,难以想象，他是怎样渡过那风雨交加的日子的,It's hard to imagine how he managed to get through those stormy days.,,5.0,5.0,4.5,4.5,4.5,4.7
+task2_zh_en_v3_v1_0033,task2,zh_en,v3_v1,176,风雨交加,deepseek,high,neutral,难以想象，他是怎样渡过那风雨交加的日子的,It is hard to imagine how he managed to get through those stormy days.,,5.0,5.0,4.5,4.5,4.5,4.7
+task2_zh_en_v3_v1_0034,task2,zh_en,v3_v1,176,风雨交加,gemma2,high,neutral,难以想象，他是怎样渡过那风雨交加的日子的,It's hard to imagine how he got through those stormy days.,,5.0,5.0,4.0,4.0,4.0,4.4
+task2_zh_en_v3_v1_0035,task2,zh_en,v3_v1,176,风雨交加,glm4,high,neutral,难以想象，他是怎样渡过那风雨交加的日子的,It's hard to imagine how he managed to get through those stormy days.,,5.0,5.0,4.5,4.5,4.5,4.7
+task2_zh_en_v3_v1_0036,task2,zh_en,v3_v1,176,风雨交加,qwen25,high,neutral,难以想象，他是怎样渡过那风雨交加的日子的,It's hard to imagine how he managed to get through those stormy days.,,5.0,5.0,4.5,4.5,4.5,4.7
+task2_zh_en_v3_v1_0037,task2,zh_en,v3_v1,197,亘古新闻,llama31,low,neutral,这真是亘古新闻,This is truly news that will go down in history.,,5.0,5.0,4.5,3.0,3.0,4.1
+task2_zh_en_v3_v1_0038,task2,zh_en,v3_v1,197,亘古新闻,mistral,low,neutral,这真是亘古新闻,This is ancient news,,5.0,4.5,3.0,1.0,1.0,2.9
+task2_zh_en_v3_v1_0039,task2,zh_en,v3_v1,197,亘古新闻,deepseek,low,neutral,这真是亘古新闻,This is truly ancient news,,5.0,5.0,3.0,1.0,1.0,3.0
+task2_zh_en_v3_v1_0040,task2,zh_en,v3_v1,197,亘古新闻,gemma2,low,neutral,这真是亘古新闻,This is ancient news.,,5.0,5.0,3.0,1.0,1.0,3.0
+task2_zh_en_v3_v1_0041,task2,zh_en,v3_v1,197,亘古新闻,glm4,low,neutral,这真是亘古新闻,This truly is an age-old news item.,,5.0,4.5,3.0,1.0,1.0,2.9
+task2_zh_en_v3_v1_0042,task2,zh_en,v3_v1,197,亘古新闻,qwen25,low,neutral,这真是亘古新闻,This is truly news from the ages,,5.0,5.0,1.5,2.0,2.0,3.1
+task2_zh_en_v3_v1_0043,task2,zh_en,v3_v1,827,曾几何时,llama31,low,neutral,曾几何时，他自己去做了一个小小的官儿回来，而他又劝我去学法政了,"At one time, he went out to become a small official himself and came back, and then he urged me to study law and politics again.",,5.0,3.5,3.0,3.0,3.0,3.5
+task2_zh_en_v3_v1_0044,task2,zh_en,v3_v1,827,曾几何时,mistral,low,neutral,曾几何时，他自己去做了一个小小的官儿回来，而他又劝我去学法政了,"A long time has passed since, he returned after doing a small official job himself, and he advised me to study law instead.",,5.0,2.5,3.5,2.5,1.0,2.9
+task2_zh_en_v3_v1_0045,task2,zh_en,v3_v1,827,曾几何时,deepseek,low,neutral,曾几何时，他自己去做了一个小小的官儿回来，而他又劝我去学法政了,"Once upon a time, he came back after doing a small official job himself, and then he persuaded me to study law and politics again.",,5.0,5.0,3.5,4.0,1.0,3.7
+task2_zh_en_v3_v1_0046,task2,zh_en,v3_v1,827,曾几何时,gemma2,low,neutral,曾几何时，他自己去做了一个小小的官儿回来，而他又劝我去学法政了,"Once upon a time, he went back after becoming a small official himself, and then he encouraged me to study law.",,5.0,5.0,3.5,3.0,1.0,3.5
+task2_zh_en_v3_v1_0047,task2,zh_en,v3_v1,827,曾几何时,glm4,low,neutral,曾几何时，他自己去做了一个小小的官儿回来，而他又劝我去学法政了,"Once upon a time, he himself went out to become a small official and came back, and then he persuaded me to study law and politics.",,5.0,5.0,3.5,3.5,1.0,3.5999999999999996
+task2_zh_en_v3_v1_0048,task2,zh_en,v3_v1,827,曾几何时,qwen25,low,neutral,曾几何时，他自己去做了一个小小的官儿回来，而他又劝我去学法政了,"Once upon a time, he returned as a small official, and then he advised me to study law and politics.",,5.0,5.0,4.5,3.5,1.0,3.8
+task2_zh_en_v3_v1_0049,task2,zh_en,v3_v1,755,仪态万千,llama31,high,positive,湖上的明月和落日，湖上的浓阴和微雨，我都见过了，真是仪态万千,"The moon on the lake and the setting sun, the dense shadows and light drizzle on the lake, I have seen them all, truly they are countless in their elegance.",,5.0,3.5,2.5,2.0,2.5,3.0999999999999996
+task2_zh_en_v3_v1_0050,task2,zh_en,v3_v1,755,仪态万千,mistral,high,positive,湖上的明月和落日，湖上的浓阴和微雨，我都见过了，真是仪态万千,"The moon and sunset on the lake, as well as the thick clouds and light rain, I have witnessed all of them, truly a spectacle of grandeur.",,5.0,5.0,3.5,3.0,2.0,3.7
+task2_zh_en_v3_v1_0051,task2,zh_en,v3_v1,755,仪态万千,deepseek,high,positive,湖上的明月和落日，湖上的浓阴和微雨，我都见过了，真是仪态万千,"The full moon over the lake, the setting sun, the dense shade on the lake, and the gentle rain - I have seen it all, truly magnificent!",,5.0,4.0,3.5,2.5,1.5,3.3
+task2_zh_en_v3_v1_0052,task2,zh_en,v3_v1,755,仪态万千,gemma2,high,positive,湖上的明月和落日，湖上的浓阴和微雨，我都见过了，真是仪态万千,"I've seen the bright moon on the lake, as well as the setting sun, the thick shade over the water, and the light rain. It's truly a sight to behold.",,5.0,4.0,3.5,2.0,2.0,3.3
+task2_zh_en_v3_v1_0053,task2,zh_en,v3_v1,755,仪态万千,glm4,high,positive,湖上的明月和落日，湖上的浓阴和微雨，我都见过了，真是仪态万千,"The bright moon and setting sun over the lake, the dense shadows and light drizzle on the lake's surface—I have all witnessed them, truly displaying a myriad of graceful postures.",,5.0,5.0,4.5,5.0,5.0,4.9
+task2_zh_en_v3_v1_0054,task2,zh_en,v3_v1,755,仪态万千,qwen25,high,positive,湖上的明月和落日，湖上的浓阴和微雨，我都见过了，真是仪态万千,"The moon over the lake and the setting sun, the dense shade and light rain on the lake—I have seen them all, truly varied and charming.",,5.0,5.0,3.5,3.0,3.0,3.9
+task2_zh_en_v3_v1_0055,task2,zh_en,v3_v1,95,畅行无阻,llama31,high,positive,铲除路面上的积雪，才能使道路再度畅行无阻,Removing snow from the road surface is essential for traffic to flow smoothly again.,,5.0,5.0,3.5,4.0,3.0,4.1
+task2_zh_en_v3_v1_0056,task2,zh_en,v3_v1,95,畅行无阻,mistral,high,positive,铲除路面上的积雪，才能使道路再度畅行无阻,Clear snow from the road surface to make the road passable again.,,5.0,3.5,2.5,2.5,2.0,3.0999999999999996
+task2_zh_en_v3_v1_0057,task2,zh_en,v3_v1,95,畅行无阻,deepseek,high,positive,铲除路面上的积雪，才能使道路再度畅行无阻,"Remove the snow on the ground, and only then can the road become free of obstacles again.",,5.0,3.5,3.0,3.5,3.5,3.7
+task2_zh_en_v3_v1_0058,task2,zh_en,v3_v1,95,畅行无阻,gemma2,high,positive,铲除路面上的积雪，才能使道路再度畅行无阻,Clearing the snow from the roads will allow them to be passable again.,,5.0,5.0,4.5,2.0,2.0,3.7
+task2_zh_en_v3_v1_0059,task2,zh_en,v3_v1,95,畅行无阻,glm4,high,positive,铲除路面上的积雪，才能使道路再度畅行无阻,Clear away the snow on the road to ensure smooth traffic flow once again.,,5.0,3.5,3.5,3.5,3.5,3.8
+task2_zh_en_v3_v1_0060,task2,zh_en,v3_v1,95,畅行无阻,qwen25,high,positive,铲除路面上的积雪，才能使道路再度畅行无阻,Removing the snow from the road will allow for unobstructed travel again.,,5.0,3.5,3.5,3.5,3.5,3.8
+task2_zh_en_v3_v1_0061,task2,zh_en,v3_v1,592,完璧归赵,llama31,low,positive,请放心，不要多久，这两件东西定会完璧归赵,"Please rest assured, these two things will soon return intact.",,5.0,4.5,4.0,4.0,4.0,4.300000000000001
+task2_zh_en_v3_v1_0062,task2,zh_en,v3_v1,592,完璧归赵,mistral,low,positive,请放心，不要多久，这两件东西定会完璧归赵,"Rest assured, it won't take long before these two things are perfectly returned to Zhao.",,5.0,5.0,2.5,2.5,2.0,3.4000000000000004
+task2_zh_en_v3_v1_0063,task2,zh_en,v3_v1,592,完璧归赵,deepseek,low,positive,请放心，不要多久，这两件东西定会完璧归赵,"Please rest assured, it won't take long before these two items will be returned to you intact.",,5.0,3.0,3.5,4.0,3.5,3.8
+task2_zh_en_v3_v1_0064,task2,zh_en,v3_v1,592,完璧归赵,gemma2,low,positive,请放心，不要多久，这两件东西定会完璧归赵,"Rest assured, it won't be long before these two items are returned safe and sound.",,5.0,5.0,4.5,3.5,3.0,4.2
+task2_zh_en_v3_v1_0065,task2,zh_en,v3_v1,592,完璧归赵,glm4,low,positive,请放心，不要多久，这两件东西定会完璧归赵,"Please rest assured, it won't be long before these two items are definitely returned to their original owner.",,5.0,5.0,4.5,2.5,2.5,3.9000000000000004
+task2_zh_en_v3_v1_0066,task2,zh_en,v3_v1,592,完璧归赵,qwen25,low,positive,请放心，不要多久，这两件东西定会完璧归赵,"Rest assured, these two items will surely be returned intact soon.",,5.0,5.0,4.5,5.0,5.0,4.9
+task2_zh_en_v3_v1_0067,task2,zh_en,v3_v1,115,春华秋实,llama31,low,positive,春华秋实，没有那浩荡的春风，又哪里会有这满野秋色和大好的收成呢,"Without that vast spring breeze, how could there even be such an abundance of autumn scenery and a bountiful harvest?",,5.0,4.5,4.0,2.5,1.5,3.5
+task2_zh_en_v3_v1_0068,task2,zh_en,v3_v1,115,春华秋实,mistral,low,positive,春华秋实，没有那浩荡的春风，又哪里会有这满野秋色和大好的收成呢,"In spring there's splendor, but not the wildness of spring wind. Where could one find such vast autumn hues and bountiful harvest?",,5.0,4.5,3.0,1.0,1.5,3.0
+task2_zh_en_v3_v1_0069,task2,zh_en,v3_v1,115,春华秋实,deepseek,low,positive,春华秋实，没有那浩荡的春风，又哪里会有这满野秋色和大好的收成呢,"Spring flowers and autumn fruits, without that mighty spring breeze, where would there be this vast expanse of autumn colors and bountiful harvest?",,5.0,5.0,3.5,3.5,3.5,4.1
+task2_zh_en_v3_v1_0070,task2,zh_en,v3_v1,115,春华秋实,gemma2,low,positive,春华秋实，没有那浩荡的春风，又哪里会有这满野秋色和大好的收成呢,"Spring blossoms lead to autumn harvests; without the grand spring breeze, where would there be this abundance of autumn colors and bountiful yields?",,5.0,5.0,4.5,5.0,5.0,4.9
+task2_zh_en_v3_v1_0071,task2,zh_en,v3_v1,115,春华秋实,glm4,low,positive,春华秋实，没有那浩荡的春风，又哪里会有这满野秋色和大好的收成呢,"Spring blossoms, autumn fruits; without that mighty spring breeze, how could there be this abundant autumn scenery and such bountiful harvests?",,5.0,4.5,3.5,3.5,3.5,4.0
+task2_zh_en_v3_v1_0072,task2,zh_en,v3_v1,115,春华秋实,qwen25,low,positive,春华秋实，没有那浩荡的春风，又哪里会有这满野秋色和大好的收成呢,"Spring brings blossoms, but where would we be without that generous spring breeze to usher in the full fields of autumn and bountiful harvest?",,5.0,4.5,3.0,3.0,2.5,3.6
+task2_zh_zh_v3_v1_0001,task2,zh_zh,v3_v1,722,一成不变,llama31,high,negative,事物都是在发展的，世界上没有一成不变的东西,这个世界上没有什么是静止不变的，万事万物都在不断地演进。,I0,5.0,5.0,5.0,5.0,5.0,5.0
+task2_zh_zh_v3_v1_0002,task2,zh_zh,v3_v1,722,一成不变,mistral,high,negative,事物都是在发展的，世界上没有一成不变的东西,一切永无止境地发展，世界上没有不变的东西。,I1,5.0,3.5,3.5,4.5,4.5,4.2
+task2_zh_zh_v3_v1_0003,task2,zh_zh,v3_v1,722,一成不变,deepseek,high,negative,事物都是在发展的，世界上没有一成不变的东西,世界上的所有事物都在不断变化，世界上没有永恒不变的东西。,I0,5.0,5.0,5.0,5.0,5.0,5.0
+task2_zh_zh_v3_v1_0004,task2,zh_zh,v3_v1,722,一成不变,gemma2,high,negative,事物都是在发展的，世界上没有一成不变的东西,万物都在不断变化，世间无物永恒不变。,I0,5.0,5.0,5.0,5.0,5.0,5.0
+task2_zh_zh_v3_v1_0005,task2,zh_zh,v3_v1,722,一成不变,glm4,high,negative,事物都是在发展的，世界上没有一成不变的东西,事物总是在发展中；世界上没有一成不变的事物。,I1,5.0,5.0,5.0,5.0,5.0,5.0
+task2_zh_zh_v3_v1_0006,task2,zh_zh,v3_v1,722,一成不变,qwen25,high,negative,事物都是在发展的，世界上没有一成不变的东西,世间万物都在发展；世界上没有永恒不变的事物,I0,5.0,5.0,5.0,5.0,5.0,5.0
+task2_zh_zh_v3_v1_0007,task2,zh_zh,v3_v1,45,闭目塞听,llama31,high,negative,一个闭目塞听、同客观外界根本绝缘的人，是无所谓认识的,完全隔绝于客观外界世界的人，关闭所有感官输入，超出了认知的范畴。,I0,5.0,3.0,1.0,3.0,4.5,3.3
+task2_zh_zh_v3_v1_0008,task2,zh_zh,v3_v1,45,闭目塞听,mistral,high,negative,一个闭目塞听、同客观外界根本绝缘的人，是无所谓认识的,对外世界冷漠的一个人，就好比是一只聋哑的，不关心名声的。这种人，没有必要被了解。,I0,5.0,1.0,1.0,3.0,3.0,2.6
+task2_zh_zh_v3_v1_0009,task2,zh_zh,v3_v1,45,闭目塞听,deepseek,high,negative,一个闭目塞听、同客观外界根本绝缘的人，是无所谓认识的,闭上眼睛，堵住耳朵，与客观现实完全脱节的人不值得理解。,I0,5.0,3.5,1.5,2.5,3.0,3.0999999999999996
+task2_zh_zh_v3_v1_0010,task2,zh_zh,v3_v1,45,闭目塞听,gemma2,high,negative,一个闭目塞听、同客观外界根本绝缘的人，是无所谓认识的,闭目塞耳，与客观现实完全隔绝的人，无法真正理解。,I0,5.0,3.0,3.0,3.5,5.0,3.9
+task2_zh_zh_v3_v1_0011,task2,zh_zh,v3_v1,45,闭目塞听,glm4,high,negative,一个闭目塞听、同客观外界根本绝缘的人，是无所谓认识的,一个人闭上眼睛和耳朵，完全与客观外部世界断绝联系，他对认知的概念一无所知。,I0,5.0,3.0,1.5,2.5,3.0,3.0
+task2_zh_zh_v3_v1_0012,task2,zh_zh,v3_v1,45,闭目塞听,qwen25,high,negative,一个闭目塞听、同客观外界根本绝缘的人，是无所谓认识的,切断所有外界刺激与客观世界绝缘的人无需被认可。,I0,5.0,3.5,1.5,2.5,3.0,3.0999999999999996
+task2_zh_zh_v3_v1_0013,task2,zh_zh,v3_v1,353,满城风雨,llama31,low,negative,为什么倒弄得闹闹攘攘，满城风雨的呢,为什么会这样大乱，像一场暴风雨席卷全城。,I0,5.0,2.0,2.0,1.5,1.5,2.4000000000000004
+task2_zh_zh_v3_v1_0014,task2,zh_zh,v3_v1,353,满城风雨,mistral,low,negative,为什么倒弄得闹闹攘攘，满城风雨的呢,为什么会这样吵闹，一片混乱，整个城市都处于动荡中？,I0,5.0,4.5,4.5,2.5,2.5,3.8
+task2_zh_zh_v3_v1_0015,task2,zh_zh,v3_v1,353,满城风雨,deepseek,low,negative,为什么倒弄得闹闹攘攘，满城风雨的呢,为什么最后会变得嘈杂混乱，谣言满城飞？,I0,5.0,2.5,5.0,5.0,5.0,4.5
+task2_zh_zh_v3_v1_0016,task2,zh_zh,v3_v1,353,满城风雨,gemma2,low,negative,为什么倒弄得闹闹攘攘，满城风雨的呢,为什么事情都闹成这样，整个城市都沸腾了？,I0,5.0,2.5,3.5,3.0,1.5,3.0999999999999996
+task2_zh_zh_v3_v1_0017,task2,zh_zh,v3_v1,353,满城风雨,glm4,low,negative,为什么倒弄得闹闹攘攘，满城风雨的呢,为什么这一切都变成了如此混乱的局面，导致整个城市陷入混乱？,I0,5.0,5.0,4.5,1.5,1.5,3.5
+task2_zh_zh_v3_v1_0018,task2,zh_zh,v3_v1,353,满城风雨,qwen25,low,negative,为什么倒弄得闹闹攘攘，满城风雨的呢,为何全市闹得沸反盈天？,I1,5.0,5.0,5.0,3.0,2.5,4.1
+task2_zh_zh_v3_v1_0019,task2,zh_zh,v3_v1,518,食古不化,llama31,low,negative,如果不用辩证唯物主义观点去研究古代文化遗产，就会食古不化,如果我们不从辩证唯物主义的角度来研究古代文化遗产，我们就会成为过去的化石。,I0,5.0,4.5,3.5,2.5,2.0,3.5
+task2_zh_zh_v3_v1_0020,task2,zh_zh,v3_v1,518,食古不化,mistral,low,negative,如果不用辩证唯物主义观点去研究古代文化遗产，就会食古不化,如果我们没有从方言材料主义的角度研究古文化遗产，就会导致吸收而不是吸收而不变。,I0,5.0,1.5,1.0,2.5,2.5,2.5
+task2_zh_zh_v3_v1_0021,task2,zh_zh,v3_v1,518,食古不化,deepseek,low,negative,如果不用辩证唯物主义观点去研究古代文化遗产，就会食古不化,如果一个人不以辩证唯物主义的观点研究古代文化遗产，他们就会陷入传统之中。,I0,5.0,3.0,3.0,3.0,2.5,3.3
+task2_zh_zh_v3_v1_0022,task2,zh_zh,v3_v1,518,食古不化,gemma2,low,negative,如果不用辩证唯物主义观点去研究古代文化遗产，就会食古不化,不运用辩证唯物主义观点研究古代文化遗产，就会停滞不前。,I1,5.0,5.0,5.0,3.0,3.0,4.2
+task2_zh_zh_v3_v1_0023,task2,zh_zh,v3_v1,518,食古不化,glm4,low,negative,如果不用辩证唯物主义观点去研究古代文化遗产，就会食古不化,如果一个人不从辩证唯物主义的视角研究古代文化遗产，那么他们就会在未消化过去的情况下消费它。,I0,5.0,2.5,2.5,3.0,2.5,3.0999999999999996
+task2_zh_zh_v3_v1_0024,task2,zh_zh,v3_v1,518,食古不化,qwen25,low,negative,如果不用辩证唯物主义观点去研究古代文化遗产，就会食古不化,若不从辩证唯物主义视角研究古文化遗产，它可能会被保存下来，但却无法被理解或欣赏。,I0,5.0,2.0,3.0,2.0,1.5,2.7
+task2_zh_zh_v3_v1_0025,task2,zh_zh,v3_v1,547,四海为家,llama31,high,neutral,我们是四海为家的，我们是以一切人民为兄弟姐妹的,我们是世界人，我们把所有人类都当作我们的兄弟姐妹。,I0,5.0,2.0,3.0,2.5,2.0,2.9000000000000004
+task2_zh_zh_v3_v1_0026,task2,zh_zh,v3_v1,547,四海为家,mistral,high,neutral,我们是四海为家的，我们是以一切人民为兄弟姐妹的,我们是四个海的家人，我们是所有人类的家人。,I0,5.0,1.0,1.0,1.5,1.0,1.9
+task2_zh_zh_v3_v1_0027,task2,zh_zh,v3_v1,547,四海为家,deepseek,high,neutral,我们是四海为家的，我们是以一切人民为兄弟姐妹的,我们属于这个世界，我们将所有的人视为兄弟姐妹。,I0,5.0,5.0,5.0,2.5,2.0,3.9
+task2_zh_zh_v3_v1_0028,task2,zh_zh,v3_v1,547,四海为家,gemma2,high,neutral,我们是四海为家的，我们是以一切人民为兄弟姐妹的,我们认为自己是一个大家庭的一员，把全世界的人看作兄弟姐妹。,I0,5.0,4.0,4.0,1.0,1.0,3.0
+task2_zh_zh_v3_v1_0029,task2,zh_zh,v3_v1,547,四海为家,glm4,high,neutral,我们是四海为家的，我们是以一切人民为兄弟姐妹的,我们是无国界的人民，是全人类的兄弟姐妹。,I0,5.0,4.5,4.0,3.0,2.5,3.8
+task2_zh_zh_v3_v1_0030,task2,zh_zh,v3_v1,547,四海为家,qwen25,high,neutral,我们是四海为家的，我们是以一切人民为兄弟姐妹的,我们是世界的人，与全人类兄弟姐妹般相待。,I0,5.0,1.5,1.5,2.5,2.0,2.5
+task2_zh_zh_v3_v1_0031,task2,zh_zh,v3_v1,176,风雨交加,llama31,high,neutral,难以想象，他是怎样渡过那风雨交加的日子的,难以想象他是如何在那些风暴天气中熬过来的。,I0,5.0,5.0,5.0,2.0,1.5,3.7
+task2_zh_zh_v3_v1_0032,task2,zh_zh,v3_v1,176,风雨交加,mistral,high,neutral,难以想象，他是怎样渡过那风雨交加的日子的,想象他如何经过那些风暴日子是很困难的。,I0,5.0,1.5,2.5,2.0,2.0,2.6
+task2_zh_zh_v3_v1_0033,task2,zh_zh,v3_v1,176,风雨交加,deepseek,high,neutral,难以想象，他是怎样渡过那风雨交加的日子的,想象不出他是如何度过那些风暴的日子。,I0,5.0,3.5,3.5,2.5,2.0,3.3
+task2_zh_zh_v3_v1_0034,task2,zh_zh,v3_v1,176,风雨交加,gemma2,high,neutral,难以想象，他是怎样渡过那风雨交加的日子的,很难想象他如何度过了那些风雨飘摇的日子。,I1,5.0,5.0,5.0,5.0,5.0,5.0
+task2_zh_zh_v3_v1_0035,task2,zh_zh,v3_v1,176,风雨交加,glm4,high,neutral,难以想象，他是怎样渡过那风雨交加的日子的,想象他如何度过那些暴风雨的日子，实在难以想象。,I0,5.0,3.0,3.0,2.5,2.0,3.1
+task2_zh_zh_v3_v1_0036,task2,zh_zh,v3_v1,176,风雨交加,qwen25,high,neutral,难以想象，他是怎样渡过那风雨交加的日子的,很难想象他是如何熬过那些风雨飘摇的日子的。,I1,5.0,5.0,5.0,5.0,5.0,5.0
+task2_zh_zh_v3_v1_0037,task2,zh_zh,v3_v1,197,亘古新闻,llama31,low,neutral,这真是亘古新闻,这将是历史上的一则真正的新闻。,I0,5.0,3.5,3.0,1.5,1.5,2.9000000000000004
+task2_zh_zh_v3_v1_0038,task2,zh_zh,v3_v1,197,亘古新闻,mistral,low,neutral,这真是亘古新闻,这是古老的新闻,I0,5.0,4.5,4.5,3.0,1.0,3.5999999999999996
+task2_zh_zh_v3_v1_0039,task2,zh_zh,v3_v1,197,亘古新闻,deepseek,low,neutral,这真是亘古新闻,This is 真正古老的 news,I0,3.0,1.0,1.0,1.5,1.0,1.5
+task2_zh_zh_v3_v1_0040,task2,zh_zh,v3_v1,197,亘古新闻,gemma2,low,neutral,这真是亘古新闻,这是老新闻了。,I0,5.0,5.0,5.0,2.5,1.0,3.7
+task2_zh_zh_v3_v1_0041,task2,zh_zh,v3_v1,197,亘古新闻,glm4,low,neutral,这真是亘古新闻,这确实是一条源远流长的新闻。,I1,5.0,1.5,3.0,1.0,1.0,2.3
+task2_zh_zh_v3_v1_0042,task2,zh_zh,v3_v1,197,亘古新闻,qwen25,low,neutral,这真是亘古新闻,这是真正的千古消息,I0,5.0,1.0,1.0,1.0,1.0,1.8
+task2_zh_zh_v3_v1_0043,task2,zh_zh,v3_v1,827,曾几何时,llama31,low,neutral,曾几何时，他自己去做了一个小小的官儿回来，而他又劝我去学法政了,有一次，他自己去当小官，回来后又催促我再学习法律和政治。,I0,5.0,3.0,3.0,3.0,1.0,3.0
+task2_zh_zh_v3_v1_0044,task2,zh_zh,v3_v1,827,曾几何时,mistral,low,neutral,曾几何时，他自己去做了一个小小的官儿回来，而他又劝我去学法政了,很长一段时间以前，他自己完成了一个小官职后回来了，然后告诉我应该学法律而不是原来的计划。,I0,5.0,2.5,3.0,2.5,2.0,3.0
+task2_zh_zh_v3_v1_0045,task2,zh_zh,v3_v1,827,曾几何时,deepseek,low,neutral,曾几何时，他自己去做了一个小小的官儿回来，而他又劝我去学法政了,很久以前，他做完一个小官方任务后回来，然后劝我再次学习法律和政治。,I0,5.0,2.0,2.5,3.0,2.0,2.9
+task2_zh_zh_v3_v1_0046,task2,zh_zh,v3_v1,827,曾几何时,gemma2,low,neutral,曾几何时，他自己去做了一个小小的官儿回来，而他又劝我去学法政了,他后来自己做了小官，就回来了，鼓励我学习法律。,I0,5.0,3.0,4.5,3.0,1.0,3.3
+task2_zh_zh_v3_v1_0047,task2,zh_zh,v3_v1,827,曾几何时,glm4,low,neutral,曾几何时，他自己去做了一个小小的官儿回来，而他又劝我去学法政了,从前有个人，他自己出去做了个小官，然后回来。之后他劝我学法律和政治。,I0,5.0,3.0,5.0,4.5,3.5,4.2
+task2_zh_zh_v3_v1_0048,task2,zh_zh,v3_v1,827,曾几何时,qwen25,low,neutral,曾几何时，他自己去做了一个小小的官儿回来，而他又劝我去学法政了,从前，他归来时是个小官，随后劝我学法律和政治。,I0,5.0,2.0,2.5,4.5,3.5,3.5
+task2_zh_zh_v3_v1_0049,task2,zh_zh,v3_v1,755,仪态万千,llama31,high,positive,湖上的明月和落日，湖上的浓阴和微雨，我都见过了，真是仪态万千,月光洼在湖面和落日，湖上浓密的阴影和细雨，我见过它们全都，真的是无数美丽。,I0,5.0,1.5,1.5,2.5,1.5,2.4000000000000004
+task2_zh_zh_v3_v1_0050,task2,zh_zh,v3_v1,755,仪态万千,mistral,high,positive,湖上的明月和落日，湖上的浓阴和微雨，我都见过了，真是仪态万千,月亮和夕阳在湖上，还有厚重的云层和轻微的雨，我都见过了，真是一场宏大的秀丽。,I0,5.0,2.5,2.5,2.5,1.5,2.8
+task2_zh_zh_v3_v1_0051,task2,zh_zh,v3_v1,755,仪态万千,deepseek,high,positive,湖上的明月和落日，湖上的浓阴和微雨，我都见过了，真是仪态万千,满月照耀着湖面，夕阳西下，湖面上浓密的阴影和细雨中的柔和雨水——我全都看到了，真是太美了！,I1,5.0,3.5,5.0,4.0,1.5,3.8
+task2_zh_zh_v3_v1_0052,task2,zh_zh,v3_v1,755,仪态万千,gemma2,high,positive,湖上的明月和落日，湖上的浓阴和微雨，我都见过了，真是仪态万千,我见过湖上的明月，也见过夕阳西下，水面的浓荫，以及细雨绵绵。真是美不胜收。,I1,5.0,4.0,3.0,3.5,1.5,3.4000000000000004
+task2_zh_zh_v3_v1_0053,task2,zh_zh,v3_v1,755,仪态万千,glm4,high,positive,湖上的明月和落日，湖上的浓阴和微雨，我都见过了，真是仪态万千,明亮的月亮和落日映照在湖面上，湖水表面密集的阴影和细雨——我亲眼目睹了这一切，真正展现了无数优雅的姿态。,I0,5.0,1.5,1.5,4.0,3.5,3.0999999999999996
+task2_zh_zh_v3_v1_0054,task2,zh_zh,v3_v1,755,仪态万千,qwen25,high,positive,湖上的明月和落日，湖上的浓阴和微雨，我都见过了，真是仪态万千,湖上的明月和落日余晖，密布的树荫与细雨轻拂——我皆见过，各有意趣。,I0,5.0,4.5,5.0,3.5,1.5,3.9000000000000004
+task2_zh_zh_v3_v1_0055,task2,zh_zh,v3_v1,95,畅行无阻,llama31,high,positive,铲除路面上的积雪，才能使道路再度畅行无阻,清除道路表面积雪对于交通恢复畅通至关重要。,I0,5.0,5.0,5.0,3.0,4.5,4.5
+task2_zh_zh_v3_v1_0056,task2,zh_zh,v3_v1,95,畅行无阻,mistral,high,positive,铲除路面上的积雪，才能使道路再度畅行无阻,清雪道面，使道路通行。,I0,5.0,2.0,2.0,3.0,3.0,3.0
+task2_zh_zh_v3_v1_0057,task2,zh_zh,v3_v1,95,畅行无阻,deepseek,high,positive,铲除路面上的积雪，才能使道路再度畅行无阻,移除地面的积雪，然后道路才能再次变得没有障碍。,I0,5.0,3.5,3.5,4.5,3.0,3.9
+task2_zh_zh_v3_v1_0058,task2,zh_zh,v3_v1,95,畅行无阻,gemma2,high,positive,铲除路面上的积雪，才能使道路再度畅行无阻,清理积雪后，道路就能通行。,I0,5.0,5.0,5.0,4.5,3.0,4.5
+task2_zh_zh_v3_v1_0059,task2,zh_zh,v3_v1,95,畅行无阻,glm4,high,positive,铲除路面上的积雪，才能使道路再度畅行无阻,清除道路上的积雪，以确保交通再次流畅。,I0,5.0,5.0,5.0,4.5,3.0,4.5
+task2_zh_zh_v3_v1_0060,task2,zh_zh,v3_v1,95,畅行无阻,qwen25,high,positive,铲除路面上的积雪，才能使道路再度畅行无阻,清除道路积雪将恢复通行无阻。,I0,5.0,4.0,4.0,4.5,5.0,4.5
+task2_zh_zh_v3_v1_0061,task2,zh_zh,v3_v1,592,完璧归赵,llama31,low,positive,请放心，不要多久，这两件东西定会完璧归赵,请放心，两样东西很快就会完整地回来。,I0,5.0,3.5,5.0,4.0,3.0,4.1
+task2_zh_zh_v3_v1_0062,task2,zh_zh,v3_v1,592,完璧归赵,mistral,low,positive,请放心，不要多久，这两件东西定会完璧归赵,不用担心，这两件事很快就会完美地回到赵上了。,I0,5.0,1.0,1.0,1.5,1.5,2.0
+task2_zh_zh_v3_v1_0063,task2,zh_zh,v3_v1,592,完璧归赵,deepseek,low,positive,请放心，不要多久，这两件东西定会完璧归赵,请放心，这些两个项目将在不久的将来完好无损地归还给您。,I0,5.0,3.0,3.0,3.0,5.0,3.8
+task2_zh_zh_v3_v1_0064,task2,zh_zh,v3_v1,592,完璧归赵,gemma2,low,positive,请放心，不要多久，这两件东西定会完璧归赵,请放心，这两件物品很快就会安全无损地归还。,I0,5.0,4.5,4.5,5.0,5.0,4.8
+task2_zh_zh_v3_v1_0065,task2,zh_zh,v3_v1,592,完璧归赵,glm4,low,positive,请放心，不要多久，这两件东西定会完璧归赵,请放心，这两件物品很快就会肯定归还给原主。,I0,5.0,3.0,3.0,3.5,3.0,3.5
+task2_zh_zh_v3_v1_0066,task2,zh_zh,v3_v1,592,完璧归赵,qwen25,low,positive,请放心，不要多久，这两件东西定会完璧归赵,请放心，这两件物品很快就会完好无损地归还。,I0,5.0,5.0,5.0,5.0,5.0,5.0
+task2_zh_zh_v3_v1_0067,task2,zh_zh,v3_v1,115,春华秋实,llama31,low,positive,春华秋实，没有那浩荡的春风，又哪里会有这满野秋色和大好的收成呢,没有那股浩瀚的春风，怎么会有如此丰富的秋色和丰收呢？,I0,5.0,3.5,5.0,4.0,1.0,3.7
+task2_zh_zh_v3_v1_0068,task2,zh_zh,v3_v1,115,春华秋实,mistral,low,positive,春华秋实，没有那浩荡的春风，又哪里会有这满野秋色和大好的收成呢,春有华，但不是春风的野蛮。哪里能找到如此广阔的秋色和丰收？,I0,5.0,2.0,1.5,3.0,2.5,2.8
+task2_zh_zh_v3_v1_0069,task2,zh_zh,v3_v1,115,春华秋实,deepseek,low,positive,春华秋实，没有那浩荡的春风，又哪里会有这满野秋色和大好的收成呢,春季的花朵和秋季的果实，没有那强大的春天之风，哪里会有这广阔秋景和丰硕收获呢？,I0,5.0,3.5,5.0,4.5,4.5,4.5
+task2_zh_zh_v3_v1_0070,task2,zh_zh,v3_v1,115,春华秋实,gemma2,low,positive,春华秋实，没有那浩荡的春风，又哪里会有这满野秋色和大好的收成呢,春花盛开，秋实丰收；若无春风浩荡，何来秋色斑斓与硕果累累？,I1,5.0,5.0,4.5,5.0,5.0,4.9
+task2_zh_zh_v3_v1_0071,task2,zh_zh,v3_v1,115,春华秋实,glm4,low,positive,春华秋实，没有那浩荡的春风，又哪里会有这满野秋色和大好的收成呢,春天花开，秋天果实；若非那股强大的春风，怎会有这丰收的秋景和如此丰硕的收成呢？,I0,5.0,3.5,3.0,4.5,4.5,4.1
+task2_zh_zh_v3_v1_0072,task2,zh_zh,v3_v1,115,春华秋实,qwen25,low,positive,春华秋实，没有那浩荡的春风，又哪里会有这满野秋色和大好的收成呢,春带来花开，但没有那慷慨的春风引领满园秋色和丰饶收获，我们又将如何？,I0,5.0,3.5,3.5,3.0,5.0,4.0
+task2_zh_zh_v3_v2_0001,task2,zh_zh,v3_v2,722,一成不变,llama31,high,negative,事物都是在发展的，世界上没有一成不变的东西,世界上没有不变的东西，唯有变化本身是不会改变的。,,5.0,5.0,5.0,3.0,1.0,3.8
+task2_zh_zh_v3_v2_0002,task2,zh_zh,v3_v2,722,一成不变,mistral,high,negative,事物都是在发展的，世界上没有一成不变的东西,天下动静，无一不变。,,5.0,3.5,3.5,3.0,1.0,3.2
+task2_zh_zh_v3_v2_0003,task2,zh_zh,v3_v2,722,一成不变,deepseek,high,negative,事物都是在发展的，世界上没有一成不变的东西,世界上的事情无时无刻不在变化，世界上没有永恒不变的东西。,,5.0,5.0,5.0,5.0,4.5,4.9
+task2_zh_zh_v3_v2_0004,task2,zh_zh,v3_v2,722,一成不变,gemma2,high,negative,事物都是在发展的，世界上没有一成不变的东西,万物都在不停地变化，世间无一物是静止不动的。,,5.0,5.0,5.0,5.0,1.0,4.2
+task2_zh_zh_v3_v2_0005,task2,zh_zh,v3_v2,722,一成不变,glm4,high,negative,事物都是在发展的，世界上没有一成不变的东西,事物总是不断发展，世界上没有一成不变的事物。,,5.0,5.0,5.0,5.0,5.0,5.0
+task2_zh_zh_v3_v2_0006,task2,zh_zh,v3_v2,722,一成不变,qwen25,high,negative,事物都是在发展的，世界上没有一成不变的东西,世事如棋，无常变化。,,5.0,3.0,1.5,2.5,1.0,2.5999999999999996
+task2_zh_zh_v3_v2_0007,task2,zh_zh,v3_v2,45,闭目塞听,llama31,high,negative,一个闭目塞听、同客观外界根本绝缘的人，是无所谓认识的,完全封闭在自己的世界里的人，已经超出了认知的范围。,,5.0,3.5,3.0,1.5,1.0,2.8
+task2_zh_zh_v3_v2_0008,task2,zh_zh,v3_v2,45,闭目塞听,mistral,high,negative,一个闭目塞听、同客观外界根本绝缘的人，是无所谓认识的,无所谓名望的人，就像偶不见声闻一样，对他来说没有什么值得关注的。,,5.0,1.0,1.0,1.0,1.0,1.8
+task2_zh_zh_v3_v2_0009,task2,zh_zh,v3_v2,45,闭目塞听,deepseek,high,negative,一个闭目塞听、同客观外界根本绝缘的人，是无所谓认识的,一个完全脱离客观现实的人，闭着眼睛、塞住耳朵，对理解他毫无关系。,,5.0,1.5,1.5,1.5,1.0,2.1
+task2_zh_zh_v3_v2_0010,task2,zh_zh,v3_v2,45,闭目塞听,gemma2,high,negative,一个闭目塞听、同客观外界根本绝缘的人，是无所谓认识的,目耳不接世事，隔绝客观现实，难以洞悉真相。,,5.0,1.5,1.5,4.5,1.0,2.7
+task2_zh_zh_v3_v2_0011,task2,zh_zh,v3_v2,45,闭目塞听,glm4,high,negative,一个闭目塞听、同客观外界根本绝缘的人，是无所谓认识的,一个人若闭目塞听，与客观外在世界完全断开联系，便无认知之概念。,,5.0,3.5,4.0,3.5,5.0,4.2
+task2_zh_zh_v3_v2_0012,task2,zh_zh,v3_v2,45,闭目塞听,qwen25,high,negative,一个闭目塞听、同客观外界根本绝缘的人，是无所谓认识的,封闭自我，隔绝外界，置身事外之人，无需他人的认可。,,5.0,5.0,5.0,3.0,2.5,4.1
+task2_zh_zh_v3_v2_0013,task2,zh_zh,v3_v2,353,满城风雨,llama31,low,negative,为什么倒弄得闹闹攘攘，满城风雨的呢,天下大乱如同暴风骤雨。,,5.0,5.0,5.0,1.5,3.0,3.9
+task2_zh_zh_v3_v2_0014,task2,zh_zh,v3_v2,353,满城风雨,mistral,low,negative,为什么倒弄得闹闹攘攘，满城风雨的呢,为何鼓动如此猛烈，搅得城市混乱？,,5.0,2.5,2.5,3.0,1.0,2.8
+task2_zh_zh_v3_v2_0015,task2,zh_zh,v3_v2,353,满城风雨,deepseek,low,negative,为什么倒弄得闹闹攘攘，满城风雨的呢,为什么最后谣言满天飞，整个城市都乱糟糟的？,,5.0,5.0,5.0,4.5,1.0,4.1
+task2_zh_zh_v3_v2_0016,task2,zh_zh,v3_v2,353,满城风雨,gemma2,low,negative,为什么倒弄得闹闹攘攘，满城风雨的呢,整个城市都人心惶惶。,,5.0,5.0,5.0,1.0,3.0,3.8
+task2_zh_zh_v3_v2_0017,task2,zh_zh,v3_v2,353,满城风雨,glm4,low,negative,为什么倒弄得闹闹攘攘，满城风雨的呢,为何一切竟变成了如此混乱的局面，导致整个城市陷入一片混乱？,,5.0,5.0,5.0,3.0,1.0,3.8
+task2_zh_zh_v3_v2_0018,task2,zh_zh,v3_v2,353,满城风雨,qwen25,low,negative,为什么倒弄得闹闹攘攘，满城风雨的呢,全市闹得沸反盈天，真是乌合之众。,,5.0,4.0,4.0,2.5,3.5,3.8
+task2_zh_zh_v3_v2_0019,task2,zh_zh,v3_v2,518,食古不化,llama31,low,negative,如果不用辩证唯物主义观点去研究古代文化遗产，就会食古不化,如果我们不从辩证唯物主义的角度去学习古代文化遗产，我们就会成为过去的陈迹。,,5.0,4.5,3.0,5.0,1.0,3.7
+task2_zh_zh_v3_v2_0020,task2,zh_zh,v3_v2,518,食古不化,mistral,low,negative,如果不用辩证唯物主义观点去研究古代文化遗产，就会食古不化,不采用方言材料主义解读古文化遗产，就等于吸收而不化，这是一种沉默的消费。,,5.0,2.5,2.0,1.0,1.0,2.3
+task2_zh_zh_v3_v2_0021,task2,zh_zh,v3_v2,518,食古不化,deepseek,low,negative,如果不用辩证唯物主义观点去研究古代文化遗产，就会食古不化,如果一个人不以辩证唯物主义的观点研究古代文化遗产，他们就会陷入传统之中。,,5.0,5.0,5.0,3.0,1.0,3.8
+task2_zh_zh_v3_v2_0022,task2,zh_zh,v3_v2,518,食古不化,gemma2,low,negative,如果不用辩证唯物主义观点去研究古代文化遗产，就会食古不化,不以辩证唯物主义观点研究古代文化遗产，将一成不变，寸步难行。,,5.0,5.0,5.0,4.5,2.5,4.4
+task2_zh_zh_v3_v2_0023,task2,zh_zh,v3_v2,518,食古不化,glm4,low,negative,如果不用辩证唯物主义观点去研究古代文化遗产，就会食古不化,如果一个人不从辩证唯物主义的视角去研究古代文化遗产，那么他们就会囫囵吞枣地消耗过去。,,5.0,3.0,2.5,1.5,2.0,2.8
+task2_zh_zh_v3_v2_0024,task2,zh_zh,v3_v2,518,食古不化,qwen25,low,negative,如果不用辩证唯物主义观点去研究古代文化遗产，就会食古不化,如果缺乏辩证唯物主义的观点研究古代文化遗产，它可能会被保存下来却无法被理解或欣赏，这无异于隔靴搔痒。,,5.0,4.0,4.0,1.0,2.0,3.2
+task2_zh_zh_v3_v2_0025,task2,zh_zh,v3_v2,547,四海为家,llama31,high,neutral,我们是四海为家的，我们是以一切人民为兄弟姐妹的,我们是世界人，视所有人类如同兄弟姐妹。,,5.0,3.5,3.0,3.0,1.0,3.1
+task2_zh_zh_v3_v2_0026,task2,zh_zh,v3_v2,547,四海为家,mistral,high,neutral,我们是四海为家的，我们是以一切人民为兄弟姐妹的,我们就像四个海一样，我们就像全人类一样。,,5.0,2.0,1.5,1.0,1.0,2.1
+task2_zh_zh_v3_v2_0027,task2,zh_zh,v3_v2,547,四海为家,deepseek,high,neutral,我们是四海为家的，我们是以一切人民为兄弟姐妹的,我们生于世界，视天下人为手足同胞。,,5.0,3.5,1.5,2.5,1.0,2.7
+task2_zh_zh_v3_v2_0028,task2,zh_zh,v3_v2,547,四海为家,gemma2,high,neutral,我们是四海为家的，我们是以一切人民为兄弟姐妹的,我们视天下人为一家，彼此相亲如兄弟姐妹。,,5.0,4.5,4.5,2.5,1.0,3.5
+task2_zh_zh_v3_v2_0029,task2,zh_zh,v3_v2,547,四海为家,glm4,high,neutral,我们是四海为家的，我们是以一切人民为兄弟姐妹的,我们是无国界的人民，是全人类的兄弟姐妹。,,5.0,3.5,3.5,2.0,1.0,3.0
+task2_zh_zh_v3_v2_0030,task2,zh_zh,v3_v2,547,四海为家,qwen25,high,neutral,我们是四海为家的，我们是以一切人民为兄弟姐妹的,世界之人，同舟共济。,,5.0,2.5,1.5,1.0,2.0,2.4000000000000004
+task2_zh_zh_v3_v2_0031,task2,zh_zh,v3_v2,176,风雨交加,llama31,high,neutral,难以想象，他是怎样渡过那风雨交加的日子的,"他在风雨交加的日子里,如何熬过那些难以想象的时光。",,5.0,5.0,5.0,4.0,5.0,4.8
+task2_zh_zh_v3_v2_0032,task2,zh_zh,v3_v2,176,风雨交加,mistral,high,neutral,难以想象，他是怎样渡过那风雨交加的日子的,他如何凭空跃过那些风雨天，实在难以想象。,,5.0,3.5,2.5,1.0,1.0,2.5999999999999996
+task2_zh_zh_v3_v2_0033,task2,zh_zh,v3_v2,176,风雨交加,deepseek,high,neutral,难以想象，他是怎样渡过那风雨交加的日子的,想象不出他是如何度过那些风雨交加的日子。,,5.0,5.0,5.0,5.0,5.0,5.0
+task2_zh_zh_v3_v2_0034,task2,zh_zh,v3_v2,176,风雨交加,gemma2,high,neutral,难以想象，他是怎样渡过那风雨交加的日子的,难以想象他如何在风雨飘摇的日子里度过。,,5.0,3.5,3.0,5.0,4.5,4.2
+task2_zh_zh_v3_v2_0035,task2,zh_zh,v3_v2,176,风雨交加,glm4,high,neutral,难以想象，他是怎样渡过那风雨交加的日子的,想象他如何度过那些风雨交加的日子，真是难以置信。,,5.0,5.0,5.0,4.5,5.0,4.9
+task2_zh_zh_v3_v2_0036,task2,zh_zh,v3_v2,176,风雨交加,qwen25,high,neutral,难以想象，他是怎样渡过那风雨交加的日子的,风雨飘摇的日子，他竟能撑过去。,,5.0,5.0,5.0,4.5,4.5,4.8
+task2_zh_zh_v3_v2_0037,task2,zh_zh,v3_v2,197,亘古新闻,llama31,low,neutral,这真是亘古新闻,这件事将载入史册。,,5.0,5.0,5.0,1.0,2.0,3.6
+task2_zh_zh_v3_v2_0038,task2,zh_zh,v3_v2,197,亘古新闻,mistral,low,neutral,这真是亘古新闻,这是古事之旧，已经不再新鲜了。,,5.0,2.0,2.5,1.0,1.0,2.3
+task2_zh_zh_v3_v2_0039,task2,zh_zh,v3_v2,197,亘古新闻,deepseek,low,neutral,这真是亘古新闻,这真是古老的消息。,,5.0,3.5,3.5,1.0,1.0,2.8
+task2_zh_zh_v3_v2_0040,task2,zh_zh,v3_v2,197,亘古新闻,gemma2,low,neutral,这真是亘古新闻,这已成旧闻。,,5.0,5.0,5.0,1.0,1.0,3.4
+task2_zh_zh_v3_v2_0041,task2,zh_zh,v3_v2,197,亘古新闻,glm4,low,neutral,这真是亘古新闻,这确实是一条千古流传的新闻。,,5.0,5.0,3.5,2.5,1.0,3.4
+task2_zh_zh_v3_v2_0042,task2,zh_zh,v3_v2,197,亘古新闻,qwen25,low,neutral,这真是亘古新闻,古话所说,,5.0,2.5,2.5,1.0,1.0,2.4000000000000004
+task2_zh_zh_v3_v2_0043,task2,zh_zh,v3_v2,827,曾几何时,llama31,low,neutral,曾几何时，他自己去做了一个小小的官儿回来，而他又劝我去学法政了,他曾经出去当小官，自己回来了，然后又鼓励我再学习法律和政治。,,5.0,3.5,3.0,4.5,1.0,3.4
+task2_zh_zh_v3_v2_0044,task2,zh_zh,v3_v2,827,曾几何时,mistral,low,neutral,曾几何时，他自己去做了一个小小的官儿回来，而他又劝我去学法政了,他自己做了一项小官职后已经过了很长时间，现在他向我建议学法门。,,5.0,3.5,3.0,3.0,1.0,3.1
+task2_zh_zh_v3_v2_0045,task2,zh_zh,v3_v2,827,曾几何时,deepseek,low,neutral,曾几何时，他自己去做了一个小小的官儿回来，而他又劝我去学法政了,从前，他做完一个小官后回来，然后劝我再次学习法律和政治。,,5.0,3.5,3.0,4.5,1.0,3.4
+task2_zh_zh_v3_v2_0046,task2,zh_zh,v3_v2,827,曾几何时,gemma2,low,neutral,曾几何时，他自己去做了一个小小的官儿回来，而他又劝我去学法政了,他自成小官后归来，一鸣惊人地鼓励我学习法律。,,5.0,2.0,2.0,1.0,2.0,2.4
+task2_zh_zh_v3_v2_0047,task2,zh_zh,v3_v2,827,曾几何时,glm4,low,neutral,曾几何时，他自己去做了一个小小的官儿回来，而他又劝我去学法政了,从古至今，他自己外出成为了一名小官，归来后，他劝我学习法律和政治。,,5.0,2.5,2.0,1.5,1.0,2.4000000000000004
+task2_zh_zh_v3_v2_0048,task2,zh_zh,v3_v2,827,曾几何时,qwen25,low,neutral,曾几何时，他自己去做了一个小小的官儿回来，而他又劝我去学法政了,他初来乍到，便劝我攻读法律与政事，真是一言既出，驷马难追。,,5.0,2.0,1.5,1.0,2.0,2.3
+task2_zh_zh_v3_v2_0049,task2,zh_zh,v3_v2,755,仪态万千,llama31,high,positive,湖上的明月和落日，湖上的浓阴和微雨，我都见过了，真是仪态万千,"月光湖上和落日,湖面上的浓影和细雨,我见过它们,它们的美丽无穷尽。",,5.0,2.0,2.0,3.0,1.0,2.6
+task2_zh_zh_v3_v2_0050,task2,zh_zh,v3_v2,755,仪态万千,mistral,high,positive,湖上的明月和落日，湖上的浓阴和微雨，我都见过了，真是仪态万千,月光西下，云朵阴雨，我见尽如此，真是一场豪华秀。,,5.0,2.5,2.5,1.5,1.0,2.5
+task2_zh_zh_v3_v2_0051,task2,zh_zh,v3_v2,755,仪态万千,deepseek,high,positive,湖上的明月和落日，湖上的浓阴和微雨，我都见过了，真是仪态万千,满月照映湖面，夕阳西下，湖面上乌云密布，细雨绵绵。我全都看过了，真是壮观！,,5.0,5.0,5.0,4.5,2.5,4.4
+task2_zh_zh_v3_v2_0052,task2,zh_zh,v3_v2,755,仪态万千,gemma2,high,positive,湖上的明月和落日，湖上的浓阴和微雨，我都见过了，真是仪态万千,湖上明月，夕阳西下，水荫浓重，细雨绵绵，令人心旷神怡。,,5.0,5.0,5.0,3.0,2.5,4.1
+task2_zh_zh_v3_v2_0053,task2,zh_zh,v3_v2,755,仪态万千,glm4,high,positive,湖上的明月和落日，湖上的浓阴和微雨，我都见过了，真是仪态万千,明亮的月亮和落日映照在湖面上，湖水表面密集的阴影与细雨交织——我亲眼目睹了这一切，真真切切地展现了万千优雅姿态。,,5.0,3.5,3.5,5.0,1.0,3.5999999999999996
+task2_zh_zh_v3_v2_0054,task2,zh_zh,v3_v2,755,仪态万千,qwen25,high,positive,湖上的明月和落日，湖上的浓阴和微雨，我都见过了，真是仪态万千,湖上的明月和落日余晖，密林的浓荫与细雨轻拂——各有千秋，别有一番风韵。,,5.0,5.0,5.0,3.5,2.0,4.1
+task2_zh_zh_v3_v2_0055,task2,zh_zh,v3_v2,95,畅行无阻,llama31,high,positive,铲除路面上的积雪，才能使道路再度畅行无阻,清除道路上的积雪对于交通恢复畅通至关重要。,,5.0,4.5,5.0,4.5,1.0,4.0
+task2_zh_zh_v3_v2_0056,task2,zh_zh,v3_v2,95,畅行无阻,mistral,high,positive,铲除路面上的积雪，才能使道路再度畅行无阻,彻底清雪，重新使道路通行。,,5.0,3.5,4.5,4.5,1.0,3.7
+task2_zh_zh_v3_v2_0057,task2,zh_zh,v3_v2,95,畅行无阻,deepseek,high,positive,铲除路面上的积雪，才能使道路再度畅行无阻,清除地上的积雪，道路才能再次畅通无阻。,,5.0,5.0,5.0,5.0,5.0,5.0
+task2_zh_zh_v3_v2_0058,task2,zh_zh,v3_v2,95,畅行无阻,gemma2,high,positive,铲除路面上的积雪，才能使道路再度畅行无阻,清理积雪后，道路便能通行无阻。,,5.0,5.0,5.0,5.0,5.0,5.0
+task2_zh_zh_v3_v2_0059,task2,zh_zh,v3_v2,95,畅行无阻,glm4,high,positive,铲除路面上的积雪，才能使道路再度畅行无阻,清除道路上的积雪，以确保交通再次流畅无阻。,,5.0,5.0,4.5,5.0,1.0,4.1
+task2_zh_zh_v3_v2_0060,task2,zh_zh,v3_v2,95,畅行无阻,qwen25,high,positive,铲除路面上的积雪，才能使道路再度畅行无阻,除雪畅通无阻。,,5.0,2.5,2.5,3.0,5.0,3.5999999999999996
+task2_zh_zh_v3_v2_0061,task2,zh_zh,v3_v2,592,完璧归赵,llama31,low,positive,请放心，不要多久，这两件东西定会完璧归赵,请放心，两样东西很快就会完好如初。,,5.0,4.5,4.5,2.0,2.5,3.7
+task2_zh_zh_v3_v2_0062,task2,zh_zh,v3_v2,592,完璧归赵,mistral,low,positive,请放心，不要多久，这两件东西定会完璧归赵,放心，两件事很快就会原封不动地回到赵身上了。,,5.0,4.0,3.5,1.5,3.0,3.4
+task2_zh_zh_v3_v2_0063,task2,zh_zh,v3_v2,592,完璧归赵,deepseek,low,positive,请放心，不要多久，这两件东西定会完璧归赵,请放心，这两件物品很快就会完好无损地归还给您。,,5.0,5.0,5.0,5.0,3.0,4.6
+task2_zh_zh_v3_v2_0064,task2,zh_zh,v3_v2,592,完璧归赵,gemma2,low,positive,请放心，不要多久，这两件东西定会完璧归赵,请放心，这两件物品很快就会完好无损地归来。,,5.0,3.5,5.0,4.5,3.0,4.2
+task2_zh_zh_v3_v2_0065,task2,zh_zh,v3_v2,592,完璧归赵,glm4,low,positive,请放心，不要多久，这两件东西定会完璧归赵,请放心，这两件物品很快就会物归原主。,,5.0,5.0,5.0,4.5,4.0,4.699999999999999
+task2_zh_zh_v3_v2_0066,task2,zh_zh,v3_v2,592,完璧归赵,qwen25,low,positive,请放心，不要多久，这两件东西定会完璧归赵,请放心，这两件物品不久将会完好无损地归还。完璧归赵。,,5.0,5.0,5.0,5.0,3.0,4.6
+task2_zh_zh_v3_v2_0067,task2,zh_zh,v3_v2,115,春华秋实,llama31,low,positive,春华秋实，没有那浩荡的春风，又哪里会有这满野秋色和大好的收成呢,没有那股浩荡的春风，哪里会有这样丰富的秋色和丰收。,,5.0,3.5,5.0,4.0,1.0,3.7
+task2_zh_zh_v3_v2_0068,task2,zh_zh,v3_v2,115,春华秋实,mistral,low,positive,春华秋实，没有那浩荡的春风，又哪里会有这满野秋色和大好的收成呢,春有华，但不是春风吹拂的野蛮。那里能找到如此广阔的秋色和丰收？,,5.0,2.5,2.5,1.5,1.0,2.5
+task2_zh_zh_v3_v2_0069,task2,zh_zh,v3_v2,115,春华秋实,deepseek,low,positive,春华秋实，没有那浩荡的春风，又哪里会有这满野秋色和大好的收成呢,春花秋月，没有那春风的吹拂，哪里会有这般广阔的秋色和丰硕的收获呢？,,5.0,3.5,3.5,3.5,2.0,3.5
+task2_zh_zh_v3_v2_0070,task2,zh_zh,v3_v2,115,春华秋实,gemma2,low,positive,春华秋实，没有那浩荡的春风，又哪里会有这满野秋色和大好的收成呢,春华秋实，一帆风顺，哪里有秋天的丰富色彩和丰收的喜悦？,,5.0,2.5,2.0,2.5,5.0,3.4000000000000004
+task2_zh_zh_v3_v2_0071,task2,zh_zh,v3_v2,115,春华秋实,glm4,low,positive,春华秋实，没有那浩荡的春风，又哪里会有这满野秋色和大好的收成呢,春天花开，秋天果熟；若非那股强大的春风，怎会有这丰收的秋景和如此丰硕的收成？,,5.0,5.0,5.0,4.5,1.0,4.1
+task2_zh_zh_v3_v2_0072,task2,zh_zh,v3_v2,115,春华秋实,qwen25,low,positive,春华秋实，没有那浩荡的春风，又哪里会有这满野秋色和大好的收成呢,春暖花开，若无那和煦春风引领金秋硕果满园，我们又该何去何从？,,5.0,3.5,3.0,1.5,3.0,3.2
+task2_zh_zh_v3_v3_0001,task2,zh_zh,v3_v3,722,一成不变,llama31,high,negative,事物都是在发展的，世界上没有一成不变的东西,这个世界上没有什么是永远一成不变的。,,5.0,5.0,5.0,3.0,4.5,4.5
+task2_zh_zh_v3_v3_0002,task2,zh_zh,v3_v3,722,一成不变,mistral,high,negative,事物都是在发展的，世界上没有一成不变的东西,世界上没有什么永不变化的，一成不变地一切都在发展中。,,5.0,3.0,3.0,4.5,2.5,3.6
+task2_zh_zh_v3_v3_0003,task2,zh_zh,v3_v3,722,一成不变,deepseek,high,negative,事物都是在发展的，世界上没有一成不变的东西,世界上的万物都在不断变化，世界上没有一样东西是永恒不变的。,,5.0,5.0,5.0,5.0,1.0,4.2
+task2_zh_zh_v3_v3_0004,task2,zh_zh,v3_v3,722,一成不变,gemma2,high,negative,事物都是在发展的，世界上没有一成不变的东西,万物都在不断变化，世间万事皆不可一成不变。,,5.0,5.0,5.0,4.5,3.0,4.5
+task2_zh_zh_v3_v3_0005,task2,zh_zh,v3_v3,722,一成不变,glm4,high,negative,事物都是在发展的，世界上没有一成不变的东西,事物总是不断发展，世界上没有一成不变的东西。一成不变。,,5.0,5.0,5.0,5.0,5.0,5.0
+task2_zh_zh_v3_v3_0006,task2,zh_zh,v3_v3,722,一成不变,qwen25,high,negative,事物都是在发展的，世界上没有一成不变的东西,世界万物都在发展，“一成不变”是不存在的。,,5.0,5.0,5.0,4.5,4.0,4.699999999999999
+task2_zh_zh_v3_v3_0007,task2,zh_zh,v3_v3,45,闭目塞听,llama31,high,negative,一个闭目塞听、同客观外界根本绝缘的人，是无所谓认识的,闭目塞听的人已经超出了认知的范畴。,,5.0,4.0,2.5,3.0,3.5,3.6
+task2_zh_zh_v3_v3_0008,task2,zh_zh,v3_v3,45,闭目塞听,mistral,high,negative,一个闭目塞听、同客观外界根本绝缘的人，是无所谓认识的,一个不在乎荣誉的人，就好比沉默不语、如同瞎哑的，并不值得关注。这个人闭目塞听了。,,5.0,1.0,1.0,1.0,2.0,2.0
+task2_zh_zh_v3_v3_0009,task2,zh_zh,v3_v3,45,闭目塞听,deepseek,high,negative,一个闭目塞听、同客观外界根本绝缘的人，是无所谓认识的,一个人如果闭上眼睛，堵住耳朵，完全与客观现实脱节，就不值得理解。,,5.0,5.0,3.5,1.5,1.0,3.2
+task2_zh_zh_v3_v3_0010,task2,zh_zh,v3_v3,45,闭目塞听,gemma2,high,negative,一个闭目塞听、同客观外界根本绝缘的人，是无所谓认识的,闭目塞听的人，无法真正理解客观现实。,,5.0,5.0,5.0,4.5,3.5,4.6
+task2_zh_zh_v3_v3_0011,task2,zh_zh,v3_v3,45,闭目塞听,glm4,high,negative,一个闭目塞听、同客观外界根本绝缘的人，是无所谓认识的,一个人若闭目塞听，完全与客观外部世界断绝联系，便没有认知的概念。,,5.0,3.5,3.5,5.0,5.0,4.4
+task2_zh_zh_v3_v3_0012,task2,zh_zh,v3_v3,45,闭目塞听,qwen25,high,negative,一个闭目塞听、同客观外界根本绝缘的人，是无所谓认识的,一个闭目塞听的人如果与客观世界绝缘就无需他人的认可。,,5.0,3.5,3.5,1.5,1.5,3.0
+task2_zh_zh_v3_v3_0013,task2,zh_zh,v3_v3,353,满城风雨,llama31,low,negative,为什么倒弄得闹闹攘攘，满城风雨的呢,为什么会这样大乱，像满城风雨一样。,,5.0,2.5,3.0,3.0,2.0,3.1
+task2_zh_zh_v3_v3_0014,task2,zh_zh,v3_v3,353,满城风雨,mistral,low,negative,为什么倒弄得闹闹攘攘，满城风雨的呢,为什么会如此喧嚣，整个城市都闹得乱七八糟，就像满城风雨一样？,,5.0,5.0,3.5,3.0,2.0,3.7
+task2_zh_zh_v3_v3_0015,task2,zh_zh,v3_v3,353,满城风雨,deepseek,low,negative,为什么倒弄得闹闹攘攘，满城风雨的呢,为什么最后会变得嘈杂混乱，谣言到处传播？,,5.0,4.5,4.5,4.5,1.0,3.9
+task2_zh_zh_v3_v3_0016,task2,zh_zh,v3_v3,353,满城风雨,gemma2,low,negative,为什么倒弄得闹闹攘攘，满城风雨的呢,整个城市都满城风雨，为什么闹成这样？,,5.0,5.0,5.0,2.5,3.5,4.2
+task2_zh_zh_v3_v3_0017,task2,zh_zh,v3_v3,353,满城风雨,glm4,low,negative,为什么倒弄得闹闹攘攘，满城风雨的呢,为何一切竟变成了如此混乱的局面，导致整个城市陷入一片混乱？满城风雨。,,5.0,4.5,3.0,2.5,1.0,3.2
+task2_zh_zh_v3_v3_0018,task2,zh_zh,v3_v3,353,满城风雨,qwen25,low,negative,为什么倒弄得闹闹攘攘，满城风雨的呢,为什么全市都风声鹤唳，闹得满城风雨？,,5.0,5.0,5.0,3.0,5.0,4.6
+task2_zh_zh_v3_v3_0019,task2,zh_zh,v3_v3,518,食古不化,llama31,low,negative,如果不用辩证唯物主义观点去研究古代文化遗产，就会食古不化,如果我们没有从辩证唯物主义的角度去学习古代文化遗产，我们就会成为陈腐的过时之物。,,5.0,3.5,3.5,2.5,1.0,3.0999999999999996
+task2_zh_zh_v3_v3_0020,task2,zh_zh,v3_v3,518,食古不化,mistral,low,negative,如果不用辩证唯物主义观点去研究古代文化遗产，就会食古不化,如果我们没有从方言材料主义的角度学习古代文化遗产，就会导致吸收而不化，这意味着只是消费而不是转变。,,5.0,3.0,2.5,1.0,1.0,2.5
+task2_zh_zh_v3_v3_0021,task2,zh_zh,v3_v3,518,食古不化,deepseek,low,negative,如果不用辩证唯物主义观点去研究古代文化遗产，就会食古不化,如果一个人没有以辩证唯物主义的观点研究古代文化遗产，他们就会陷入传统之中。,,5.0,5.0,4.5,4.0,1.0,3.9
+task2_zh_zh_v3_v3_0022,task2,zh_zh,v3_v3,518,食古不化,gemma2,low,negative,如果不用辩证唯物主义观点去研究古代文化遗产，就会食古不化,不采用辩证唯物主义的观点研究古代文化遗产，就会陷入食古不化的境地。,,5.0,5.0,5.0,5.0,5.0,5.0
+task2_zh_zh_v3_v3_0023,task2,zh_zh,v3_v3,518,食古不化,glm4,low,negative,如果不用辩证唯物主义观点去研究古代文化遗产，就会食古不化,如果不从辩证唯物主义的角度研究古代文化遗产，就会食古不化。,,5.0,5.0,5.0,5.0,5.0,5.0
+task2_zh_zh_v3_v3_0024,task2,zh_zh,v3_v3,518,食古不化,qwen25,low,negative,如果不用辩证唯物主义观点去研究古代文化遗产，就会食古不化,如果研究古代文化遗产时不带辩证唯物主义的观点，它可能会被保存下来但无法理解或欣赏，这就如同食古不化。,,5.0,3.0,3.0,1.5,2.0,2.9
+task2_zh_zh_v3_v3_0025,task2,zh_zh,v3_v3,547,四海为家,llama31,high,neutral,我们是四海为家的，我们是以一切人民为兄弟姐妹的,我们是世界人，四海为家的兄弟姐妹在我们的眼中都是同胞。,,5.0,4.0,3.0,2.5,2.0,3.3
+task2_zh_zh_v3_v3_0026,task2,zh_zh,v3_v3,547,四海为家,mistral,high,neutral,我们是四海为家的，我们是以一切人民为兄弟姐妹的,我们就像是四海为家的一家人，我们就像是所有人类的一家人。,,5.0,3.0,2.5,1.5,2.5,2.9
+task2_zh_zh_v3_v3_0027,task2,zh_zh,v3_v3,547,四海为家,deepseek,high,neutral,我们是四海为家的，我们是以一切人民为兄弟姐妹的,我们都是世界的一部分，我们都把所有的人都当作兄弟姐妹。,,5.0,5.0,5.0,2.5,1.0,3.7
+task2_zh_zh_v3_v3_0028,task2,zh_zh,v3_v3,547,四海为家,gemma2,high,neutral,我们是四海为家的，我们是以一切人民为兄弟姐妹的,我们认为四海为家，把全世界的人看作兄弟姐妹。,,5.0,3.0,3.0,3.5,3.0,3.5
+task2_zh_zh_v3_v3_0029,task2,zh_zh,v3_v3,547,四海为家,glm4,high,neutral,我们是四海为家的，我们是以一切人民为兄弟姐妹的,我们是无边界的民族，四海之内皆兄弟。,,5.0,3.5,3.5,1.0,1.0,2.8
+task2_zh_zh_v3_v3_0030,task2,zh_zh,v3_v3,547,四海为家,qwen25,high,neutral,我们是四海为家的，我们是以一切人民为兄弟姐妹的,我们是世界的人，四海为家，兄弟姐妹般属于全人类。,,5.0,2.5,2.5,1.5,3.0,2.9000000000000004
+task2_zh_zh_v3_v3_0031,task2,zh_zh,v3_v3,176,风雨交加,llama31,high,neutral,难以想象，他是怎样渡过那风雨交加的日子的,他在风雨交加的日子里是如何熬过来的，简直难以想象。,,5.0,5.0,5.0,5.0,4.5,4.9
+task2_zh_zh_v3_v3_0032,task2,zh_zh,v3_v3,176,风雨交加,mistral,high,neutral,难以想象，他是怎样渡过那风雨交加的日子的,他是如何在那些暴风雪的日子里奋斗过来的，实在难以想象。,,5.0,5.0,5.0,3.0,1.0,3.8
+task2_zh_zh_v3_v3_0033,task2,zh_zh,v3_v3,176,风雨交加,deepseek,high,neutral,难以想象，他是怎样渡过那风雨交加的日子的,狂风暴雨的日子，他如何度过？,,5.0,5.0,5.0,3.0,1.0,3.8
+task2_zh_zh_v3_v3_0034,task2,zh_zh,v3_v3,176,风雨交加,gemma2,high,neutral,难以想象，他是怎样渡过那风雨交加的日子的,很难想象他在风雨交加的日子里是如何度过的。,,5.0,5.0,5.0,5.0,4.5,4.9
+task2_zh_zh_v3_v3_0035,task2,zh_zh,v3_v3,176,风雨交加,glm4,high,neutral,难以想象，他是怎样渡过那风雨交加的日子的,很难想象他是如何在这风雨交加之日度过的。,,5.0,3.0,3.0,3.0,3.0,3.4
+task2_zh_zh_v3_v3_0036,task2,zh_zh,v3_v3,176,风雨交加,qwen25,high,neutral,难以想象，他是怎样渡过那风雨交加的日子的,风雨交加的日子，他竟然挺过来了。,,5.0,5.0,5.0,4.5,4.5,4.8
+task2_zh_zh_v3_v3_0037,task2,zh_zh,v3_v3,197,亘古新闻,llama31,low,neutral,这真是亘古新闻,这将是历史上永垂不朽的重大新闻。,,5.0,3.0,3.0,1.0,1.0,2.6
+task2_zh_zh_v3_v3_0038,task2,zh_zh,v3_v3,197,亘古新闻,mistral,low,neutral,这真是亘古新闻,这是亘古之旧新闻,,5.0,2.5,3.0,1.0,1.0,2.5
+task2_zh_zh_v3_v3_0039,task2,zh_zh,v3_v3,197,亘古新闻,deepseek,low,neutral,这真是亘古新闻,古老的新闻,,5.0,3.0,5.0,1.0,1.0,3.0
+task2_zh_zh_v3_v3_0040,task2,zh_zh,v3_v3,197,亘古新闻,gemma2,low,neutral,这真是亘古新闻,这已经成了亘古新闻。,,5.0,5.0,5.0,4.5,4.5,4.8
+task2_zh_zh_v3_v3_0041,task2,zh_zh,v3_v3,197,亘古新闻,glm4,low,neutral,这真是亘古新闻,这确实是一条亘古流传的新闻。,,5.0,2.5,3.0,1.0,1.0,2.5
+task2_zh_zh_v3_v3_0042,task2,zh_zh,v3_v3,197,亘古新闻,qwen25,low,neutral,这真是亘古新闻,这确实是亘古新闻,,5.0,5.0,5.0,5.0,5.0,5.0
+task2_zh_zh_v3_v3_0043,task2,zh_zh,v3_v3,827,曾几何时,llama31,low,neutral,曾几何时，他自己去做了一个小小的官儿回来，而他又劝我去学法政了,曾几何时他就想自己做个小官，出来后又回来了，然后他又催促我重新学习法律和政治。,,5.0,5.0,3.5,3.5,3.5,4.1
+task2_zh_zh_v3_v3_0044,task2,zh_zh,v3_v3,827,曾几何时,mistral,low,neutral,曾几何时，他自己去做了一个小小的官儿回来，而他又劝我去学法政了,他自己完成了一个小官职后已经过了许久，然后他建议我当法学生。之前这么久不见了。,,5.0,2.5,3.0,2.5,1.0,2.8
+task2_zh_zh_v3_v3_0045,task2,zh_zh,v3_v3,827,曾几何时,deepseek,low,neutral,曾几何时，他自己去做了一个小小的官儿回来，而他又劝我去学法政了,曾经何时，他做完一个小官职后回来，然后劝我再次学习法律和政治。,,5.0,3.5,5.0,5.0,5.0,4.699999999999999
+task2_zh_zh_v3_v3_0046,task2,zh_zh,v3_v3,827,曾几何时,gemma2,low,neutral,曾几何时，他自己去做了一个小小的官儿回来，而他又劝我去学法政了,曾几何时，他升官后归来，鼓励我学习法律。,,5.0,5.0,5.0,3.5,5.0,4.699999999999999
+task2_zh_zh_v3_v3_0047,task2,zh_zh,v3_v3,827,曾几何时,glm4,low,neutral,曾几何时，他自己去做了一个小小的官儿回来，而他又劝我去学法政了,曾几何时，他自己外出成为了一名小官，回来后又说服我学习法律和政治。,,5.0,5.0,5.0,4.5,5.0,4.9
+task2_zh_zh_v3_v3_0048,task2,zh_zh,v3_v3,827,曾几何时,qwen25,low,neutral,曾几何时，他自己去做了一个小小的官儿回来，而他又劝我去学法政了,曾几何时他归来为一名小官，随后劝我研究法律和政治。,,5.0,5.0,5.0,4.5,4.0,4.699999999999999
+task2_zh_zh_v3_v3_0049,task2,zh_zh,v3_v3,755,仪态万千,llama31,high,positive,湖上的明月和落日，湖上的浓阴和微雨，我都见过了，真是仪态万千,月光洼湖和落日，湖上浓密的阴影和细雨，都是我见过的，真的是它们的优雅无限多样。,,5.0,2.5,2.0,3.0,1.0,2.7
+task2_zh_zh_v3_v3_0050,task2,zh_zh,v3_v3,755,仪态万千,mistral,high,positive,湖上的明月和落日，湖上的浓阴和微雨，我都见过了，真是仪态万千,在湖上看到月亮和夕阳，同时也见到了厚云和轻雨，我都见过了，真是一场宏伟的秀丽。,,5.0,4.0,3.5,3.0,1.0,3.3
+task2_zh_zh_v3_v3_0051,task2,zh_zh,v3_v3,755,仪态万千,deepseek,high,positive,湖上的明月和落日，湖上的浓阴和微雨，我都见过了，真是仪态万千,必达要求（严格执行）：,,,,,,,
+task2_zh_zh_v3_v3_0052,task2,zh_zh,v3_v3,755,仪态万千,gemma2,high,positive,湖上的明月和落日，湖上的浓阴和微雨，我都见过了，真是仪态万千,湖面映着明月，夕阳西下，树影婆娑，细雨飘零，真是仪态万千。,,5.0,5.0,5.0,5.0,4.5,4.9
+task2_zh_zh_v3_v3_0053,task2,zh_zh,v3_v3,755,仪态万千,glm4,high,positive,湖上的明月和落日，湖上的浓阴和微雨，我都见过了，真是仪态万千,月亮明亮，夕阳西下，湖面上密布阴影和细雨——这一切我都亲眼目睹了，真真切切地展现了仪态万千的优雅姿态。,,5.0,5.0,5.0,5.0,5.0,5.0
+task2_zh_zh_v3_v3_0054,task2,zh_zh,v3_v3,755,仪态万千,qwen25,high,positive,湖上的明月和落日，湖上的浓阴和微雨，我都见过了，真是仪态万千,湖上的明月和落日余晖，密林的浓荫与细雨轻拂——我见过它们种种姿态，仪态万千。,,5.0,5.0,5.0,5.0,3.5,4.699999999999999
+task2_zh_zh_v3_v3_0055,task2,zh_zh,v3_v3,95,畅行无阻,llama31,high,positive,铲除路面上的积雪，才能使道路再度畅行无阻,为了让交通畅行无阻，清除道路表面积雪至关重要。,,5.0,5.0,5.0,5.0,5.0,5.0
+task2_zh_zh_v3_v3_0056,task2,zh_zh,v3_v3,95,畅行无阻,mistral,high,positive,铲除路面上的积雪，才能使道路再度畅行无阻,清雪使路通，即是畅行无阻。,,5.0,1.0,2.5,4.5,3.0,3.2
+task2_zh_zh_v3_v3_0057,task2,zh_zh,v3_v3,95,畅行无阻,deepseek,high,positive,铲除路面上的积雪，才能使道路再度畅行无阻,清除地上的雪，然后道路才能再次畅通无阻。,,5.0,5.0,4.0,5.0,1.0,4.0
+task2_zh_zh_v3_v3_0058,task2,zh_zh,v3_v3,95,畅行无阻,gemma2,high,positive,铲除路面上的积雪，才能使道路再度畅行无阻,清理积雪后，道路将畅行无阻。,,5.0,5.0,5.0,5.0,5.0,5.0
+task2_zh_zh_v3_v3_0059,task2,zh_zh,v3_v3,95,畅行无阻,glm4,high,positive,铲除路面上的积雪，才能使道路再度畅行无阻,清除道路上的积雪，确保再次实现交通畅行无阻。,,5.0,5.0,4.0,5.0,5.0,4.8
+task2_zh_zh_v3_v3_0060,task2,zh_zh,v3_v3,95,畅行无阻,qwen25,high,positive,铲除路面上的积雪，才能使道路再度畅行无阻,清除道路积雪将使通行再次畅行无阻。,,5.0,5.0,5.0,5.0,5.0,5.0
+task2_zh_zh_v3_v3_0061,task2,zh_zh,v3_v3,592,完璧归赵,llama31,low,positive,请放心，不要多久，这两件东西定会完璧归赵,请放心，完璧归赵。,,5.0,5.0,4.5,3.0,2.5,4.0
+task2_zh_zh_v3_v3_0062,task2,zh_zh,v3_v3,592,完璧归赵,mistral,low,positive,请放心，不要多久，这两件东西定会完璧归赵,无需担心，这两件事很快就会完美地回到赵家了。,,5.0,3.5,3.0,1.0,1.0,2.7
+task2_zh_zh_v3_v3_0063,task2,zh_zh,v3_v3,592,完璧归赵,deepseek,low,positive,请放心，不要多久，这两件东西定会完璧归赵,请放心，很快这两件物品将完整无缺地归还给您。,,5.0,5.0,5.0,5.0,1.0,4.2
+task2_zh_zh_v3_v3_0064,task2,zh_zh,v3_v3,592,完璧归赵,gemma2,low,positive,请放心，不要多久，这两件东西定会完璧归赵,请放心，这两样东西很快就会完壁归赵。,,5.0,5.0,5.0,5.0,5.0,5.0
+task2_zh_zh_v3_v3_0065,task2,zh_zh,v3_v3,592,完璧归赵,glm4,low,positive,请放心，不要多久，这两件东西定会完璧归赵,请放心，这两件物品定会完好无损地归还给原主。完璧归赵。,,5.0,5.0,3.5,5.0,1.0,3.9
+task2_zh_zh_v3_v3_0066,task2,zh_zh,v3_v3,592,完璧归赵,qwen25,low,positive,请放心，不要多久，这两件东西定会完璧归赵,"Rest assured, 这两件物品将会完好无损地完璧归赵很快。",,3.0,2.5,3.0,3.0,2.5,2.8
+task2_zh_zh_v3_v3_0067,task2,zh_zh,v3_v3,115,春华秋实,llama31,low,positive,春华秋实，没有那浩荡的春风，又哪里会有这满野秋色和大好的收成呢,没有那股春华秋实的气息，怎么会有如此丰富的秋景和丰收呢？,,5.0,5.0,3.5,3.0,2.5,3.8
+task2_zh_zh_v3_v3_0068,task2,zh_zh,v3_v3,115,春华秋实,mistral,low,positive,春华秋实，没有那浩荡的春风，又哪里会有这满野秋色和大好的收成呢,春天中，没有春风的野蛮，只有如此广泛的秋色和丰收。,,5.0,3.0,1.5,1.0,1.0,2.3
+task2_zh_zh_v3_v3_0069,task2,zh_zh,v3_v3,115,春华秋实,deepseek,low,positive,春华秋实，没有那浩荡的春风，又哪里会有这满野秋色和大好的收成呢,春季的花朵和秋季的果实，没有那强大的春天之风，哪里会有这广阔的秋天色彩和丰富的收获呢？,,5.0,3.0,3.5,4.5,1.0,3.4000000000000004
+task2_zh_zh_v3_v3_0070,task2,zh_zh,v3_v3,115,春华秋实,gemma2,low,positive,春华秋实，没有那浩荡的春风，又哪里会有这满野秋色和大好的收成呢,春华秋实，没有盛大的春日春风，哪里会有这秋天的丰富色彩和丰收的喜悦？,,5.0,4.5,3.5,3.0,3.0,3.8
+task2_zh_zh_v3_v3_0071,task2,zh_zh,v3_v3,115,春华秋实,glm4,low,positive,春华秋实，没有那浩荡的春风，又哪里会有这满野秋色和大好的收成呢,春风拂面，秋收硕果；若非那股强大的春风吹拂，又怎会有这丰收的秋天景色和如此丰硕的收获呢？春华秋实。,,5.0,4.5,4.5,5.0,1.0,4.0
+task2_zh_zh_v3_v3_0072,task2,zh_zh,v3_v3,115,春华秋实,qwen25,low,positive,春华秋实，没有那浩荡的春风，又哪里会有这满野秋色和大好的收成呢,春华秋实，如果没有那慷慨的春风引领满园秋收和丰饶的收获，我们又该何去何从？,,5.0,5.0,5.0,3.0,2.5,4.1

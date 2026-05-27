@@ -1,0 +1,11 @@
+﻿task,eval_type,condition,task_specific_dimension,high,low
+task1,zh_en,--,Rendering Strategy,3.4444444444444446,2.6527777777777777
+task1,en_zh,--,Idiom Form,4.083333333333333,3.3333333333333335
+task1,zh_zh,--,Idiom Form,4.083333333333333,3.3333333333333335
+task2,zh_en,C1,Idiom Meaning Translation,3.388888888888889,2.6666666666666665
+task2,en_zh,C1,Idiom Meaning Preservation,4.625,3.875
+task2,zh_zh,C1,Idiom Meaning Preservation,3.0972222222222223,2.5833333333333335
+task2,en_zh,C2,Idiom Reintroduction,2.6527777777777777,2.3194444444444446
+task2,zh_zh,C2,Idiom Reintroduction,2.361111111111111,1.9027777777777777
+task2,en_zh,C3,Target Idiom Use,3.3285714285714287,2.3194444444444446
+task2,zh_zh,C3,Target Idiom Use,3.0428571428571427,2.513888888888889
