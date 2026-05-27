@@ -1,0 +1,702 @@
+[
+  {
+    "sentence": "能够找到职业，找到安身之处，该是多么令人高兴啊",
+    "index": 7,
+    "source_idiom": "安身之处",
+    "polarity": "neutral",
+    "transparency": "high"
+  },
+  {
+    "sentence": "这真是令人百思莫解",
+    "index": 26,
+    "source_idiom": "百思莫解",
+    "polarity": "neutral",
+    "transparency": "high"
+  },
+  {
+    "sentence": "由于金融危机的缘故，造成了经济动荡，百业萧条",
+    "index": 28,
+    "source_idiom": "百业萧条",
+    "polarity": "negative",
+    "transparency": "high"
+  },
+  {
+    "sentence": "自古以来，因为奸臣陷害忠良，以致败国亡家，这种例子也不少",
+    "index": 31,
+    "source_idiom": "败国亡家",
+    "polarity": "negative",
+    "transparency": "high"
+  },
+  {
+    "sentence": "差多了，差多了！人到三十五，就半截入土了",
+    "index": 33,
+    "source_idiom": "半截入土",
+    "polarity": "negative",
+    "transparency": "high"
+  },
+  {
+    "sentence": "一个闭目塞听、同客观外界根本绝缘的人，是无所谓认识的",
+    "index": 45,
+    "source_idiom": "闭目塞听",
+    "polarity": "negative",
+    "transparency": "high"
+  },
+  {
+    "sentence": "发现和掌握规律，就是从个别中找到了一般，从变动不居的现象中找到了相对稳定的本质",
+    "index": 47,
+    "source_idiom": "变动不居",
+    "polarity": "neutral",
+    "transparency": "low"
+  },
+  {
+    "sentence": "各位以为如何？兄弟说的不对的地方，还请不吝指教",
+    "index": 72,
+    "source_idiom": "不吝指教",
+    "polarity": "positive",
+    "transparency": "high"
+  },
+  {
+    "sentence": "我学习写评论性质的文章，给自己立了两个标准。一个是独立思考，另一个是不落俗套",
+    "index": 74,
+    "source_idiom": "不落俗套",
+    "polarity": "positive",
+    "transparency": "high"
+  },
+  {
+    "sentence": "刚才着了凉的不爽快，也就不药而愈了",
+    "index": 81,
+    "source_idiom": "不药而愈",
+    "polarity": "positive",
+    "transparency": "high"
+  },
+  {
+    "sentence": "人民群众是历史的创造者，这确是不易之论",
+    "index": 82,
+    "source_idiom": "不易之论",
+    "polarity": "positive",
+    "transparency": "low"
+  },
+  {
+    "sentence": "他在一场车祸中不幸遇难，那场景真是惨不忍睹",
+    "index": 90,
+    "source_idiom": "惨不忍睹",
+    "polarity": "negative",
+    "transparency": "high"
+  },
+  {
+    "sentence": "铲除路面上的积雪，才能使道路再度畅行无阻",
+    "index": 95,
+    "source_idiom": "畅行无阻",
+    "polarity": "positive",
+    "transparency": "high"
+  },
+  {
+    "sentence": "政策要力求相对地稳定，不能朝令夕改",
+    "index": 96,
+    "source_idiom": "朝令夕改",
+    "polarity": "negative",
+    "transparency": "high"
+  },
+  {
+    "sentence": "文中这句话起到了承先启后的作用",
+    "index": 100,
+    "source_idiom": "承先启后",
+    "polarity": "positive",
+    "transparency": "high"
+  },
+  {
+    "sentence": "这种吃里爬外的事，我劝你不要做",
+    "index": 104,
+    "source_idiom": "吃里爬外",
+    "polarity": "negative",
+    "transparency": "high"
+  },
+  {
+    "sentence": "某报创刊以来，一向持论公允，所以人人爱读它",
+    "index": 105,
+    "source_idiom": "持论公允",
+    "polarity": "positive",
+    "transparency": "high"
+  },
+  {
+    "sentence": "春华秋实，没有那浩荡的春风，又哪里会有这满野秋色和大好的收成呢",
+    "index": 115,
+    "source_idiom": "春华秋实",
+    "polarity": "positive",
+    "transparency": "low"
+  },
+  {
+    "sentence": "从一九年以来，她才仿佛从大梦初醒似的，又从事于版画了",
+    "index": 128,
+    "source_idiom": "大梦初醒",
+    "polarity": "neutral",
+    "transparency": "high"
+  },
+  {
+    "sentence": "还没成人，就叫他自己顶门立户，自己奔日子",
+    "index": 143,
+    "source_idiom": "顶门立户",
+    "polarity": "positive",
+    "transparency": "low"
+  },
+  {
+    "sentence": "经过反复推敲，我们终于选择了这个方案",
+    "index": 160,
+    "source_idiom": "反复推敲",
+    "polarity": "positive",
+    "transparency": "high"
+  },
+  {
+    "sentence": "对中小学生的校外活动，要加强辅导，不能放任自流",
+    "index": 164,
+    "source_idiom": "放任自流",
+    "polarity": "negative",
+    "transparency": "high"
+  },
+  {
+    "sentence": "你不能对她有非分之念",
+    "index": 167,
+    "source_idiom": "非分之念",
+    "polarity": "negative",
+    "transparency": "high"
+  },
+  {
+    "sentence": "难以想象，他是怎样渡过那风雨交加的日子的",
+    "index": 176,
+    "source_idiom": "风雨交加",
+    "polarity": "neutral",
+    "transparency": "high"
+  },
+  {
+    "sentence": "这真是亘古新闻",
+    "index": 197,
+    "source_idiom": "亘古新闻",
+    "polarity": "neutral",
+    "transparency": "low"
+  },
+  {
+    "sentence": "研究古典文学要坚持古为今用的原则",
+    "index": 204,
+    "source_idiom": "古为今用",
+    "polarity": "positive",
+    "transparency": "high"
+  },
+  {
+    "sentence": "我们要把这两个车间合二为一",
+    "index": 215,
+    "source_idiom": "合二为一",
+    "polarity": "neutral",
+    "transparency": "high"
+  },
+  {
+    "sentence": "老人一辈子最重要的格言是‘和气生财’",
+    "index": 221,
+    "source_idiom": "和气生财",
+    "polarity": "positive",
+    "transparency": "high"
+  },
+  {
+    "sentence": "他横眉立眼的冲着老教师说‘她不来吗，这也只少得到她一个人啦，跟我们开不开会有好大关系呢？’",
+    "index": 224,
+    "source_idiom": "横眉立眼",
+    "polarity": "negative",
+    "transparency": "high"
+  },
+  {
+    "sentence": "这位老画家善于用烘云托月的笔法描画山水",
+    "index": 226,
+    "source_idiom": "烘云托月",
+    "polarity": "positive",
+    "transparency": "low"
+  },
+  {
+    "sentence": "做事要小心，万一出了什么意外就后悔莫及了",
+    "index": 229,
+    "source_idiom": "后悔莫及",
+    "polarity": "negative",
+    "transparency": "high"
+  },
+  {
+    "sentence": "这个小男孩长得虎头虎脑，非常可爱",
+    "index": 234,
+    "source_idiom": "虎头虎脑",
+    "polarity": "positive",
+    "transparency": "high"
+  },
+  {
+    "sentence": "然而正感谢有这一些的打，你把铁打成了钢，把泛泛的朋友都打成了患难之交了",
+    "index": 239,
+    "source_idiom": "患难之交",
+    "polarity": "positive",
+    "transparency": "high"
+  },
+  {
+    "sentence": "高考的日子已经可以计日而待了，大家要认真复习",
+    "index": 251,
+    "source_idiom": "计日而待",
+    "polarity": "neutral",
+    "transparency": "high"
+  },
+  {
+    "sentence": "为什么叫麻烦？你的锦囊妙计在哪里呢",
+    "index": 271,
+    "source_idiom": "锦囊妙计",
+    "polarity": "positive",
+    "transparency": "high"
+  },
+  {
+    "sentence": "所谓有‘价值’，是必须使人看了在‘进德修业’上得到多少的‘灵感’",
+    "index": 274,
+    "source_idiom": "进德修业",
+    "polarity": "positive",
+    "transparency": "low"
+  },
+  {
+    "sentence": "即使寻到一点光明，‘径一周三’，却更分明的看见了周围的无涯际的黑暗",
+    "index": 282,
+    "source_idiom": "径一周三",
+    "polarity": "neutral",
+    "transparency": "low"
+  },
+  {
+    "sentence": "炯炯有神的眼光，足够表现出他是一个有志的少年",
+    "index": 285,
+    "source_idiom": "炯炯有神",
+    "polarity": "positive",
+    "transparency": "high"
+  },
+  {
+    "sentence": "她活了五十年，第一次感觉到自己还不是一个可有可无的人",
+    "index": 297,
+    "source_idiom": "可有可无",
+    "polarity": "negative",
+    "transparency": "high"
+  },
+  {
+    "sentence": "我们要经得起狂风恶浪的冲击",
+    "index": 301,
+    "source_idiom": "狂风恶浪",
+    "polarity": "negative",
+    "transparency": "high"
+  },
+  {
+    "sentence": "当年种的小树苗，如今已是绿叶成荫了",
+    "index": 345,
+    "source_idiom": "绿叶成荫",
+    "polarity": "positive",
+    "transparency": "high"
+  },
+  {
+    "sentence": "只要不轻敌，相信你们一定会马到成功",
+    "index": 349,
+    "source_idiom": "马到成功",
+    "polarity": "positive",
+    "transparency": "high"
+  },
+  {
+    "sentence": "为什么倒弄得闹闹攘攘，满城风雨的呢",
+    "index": 353,
+    "source_idiom": "满城风雨",
+    "polarity": "negative",
+    "transparency": "low"
+  },
+  {
+    "sentence": "写法又明朗简洁，绝无旧文人描头画角，宛转抑扬的恶习",
+    "index": 364,
+    "source_idiom": "描头画角",
+    "polarity": "negative",
+    "transparency": "low"
+  },
+  {
+    "sentence": "若不是妙手偶得，便确是经过锤炼的语言的精华",
+    "index": 368,
+    "source_idiom": "妙手偶得",
+    "polarity": "positive",
+    "transparency": "low"
+  },
+  {
+    "sentence": "明眼人可以看出你这是明升暗降的把戏",
+    "index": 371,
+    "source_idiom": "明升暗降",
+    "polarity": "negative",
+    "transparency": "high"
+  },
+  {
+    "sentence": "没有磨杵成针的毅力，学问上就不可能有很深的造诣",
+    "index": 374,
+    "source_idiom": "磨杵成针",
+    "polarity": "positive",
+    "transparency": "low"
+  },
+  {
+    "sentence": "现在则相反，除粮食外，每天每人只有五分大洋的油盐柴菜钱，还是难乎为继",
+    "index": 380,
+    "source_idiom": "难乎为继",
+    "polarity": "negative",
+    "transparency": "low"
+  },
+  {
+    "sentence": "我最初实在替这孩子捏一把汗，待到掘出黄金一釜，这才觉得轻松",
+    "index": 388,
+    "source_idiom": "捏一把汗",
+    "polarity": "neutral",
+    "transparency": "high"
+  },
+  {
+    "sentence": "只是近来常常在梦中，或是在将醒未醒之顷，一阵悚然，从前所怕的牛头马面，都积压了来，都聚围了来",
+    "index": 390,
+    "source_idiom": "牛头马面",
+    "polarity": "negative",
+    "transparency": "low"
+  },
+  {
+    "sentence": "向企业巧立名目收费的做法是不利于企业发展的",
+    "index": 430,
+    "source_idiom": "巧立名目",
+    "polarity": "negative",
+    "transparency": "high"
+  },
+  {
+    "sentence": "总算安然改业，否则也许还有一段青黄不接的失业时期",
+    "index": 433,
+    "source_idiom": "青黄不接",
+    "polarity": "negative",
+    "transparency": "low"
+  },
+  {
+    "sentence": "节日的公园人山人海，热闹极了",
+    "index": 460,
+    "source_idiom": "人山人海",
+    "polarity": "neutral",
+    "transparency": "high"
+  },
+  {
+    "sentence": "人民教师肩负着培养祖国建设接班人的重担，任重道远",
+    "index": 465,
+    "source_idiom": "任重道远",
+    "polarity": "positive",
+    "transparency": "high"
+  },
+  {
+    "sentence": "我如饥似渴地把那二十几页的长文，一口气读下去",
+    "index": 471,
+    "source_idiom": "如饥似渴",
+    "polarity": "positive",
+    "transparency": "high"
+  },
+  {
+    "sentence": "如果不用辩证唯物主义观点去研究古代文化遗产，就会食古不化",
+    "index": 518,
+    "source_idiom": "食古不化",
+    "polarity": "negative",
+    "transparency": "low"
+  },
+  {
+    "sentence": "我们是四海为家的，我们是以一切人民为兄弟姐妹的",
+    "index": 547,
+    "source_idiom": "四海为家",
+    "polarity": "neutral",
+    "transparency": "high"
+  },
+  {
+    "sentence": "我们二人并坐，随心所欲的漫谈",
+    "index": 550,
+    "source_idiom": "随心所欲",
+    "polarity": "neutral",
+    "transparency": "high"
+  },
+  {
+    "sentence": "撞人者逃之夭夭，众人向他投去愤怒的眼光",
+    "index": 559,
+    "source_idiom": "逃之夭夭",
+    "polarity": "negative",
+    "transparency": "low"
+  },
+  {
+    "sentence": "这篇文章立意明确，论述周到、深刻，真可谓天衣无缝",
+    "index": 566,
+    "source_idiom": "天衣无缝",
+    "polarity": "positive",
+    "transparency": "low"
+  },
+  {
+    "sentence": "只要我们大家同心协力，就没有克服不了的困难",
+    "index": 575,
+    "source_idiom": "同心协力",
+    "polarity": "positive",
+    "transparency": "high"
+  },
+  {
+    "sentence": "请放心，不要多久，这两件东西定会完璧归赵",
+    "index": 592,
+    "source_idiom": "完璧归赵",
+    "polarity": "positive",
+    "transparency": "low"
+  },
+  {
+    "sentence": "家长要有望子成龙的愿望，更要有培养和教育孩子成材的行动",
+    "index": 604,
+    "source_idiom": "望子成龙",
+    "polarity": "positive",
+    "transparency": "high"
+  },
+  {
+    "sentence": "当这个危急存亡，不顾性命的时候，还不振作起精神来，一致对外吗",
+    "index": 605,
+    "source_idiom": "危急存亡",
+    "polarity": "negative",
+    "transparency": "high"
+  },
+  {
+    "sentence": "决不能让文人无行的现象继续存在",
+    "index": 617,
+    "source_idiom": "文人无行",
+    "polarity": "negative",
+    "transparency": "low"
+  },
+  {
+    "sentence": "他的个性闻融敦厚，因此许多人乐于与他相交为友",
+    "index": 619,
+    "source_idiom": "闻融敦厚",
+    "polarity": "positive",
+    "transparency": "low"
+  },
+  {
+    "sentence": "回到故乡之后，又受着轻蔑、排斥、迫害，几乎无地可容",
+    "index": 624,
+    "source_idiom": "无地可容",
+    "polarity": "negative",
+    "transparency": "high"
+  },
+  {
+    "sentence": "这个道理简单明了，无庸赘述",
+    "index": 634,
+    "source_idiom": "无庸赘述",
+    "polarity": "neutral",
+    "transparency": "low"
+  },
+  {
+    "sentence": "人们熙来攘往地汇集在广场上",
+    "index": 644,
+    "source_idiom": "熙来攘往",
+    "polarity": "neutral",
+    "transparency": "high"
+  },
+  {
+    "sentence": "我走上前去，下气怡声提出我的要求，说明我的情况，恳求他们帮忙，能带一带我",
+    "index": 651,
+    "source_idiom": "下气怡声",
+    "polarity": "neutral",
+    "transparency": "low"
+  },
+  {
+    "sentence": "文艺家先时讲的话，渐渐大家都记起来了，大家都赞成他，恭维他是先知先觉",
+    "index": 655,
+    "source_idiom": "先知先觉",
+    "polarity": "positive",
+    "transparency": "high"
+  },
+  {
+    "sentence": "这些学生们一天总是那么活泼开朗，笑容可掬",
+    "index": 664,
+    "source_idiom": "笑容可掬",
+    "polarity": "positive",
+    "transparency": "high"
+  },
+  {
+    "sentence": "这两个邂逅相遇的老朋友就站在路旁谈了起来",
+    "index": 666,
+    "source_idiom": "邂逅相遇",
+    "polarity": "neutral",
+    "transparency": "high"
+  },
+  {
+    "sentence": "这样，我们的信而好古的态度，便发生了新意义",
+    "index": 678,
+    "source_idiom": "信而好古",
+    "polarity": "neutral",
+    "transparency": "low"
+  },
+  {
+    "sentence": "雄心壮志是促使一个人永远奋斗的发动机",
+    "index": 687,
+    "source_idiom": "雄心壮志",
+    "polarity": "positive",
+    "transparency": "high"
+  },
+  {
+    "sentence": "但他们往往遭农会严厉拒绝，所以他们总是悬心吊胆地过日子",
+    "index": 693,
+    "source_idiom": "悬心吊胆",
+    "polarity": "negative",
+    "transparency": "high"
+  },
+  {
+    "sentence": "她通常是从一个角度写，而不是从几个角度写；还只是循序渐进地写，而不是错综交叉地写",
+    "index": 700,
+    "source_idiom": "循序渐进",
+    "polarity": "positive",
+    "transparency": "high"
+  },
+  {
+    "sentence": "学习文件不能只咬文嚼字，关键是领会文件的精神实质",
+    "index": 715,
+    "source_idiom": "咬文嚼字",
+    "polarity": "negative",
+    "transparency": "high"
+  },
+  {
+    "sentence": "一个脾气大，一个不懂事，若是有了一差二误，没把我这老婆子骂死了哩",
+    "index": 719,
+    "source_idiom": "一差二误",
+    "polarity": "negative",
+    "transparency": "high"
+  },
+  {
+    "sentence": "事物都是在发展的，世界上没有一成不变的东西",
+    "index": 722,
+    "source_idiom": "一成不变",
+    "polarity": "negative",
+    "transparency": "high"
+  },
+  {
+    "sentence": "在这件事情上，我们不能只听一面之词，必须全面了解情况，然后再做处理",
+    "index": 734,
+    "source_idiom": "一面之词",
+    "polarity": "negative",
+    "transparency": "high"
+  },
+  {
+    "sentence": "说起这件事，真是一言难尽，等有时间我们再详谈",
+    "index": 748,
+    "source_idiom": "一言难尽",
+    "polarity": "negative",
+    "transparency": "high"
+  },
+  {
+    "sentence": "湖上的明月和落日，湖上的浓阴和微雨，我都见过了，真是仪态万千",
+    "index": 755,
+    "source_idiom": "仪态万千",
+    "polarity": "positive",
+    "transparency": "high"
+  },
+  {
+    "sentence": "以毒攻毒，反而证明了反对白话者自己的不识字，不通文",
+    "index": 759,
+    "source_idiom": "以毒攻毒",
+    "polarity": "neutral",
+    "transparency": "high"
+  },
+  {
+    "sentence": "我们要提高警惕，以防万一敌人来偷袭",
+    "index": 760,
+    "source_idiom": "以防万一",
+    "polarity": "neutral",
+    "transparency": "high"
+  },
+  {
+    "sentence": "所以开明的行政者对于民意是因势利导的，民意得到畅达，社会也就健全地发展了起来",
+    "index": 778,
+    "source_idiom": "因势利导",
+    "polarity": "positive",
+    "transparency": "high"
+  },
+  {
+    "sentence": "领导说什么，他就说什么，简直是鹦鹉学舌",
+    "index": 782,
+    "source_idiom": "鹦鹉学舌",
+    "polarity": "negative",
+    "transparency": "high"
+  },
+  {
+    "sentence": "在决定这件事如何处理时，他变得犹豫不决起来",
+    "index": 792,
+    "source_idiom": "犹豫不决",
+    "polarity": "negative",
+    "transparency": "high"
+  },
+  {
+    "sentence": "取得好成绩也不能自满，要再接再厉，不断进取",
+    "index": 821,
+    "source_idiom": "再接再厉",
+    "polarity": "positive",
+    "transparency": "high"
+  },
+  {
+    "sentence": "农民向国家交售征购粮是责无旁贷的任务",
+    "index": 826,
+    "source_idiom": "责无旁贷",
+    "polarity": "positive",
+    "transparency": "high"
+  },
+  {
+    "sentence": "曾几何时，他自己去做了一个小小的官儿回来，而他又劝我去学法政了",
+    "index": 827,
+    "source_idiom": "曾几何时",
+    "polarity": "neutral",
+    "transparency": "low"
+  },
+  {
+    "sentence": "由于经营不善，这家公司现已陷入债台高筑的境地",
+    "index": 829,
+    "source_idiom": "债台高筑",
+    "polarity": "negative",
+    "transparency": "high"
+  },
+  {
+    "sentence": "对犯有错误的同学，我们应采取治病救人的态度，帮助他们进步",
+    "index": 855,
+    "source_idiom": "治病救人",
+    "polarity": "positive",
+    "transparency": "high"
+  },
+  {
+    "sentence": "书法、绘画、吟诗，诸如此类，他无一不会",
+    "index": 862,
+    "source_idiom": "诸如此类",
+    "polarity": "neutral",
+    "transparency": "high"
+  },
+  {
+    "sentence": "你欠了我的，你得还。我一直没说过，你不能再装聋卖傻",
+    "index": 871,
+    "source_idiom": "装聋卖傻",
+    "polarity": "negative",
+    "transparency": "high"
+  },
+  {
+    "sentence": "吃饭一拿起饭碗，就龇牙裂嘴装鬼脸说怎么净吃小米，还不敌猪食。人家那边一天两顿面，我还嫌不合口味",
+    "index": 877,
+    "source_idiom": "龇牙裂嘴",
+    "polarity": "negative",
+    "transparency": "high"
+  },
+  {
+    "sentence": "玩火者只会自食其果",
+    "index": 885,
+    "source_idiom": "自食其果",
+    "polarity": "negative",
+    "transparency": "high"
+  },
+  {
+    "sentence": "一个严于解剖自己的人，往往是有自知之明的",
+    "index": 890,
+    "source_idiom": "自知之明",
+    "polarity": "positive",
+    "transparency": "high"
+  },
+  {
+    "sentence": "你看他那种走马上任的神气，你就可以知道他是一位全然不懂教育的外行乃至老腐败",
+    "index": 893,
+    "source_idiom": "走马上任",
+    "polarity": "neutral",
+    "transparency": "high"
+  },
+  {
+    "sentence": "这场空难事故的罪魁祸首竟然是一只在机场上空飞翔的鸽子",
+    "index": 896,
+    "source_idiom": "罪魁祸首",
+    "polarity": "negative",
+    "transparency": "high"
+  }
+]
