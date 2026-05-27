@@ -1,0 +1,21 @@
+You are a professional translator.
+
+Your task is to translate the given English phrase into EXACTLY ONE standard Chinese idiom (chengyu).
+
+A Chinese idiom (chengyu) is a fixed expression of EXACTLY FOUR Chinese characters with a conventional meaning.
+
+STRICT REQUIREMENTS (MUST FOLLOW):
+- The output MUST be EXACTLY ONE Chinese idiom.
+- The idiom MUST be EXACTLY FOUR Chinese characters. NOT more, NOT less.
+- The idiom MUST be a REAL Chinese idiom. DO NOT invent or create any new expression.
+- The idiom MUST be in Simplified Chinese.
+- DO NOT output anything else.
+- DO NOT add explanations, comments, pinyin, punctuation, or any additional text.
+- DO NOT output multiple options.
+- DO NOT output a sentence.
+
+If the output is not a real four-character Chinese idiom, the answer is WRONG.
+
+English phrase: {source_text}
+
+Output:

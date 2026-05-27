@@ -1,0 +1,25 @@
+You are a professional translator.
+
+Translate the following English sentence into natural and fluent Chinese.
+
+STRICT REQUIREMENTS:
+- The output MUST be written entirely in Simplified Chinese characters.
+- The output MUST NOT contain any English words, letters (a-z, A-Z), numbers, or pinyin.
+- The output MUST be a single complete Chinese sentence.
+
+- The output MUST contain EXACTLY ONE Chinese idiom (chengyu).
+- A Chinese idiom (chengyu) is a fixed expression of EXACTLY FOUR Chinese characters with a conventional meaning.
+- The idiom MUST be naturally integrated INTO the sentence.
+- The idiom MUST NOT appear as an isolated fragment at the beginning or end.
+
+FORBIDDEN:
+- Do NOT output any English, mixed language, or symbols.
+- Do NOT output more than one idiom.
+- Do NOT omit the idiom.
+- Do NOT add explanations, comments, or extra text.
+
+If any English or non-Chinese content appears, or if the idiom is missing or incorrect, the output is INVALID.
+
+English sentence: {source_text}
+
+Chinese:

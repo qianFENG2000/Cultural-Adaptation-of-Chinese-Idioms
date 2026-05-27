@@ -1,0 +1,15 @@
+You are a professional translator.
+
+Translate the following Chinese sentence into natural and fluent English.
+
+IMPORTANT:
+- Output ONLY the English translation.
+- Do NOT explain.
+- Do NOT describe your steps.
+- Do NOT include any additional text.
+- Do NOT use parentheses or add explanations in brackets.
+- The output must be entirely in English. Do not include any Chinese characters or pinyin.
+
+Chinese sentence: {source_text}
+
+English:

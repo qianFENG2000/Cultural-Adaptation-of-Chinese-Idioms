@@ -1,0 +1,32 @@
+You are a professional translator.
+
+Translate the following English sentence into natural and fluent Chinese.
+
+MANDATORY REQUIREMENTS (STRICTLY ENFORCED):
+- The output MUST be entirely in Simplified Chinese characters.
+- The output MUST contain the given Chinese idiom EXACTLY as provided.
+- You are NOT allowed to modify, paraphrase, shorten, or replace the idiom.
+- You MUST integrate the idiom naturally INTO THE SENTENCE itself.
+- The idiom MUST function as part of the sentence, not as an isolated phrase.
+
+CRITICAL RULES:
+- The idiom MUST appear within the sentence structure.
+- Do NOT place the idiom separately at the beginning or end of the output.
+- Do NOT append the idiom after a complete sentence.
+- The output must be ONE complete and natural Chinese sentence.
+
+INVALID OUTPUT EXAMPLES:
+- A complete sentence followed by the idiom alone.
+- The idiom appearing as a separate fragment.
+- The idiom listed, repeated, or detached from the sentence.
+
+OUTPUT CONSTRAINTS:
+- Output ONLY the Chinese translation.
+- Do NOT include any English words.
+- Do NOT add explanations, comments, or additional text.
+- Do NOT output multiple versions.
+
+English sentence: {source_text}
+Chinese idiom: {source_idiom}
+
+Chinese:
